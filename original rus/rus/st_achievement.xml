@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mod_ach_furry_lover_name">
+		<text>Ценитель искусства</text>
+	</string>
+	<string id="mod_ach_furry_lover_desc">
+		<text>Вы нашли спрятанный шедевр.</text>
+	</string>
+	<string id="mod_ach_furry_lover_hint">
+		<text>Вы истинный ценитель прекрасного!</text>
+	</string>
+	<string id="mod_ach_furry_lover_note">
+		<text>Вы получили достижение "Ценитель искусства"</text>
+	</string>
+	<string id="mod_ach_zavet_fav_name">
+		<text>Завет</text>
+	</string>
+	<string id="mod_ach_zavet_fav_desc">
+		<text>Рагуил изучил все заповеди. Это изменит его жизнь и жизнь Митрополита.</text>
+	</string>
+	<string id="mod_ach_zavet_fav_hint">
+		<text>Вы нашли все заповеди Митрополита.</text>
+	</string>
+	<string id="mod_ach_zavet_fav_note">
+		<text>Вы получили достижение "Завет"</text>
+	</string>
+	<string id="mod_ach_cassets_collector_name">
+		<text>Терапия</text>
+	</string>
+	<string id="mod_ach_cassets_collector_desc">
+		<text>Сеанс прошёл успешно?</text>
+	</string>
+	<string id="mod_ach_cassets_collector_hint">
+		<text>Вы нашли все кассеты на Кордоне.</text>
+	</string>
+	<string id="mod_ach_cassets_collector_note">
+		<text>Вы получили достижение "Терапия"</text>
+	</string>
+</string_table>

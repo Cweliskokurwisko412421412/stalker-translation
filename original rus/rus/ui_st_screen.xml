@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+
+
+	<string id="esc_ecolog_pda_note_2">
+		<text>Объект "Квазар" - нематериальная форма разумной природы, впервые зафиксированная после инцидента в зоне раскола реальности на глубине 480 метров под уровнем моря в карстовом образовании "Голова Сатурна". Внешне не проявляется, однако оказывает мощное психокогнитивное воздействие на всех, кто находится в радиусе её "взгляда" (термин условный). Характер влияния - вытягивание, обнажение и стимуляция подавленных импульсов, разрушительных эмоций и моральных отклонений субъекта.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_3">
+		<text>Объект не излучает электромагнитных волн, не поглощает свет и не фиксируется на камерах. Единственный способ его присутствия - поведенческие изменения людей рядом.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_5">
+		<text>На данный момент выдвинута рабочая гипотеза: "Квазар" - не самостоятельный разум в привычном понимании, а усилитель греха, энергетический резонатор, усиливающий низшие импульсы души. Это не существо, а катализатор морального разложения.\nВозможные объяснения:\n1) Квантово-психическая сущность, питающаяся когнитивными искажениями.\n2) Нечто, существующее "по ту сторону морали", не воспринимающее добро и зло, но усиливающее конфликт между ними.\n3) Иллюзорное зеркало, искажающее отражение человека, пока он сам не поверит в чудовище в нём.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_6">
+		<text>1) Подход к объекту должен осуществляться в сопровождении двух наблюдателей с автономной нейронной блокировкой.\n2) Не допускать лиц с расстройствами психики, религиозной экзальтацией и склонностью к вине.\n3) В случае вербального контакта с объектом запрещается отвечать - любая обратная речь вызывает усиление воздействия.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_7">
+		<text>С каждым новым сеансом мне всё сложнее отделять мысли от влияния объекта. Иногда, просматривая записи, я не узнаю своего голоса. Он звучит… увереннее. Умнее. Холоднее. Но он - не я. Я думаю, нет. Я надеюсь, что нет.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_41">
+		<text>Испытуемый №6 (охранник, возраст 41):\nЧерез 4 минуты после приближения к камере проявил устойчивые симптомы паранойи, затем приступ вербальной агрессии. На 9-й минуте признался в утоплении собственного брата в детстве. Через 12 минут попытался вскрыться, крича:\n"Я думал, я забыл… но оно заставило меня вспомнить!"</text>
+	</string>
+	<string id="esc_ecolog_pda_note_42">
+		<text>Испытуемая №12 (ассистентка, возраст 28):\nСначала демонстрировала тревожность, потом - трансобразное состояние. Говорила голосом, который не принадлежал ей:\n"В каждом из вас я как плесень. Вы гниёте, и я - ваше тепло."\nПосле пробуждения отказывалась говорить, глаза не фокусировались.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_43">
+		<text>Испытуемый №19 (доброволец, монах-иезуит):\nПроявил ярко выраженные садистские наклонности, признавался в мыслях насилия над прихожанами. После разрыва контакта с объектом плакал непрерывно в течение 6 часов. Повторный контакт вызвал судороги и полное торможение речи. Нейросканирование выявило новые нейронные связи в височной доле.</text>
+	</string>
+	<string id="esc_panatseya_message">
+		<text>%c[255,255,125,0]Плюш: %c[255,0,255,255]Мужик! Выручай! Я тяжело ранен, тут рядом лежит шприц, не могу дотянуться... Он поставит меня на ноги...</text>
+	</string>
+	<string id="esc_sidor_message">
+		<text>%c[255,255,125,0]Сидорович: %c[255,0,255,255]Бандюган, дуй ко мне. Есть разговор.</text>
+	</string>
+	<string id="esc_mind_main_task">
+		<text>Кажется, я позабыл о том, зачем вообще пришёл сюда... Вернусь-ка к Сидору и спрошу у него про Миссионера. Или может Коготь знает...</text>
+	</string>
+	<string id="esc_after_sleep_mind">
+		<text>Твою же... Какой же странный сон... А где док..? … Это был не сон..? Что за херню я видел? Я что, схожу с ума?</text>
+	</string>
+	<string id="esc_voenniy_anekdot_mind">
+		<text>А вот вы слышали про Нептуна историю? Нет? Дак я сейчас вам расскажу...</text>
+	</string>
+	<string id="esc_after_buhlo_mind">
+		<text>Ох... Неплохо посидели. Удивительно, но я чувствую себя прекрасно. Надо бы сходить к полковнику...</text>
+	</string>
+	<string id="esc_door_zapiska_joke_2">
+		<text>3 - ... - 2 - ...</text>
+	</string>
+	<string id="esc_glava_1_end_warn">
+		<text>Это ваша последняя возможность выполнить дополнительные задания. Вы уверены? Пути назад не будет.</text>
+	</string>
+	<string id="mod_message_note">
+		<text>Сообщение</text>
+	</string>
+	<string id="st_save_startgame_mod">
+		<text>начало игры</text>
+	</string>
+	<string id="mod_glava_1_name">
+		<text>Эпизод 1 - Пролог</text>
+	</string>
+	<string id="st_save_startgame_glava_1">
+		<text>эпизод 1 - Пролог</text>
+	</string>
+	<string id="st_save_kpp_glava_1">
+		<text>эпизод 1 - Мёртвый КПП</text>
+	</string>
+	<string id="st_save_into_lab_glava_1">
+		<text>эпизод 1 - В катакомбы</text>
+	</string>
+	<string id="mod_glava_1_subs_yes">
+		<text>%c[255,0,255,0]Теперь вы можете поговорить со всеми участниками банды.</text>
+	</string>
+	<string id="furry_choose_page">
+		<text>Выберите страницу</text>
+	</string>
+	<string id="esc_strange_sound_house">
+		<text>Что за..? Какой-то странный шум снизу.</text>
+	</string>
+	<string id="esc_freezer_dis_wtf">
+		<text>Какого? Куда он делся?!</text>
+	</string>
+	<string id="esc_kontrik_ask_wtf">
+		<text>Что... Что это было?</text>
+	</string>
+	<string id="esc_omg_dogs_novice">
+		<text>Это? С-собаки? Уб… Убей их!</text>
+	</string>
+	<string id="esc_mitropolit_message">
+		<text>%c[255,0,255,0]Теперь вы можете показывать записи Митрополита Рагуилу.</text>
+	</string>
+	<string id="esc_panatseya_message_1">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]Я не понимаю, как переключить БЛЯДСКИЙ канал?!</text>
+	</string>
+	<string id="esc_panatseya_message_2">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]П..ЖАЛ....СТА ПОМ......ТЕ МНЕ! МН.. ОЧЕ.... БОЛЬНО... БОЛЬ....!</text>
+	</string>
+	<string id="esc_panatseya_message_3">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]Пошёл ты нахер, Ирокез!</text>
+	</string>
+	<string id="esc_panatseya_message_4">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]Заткнись, Курага!</text>
+	</string>
+	<string id="esc_panatseya_message_5">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]*Просто помехи*</text>
+	</string>
+	<string id="esc_panatseya_message_6">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]УМРИ! УМРИ! УМРИ!</text>
+	</string>
+	<string id="esc_panatseya_message_7">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]Неужели тут нихрена нет? Как же так?</text>
+	</string>
+	<string id="esc_panatseya_message_8">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]*Просто помехи*</text>
+	</string>
+	<string id="esc_panatseya_message_real">
+		<text>%c[255,255,125,0]Устройство Плюша: %c[255,0,255,255]Встреча, как и договаривались, в доме напротив свинофермы. Не опаздывай, Свин... Надеюсь ты не забыл код? "В последнее время в Зоне выпало много радиоактивных осадков."</text>
+	</string>
+	<string id="mod_startgame_name">
+		<text>ГРАНЬ</text>
+	</string>
+	<string id="mod_startgame_text">
+		<text>Это проект, который будет пытаться показать Зону от лица разных людей.\nИзначально мод должен был иметь одну цельную историю и переключение между героями должно было просходить по ходу сюжета, однако некоторые технические трудности этому помешали.\nЭта Грань будет происходить отдельными эпизодами. Общий сюжет у всех эпизодов будет, однако они будут самодостаточны.\nЭпизоды будут выходить постепенно. Пусть они не будут такими большими, но они будут насыщенными. Во всяком случае, я попытаюсь сделать их таковыми.\nПо мере выхода эпизодов, прошлые, вероятно, будут пополняться новым контентом.\nОфициально мод распространяется ТОЛЬКО на AP-PRO и в телеграм канале разработчика https://t.me/scr1pthome.\n \n©ScR1pt & ©Ink</text>
+	</string>
+	<string id="mod_startgame_cont">
+		<text>Продолжить</text>
+	</string>
+	<string id="mod_choose_glava_game">
+		<text>Выберите эпизод</text>
+	</string>
+	<string id="mod_glava_1_page">
+		<text>1 - Пролог</text>
+	</string>
+	<string id="mod_glava_2_page">
+		<text>2 - ???</text>
+	</string>
+	<string id="mod_glava_3_page">
+		<text>3 - ???</text>
+	</string>
+	<string id="esc_sidor_pidoras">
+		<text>Сидор! Мне кажется ты не услышал наш прошлый разговор! Раз уж ты не понимаешь слова - будем играть по-плохому...</text>
+	</string>
+	<string id="lab_army_man_minds">
+		<text>Что-то не нравится мне это место...</text>
+	</string>
+	<string id="lab_zapiska_1_text">
+		<text>Новичок! У меня для тебя персональное задание! Так сказать - посвещение.\nУ нас тут новое оборудование поставили не так давно, прям-таки свежее. Твоя задача - покопаться в нём! Ты не боись, оно ещё не подключено к общей системе - шандарахнуть не должно. Ну, если ты залезешь в нужную часть. \nХа! Шучу! Тебе должны были выдать защитный костюм. Всё будет хорошо, зелень!</text>
+	</string>
+	<string id="lab_teleport_door_minds">
+		<text>Не могу пройти...</text>
+	</string>
+	<string id="mod_ui_out">
+		<text>Уйти</text>
+	</string>
+	<string id="mod_ui_fly_glava_1">
+		<text>Лететь</text>
+	</string>
+	<string id="mod_ui_back">
+		<text>Назад</text>
+	</string>
+	<string id="mod_ui_furry_1_p">
+		<text>1 Страница</text>
+	</string>
+	<string id="mod_ui_furry_2_p">
+		<text>2 Страница</text>
+	</string>
+	<string id="mod_ui_furry_3_p">
+		<text>3 Страница</text>
+	</string>
+	<string id="mod_ui_furry_4_p">
+		<text>4 Страница</text>
+	</string>
+	<string id="mod_ui_furry_5_p">
+		<text>5 Страница</text>
+	</string>
+	<string id="mod_ui_podopit_1">
+		<text>Подопытный "1"</text>
+	</string>
+	<string id="mod_ui_podopit_2">
+		<text>Подопытный "2"</text>
+	</string>
+	<string id="mod_ui_podopit_3">
+		<text>Подопытный "3"</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_1">
+		<text>Введение</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_2">
+		<text>Наблюдения</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_3">
+		<text>Подопытные</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_4">
+		<text>Теория</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_5">
+		<text>Рекомендации</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_6">
+		<text>Личное замечание</text>
+	</string>
+	<string id="mod_ui_casseta_1">
+		<text>Кассета "45"</text>
+	</string>
+	<string id="mod_ui_casseta_2">
+		<text>Кассета "16"</text>
+	</string>
+	<string id="mod_ui_casseta_3">
+		<text>Кассета "19"</text>
+	</string>
+	<string id="mod_ui_casseta_4">
+		<text>Кассета "132"</text>
+	</string>
+	<string id="mod_ui_casseta_5">
+		<text>Кассета "68"</text>
+	</string>
+	<string id="mod_ui_casseta_6">
+		<text>Кассета "2"</text>
+	</string>
+	<string id="lab_wtf_bro_how">
+		<text>%c[255,255,125,0]Хозяин Зоны: %c[255,0,255,255]Ты как тут оказался?</text>
+	</string>
+	<string id="lab_zapiska_nack_text">
+		<text>Если вы читаете это - значит, моё решение исполнено.\n \nЯ долго пытался убедить себя, что у нас есть выбор. Что всё это - ради науки, ради будущего, ради чего-то большего. Но в какой-то момент перестаёшь верить даже собственным оправданиям.\n \nМы перешли черту. Не сегодня, не вчера - гораздо раньше. Мы просто не заметили, как стали частью чего-то бесформенного, бесчеловечного, бесконечно холодного.\n \nЯ больше не могу участвовать в этом. Ни молчанием, ни подписями, ни приказами.\n \nПростите тех, кто остался. Некоторые из них всё ещё верят, что делают правильное.\n \nЕсли кто-то когда-то решит разобраться - начните с архивов за третий квартал. Там началось всё.\n \n"Молчание - тоже выбор."</text>
+	</string>
+	<string id="mod_ui_lab_nach_choose">
+		<text>Выберите запись</text>
+	</string>
+	<string id="mod_ui_laba_out_glava_1">
+		<text>Продолжить</text>
+	</string>
+	<string id="esc_laba_glava_1_end_warn">
+		<text>Вы уверены, что хотите покинуть катакомбы? Пути назад не будет.</text>
+	</string>
+	<string id="mod_ui_lab_nach_0">
+		<text>Введение</text>
+	</string>
+	<string id="mod_ui_lab_nach_1">
+		<text>Логистика</text>
+	</string>
+	<string id="mod_ui_lab_nach_2">
+		<text>Подопытные</text>
+	</string>
+	<string id="mod_ui_lab_nach_3">
+		<text>Жертвы</text>
+	</string>
+	<string id="mod_ui_lab_nach_4">
+		<text>Персонал</text>
+	</string>
+	<string id="mod_ui_lab_nach_5">
+		<text>Сбои</text>
+	</string>
+	<string id="mod_ui_lab_nach_6">
+		<text>Сторонние</text>
+	</string>
+	<string id="mod_ui_lab_nach_7">
+		<text>Этика</text>
+	</string>
+	<string id="mod_ui_lab_nach_8">
+		<text>Психология</text>
+	</string>
+	<string id="lab_zapiska_nach_1_text">
+		<text>Данный отчёт подводит промежуточные итоги исследований в рамках проекта "Наблюдение-12". Включены сведения о возникших логистических трудностях, нестабильности в поведении подопытных, уровне потерь среди испытуемых, а также об изменениях в составе персонала, технических сбоях и оценке морального состояния коллектива. Также приводятся данные о вмешательстве внешних структур и краткий анализ воздействия экспериментальных процедур на ход проекта.\nСаш, собери всё и прикрепи сюда!</text>
+	</string>
+	<string id="lab_zapiska_nach_3_text">
+		<text>Подземная железнодорожная ветка, соединяющая основной комплекс с внешними распределительными пунктами, вышла из строя на 11-й неделе проекта. Причины - обвалы в старых туннелях и подозрения на диверсию. Это привело к задержке доставки ключевых компонентов на срок до 19 суток. Некоторые образцы пришлось изымать из локальных запасов, что снизило точность экспериментов.</text>
+	</string>
+	<string id="lab_zapiska_nach_4_text">
+		<text>С момента запуска проекта наблюдается высокая степень нестабильности среди подопытных. Проявляются психосоматические расстройства, отказ от сотрудничества, а в нескольких случаях - самоповреждения. Попытки стабилизации с использованием стандартных средств показали кратковременный эффект. Протоколы были переписаны с усилением физического контроля.</text>
+	</string>
+	<string id="lab_zapiska_nach_5_text">
+		<text>На момент составления отчёта подтверждено 49 летальных исходов, включая 44 подопытных и 5 сотрудников низшего уровня допуска. 90% испытуемых ранее были осуждены за особо тяжкие преступления и добровольно выбрали участие в программе вместо смертной казни. Формально все документы были подписаны, однако фактическая осведомлённость участников остаётся под вопросом.</text>
+	</string>
+	<string id="lab_zapiska_nach_6_text">
+		<text>За последние 3 месяца зафиксировано 7 самовольных уходов сотрудников с 3–4 уровнями допуска. В неформальных отчётах упоминаются галлюцинации, ночные кошмары и необъяснимое ощущение "давления" в исследовательских секторах. Два сотрудника после выхода из комплекса были госпитализированы с острыми психозами.</text>
+	</string>
+	<string id="lab_zapiska_nach_7_text">
+		<text>Регулярные перебои в электропитании в секторе B привели к выходу из строя нескольких камер наблюдения и автоматических запорных механизмов. 14 июня зафиксировано проникновение подопытного в административную зону, что завершилось гибелью лаборанта ***. После инцидента установлены дополнительные уровни физической защиты.</text>
+	</string>
+	<string id="lab_zapiska_nach_8_text">
+		<text>Вмешательства сторонних сил никто не ждал. Сошлись на некоторых условиях, разглашать которые, по некоторым соображениям, никто не будет. Пришлось выделить помещение для них. Запросили кодовый замок. Нужно не забыть передать им, что код - 941523.</text>
+	</string>
+	<string id="lab_zapiska_nach_9_text">
+		<text>В ходе внутренней проверки были выявлены отклонения от утверждённых протоколов в части продолжительности воздействия и объёма применяемых агентов. Комиссия зафиксировала минимум четыре случая сознательного превышения лимитов. Расследование временно приостановлено по приказу вышестоящего куратора проекта.</text>
+	</string>
+	<string id="lab_zapiska_nach_10_text">
+		<text>Уровень тревожности среди персонала стремительно растёт. В разговорных записях и личных дневниках зафиксированы многочисленные упоминания фраз вроде: "это зашло слишком далеко", "мы не контролируем ситуацию" и "они начинают понимать". Психологическая служба больше не справляется с нагрузкой - требуется внешняя ротация специалистов.</text>
+	</string>
+	<string id="lab_quasar_message">
+		<text>Что-ж... Иди.</text>
+	</string>
+	<string id="glava_1_end_name">
+		<text>Самое страшное для человека - осознавать, что он сходит с ума.</text>
+	</string>
+	<string id="glava_2_end_name">
+		<text>Ещё страшнее понимать, что ты не можешь это остановить.</text>
+	</string>
+
+
+
+
+
+
+
+
+
+
+
+	<string id="st_save_startgame_mod_wz">
+		<text>отряд "Квазар"</text>
+	</string>
+	<string id="st_save_startgame_mod_der">
+		<text>история Корбена</text>
+	</string>
+	<string id="start_wz_mind_1">
+		<text>Что вообще такое реальность? Никто не может сказать точно, ведь каждый видит мир по-своему.</text>
+	</string>
+	<string id="start_wz_mind_12">
+		<text>Оттого и восприятие реальности у всех своё.</text>
+	</string>
+	<string id="start_wz_mind_2">
+		<text>В то же время на другом конце Зоны...</text>
+	</string>
+	<string id="wz_first_start_1">
+		<text>...база, приём!</text>
+	</string>
+	<string id="wz_first_start_2">
+		<text>*Помехи*</text>
+	</string>
+	<string id="wz_first_start_3">
+		<text>Повторяю: база, приём!</text>
+	</string>
+	<string id="wz_first_start_4">
+		<text>Млять...</text>
+	</string>
+	<string id="wz_first_start_5">
+		<text>Пятый, ты на входе!</text>
+	</string>
+	<string id="tip_take_zapiska_lab">
+		<text>%c[255,255,125,0]Собрать записи ($$ACTION_USE$$)</text>
+	</string>
+	<string id="radio_on">
+		<text>%c[255,255,125,0]Включить радио ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_take_nach_book">
+		<text>%c[255,255,125,0]Подобрать записи ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_magnitofon">
+		<text>%c[255,255,125,0]Включить магнитофон ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_stuk_dver">
+		<text>%c[255,255,125,0]Постучать ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_kpp_art">
+		<text>%c[255,255,125,0]Взять странный артефакт ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_zapiska_joke_2">
+		<text>%c[255,255,125,0]Прочитать записку ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_lab_door">
+		<text>%c[255,255,125,0]Открыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_flower_red">
+		<text>%c[255,255,125,0]Сорвать цветок ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_lab_trubi">
+		<text>%c[255,255,125,0]Обследовать ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_luk_out">
+		<text>%c[255,255,125,0]Убрать люк ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_check_secret_quest">
+		<text>%c[255,255,125,0]Проверить тайник ($$ACTION_USE$$)</text>
+	</string>
+	<string id="radio_off">
+		<text>%c[255,255,125,0]Выключить радио ($$ACTION_USE$$)</text>
+	</string>
+	<string id="wz_spy_dialog_1">
+		<text>Вот скажи, ну вот нахера нам эта херовина, если тут один хрен никого нет, кроме нас?</text>
+	</string>
+	<string id="wz_spy_dialog_2">
+		<text>Ты думаешь я знаю? Давай ковыряй, "программист", бля.</text>
+	</string>
+	<string id="wz_spy_dialog_3">
+		<text>Клянусь, я когда-нибудь тебе глотку вскрою за "программиста". Заебали уже, серьёзно.</text>
+	</string>
+	<string id="wz_spy_dialog_4">
+		<text>Гы-гы. А ты думаешь почему я до сих пор тебе это говорю при любом удобном случае?</text>
+	</string>
+	<string id="wz_spy_dialog_5">
+		<text>Тоже мне кореш...</text>
+	</string>
+	<string id="wz_spy_dialog_6">
+		<text>Всё-всё, не ной. Долго ты ещё эту железяку крутить будешь?</text>
+	</string>
+	<string id="wz_spy_dialog_7">
+		<text>Да погоди ты... Надо настроить так, чтобы глушило всё, кроме наших раций.</text>
+	</string>
+	<string id="bad_tool_der">
+		<text>%c[255,255,125,0]Инструмент в слишком плохом состоянии</text>
+	</string>
+	<string id="der_kanistra_tip">
+		<text>%c[255,255,125,0]Взять канистру ($$ACTION_USE$$)</text>
+	</string>
+	<string id="der_axe_tip">
+		<text>%c[255,255,125,0]Кажется, этот молоток в приличном состоянии.\nВзять молоток ($$ACTION_USE$$)</text>
+	</string>
+	<string id="take_benzin_tip">
+		<text>%c[255,255,125,0]Кажется, тут ещё осталось топливо.\nНабрать бензин ($$ACTION_USE$$)</text>
+	</string>
+	<string id="no_benzin_tip">
+		<text>%c[255,255,125,0]Топливо закончилось</text>
+	</string>
+	<string id="der_sub_bout_stranger_1">
+		<text>Что это, блять, было? Я схожу с ума?</text>
+	</string>
+	<string id="der_sub_bout_car">
+		<text>М-мать... неужели это всё Лиманск?</text>
+	</string>
+
+
+
+
+
+
+
+	<string id="quicksave">
+		<text>Быстрое сохранение</text>
+	</string>
+	<string id="actor_inventory_box_use">
+		<text>%c[255,255,125,0]Открыть личный ящик ($$ACTION_USE$$)</text>
+	</string>
+	<string id="cant_walk">
+		<text>Вы слишком истощены, чтобы двигаться</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>%c[255,255,125,0]Вы слишком перегружены, чтобы двигаться</text>
+	</string>
+	<string id="car_character_use">
+		<text>%c[255,255,125,0]Открыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>%c[255,255,125,0]Говорить ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>%c[255,255,125,0]Обыскать труп ($$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Задание выполнено:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Задание провалено:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Получен предмет:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Получены деньги:</text>
+	</string>
+	<string id="general_new_task">
+		<text>Новое задание:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Потерян предмет:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Потеряны деньги:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Задание отменено:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Задание обновлено:</text>
+	</string>
+	<string id="gun_jammed">
+		<text>Оружие заклинило. Нужно перезарядить.</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>%c[255,255,125,0]Обыскать ящик ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>%c[255,255,125,0]Поднять предмет ($$ACTION_USE$$)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>Спать</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>Вы не можете спать! У Вас опасное кровотечение и высокий уровень облучённости организма. Используйте медикаменты или обратитесь к медику.</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>Вы не можете спать! У Вас опасное кровотечение. Используйте медикаменты или обратитесь к медику.</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>Вы не можете спать! У Вас высокий уровень облучённости организма. Используйте медикаменты или обратитесь к медику.</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>Спать ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_autosave">
+		<text>Автосохранение...</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>Теперь можно достать оружие.</text>
+	</string>
+	<string id="st_codelock">
+		<text>Кодовый замок ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_game_over">
+		<text>Жизнь - самое ценное, что у нас есть...</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Пауза</text>
+	</string>
+	<string id="st_game_saved">
+		<text>Игра сохранена</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Опасный уровень радиации. Для прохода необходима защита.</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>%c[255,255,125,0]Обыскать тайник ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>ч</text>
+	</string>
+	<string id="st_tip">
+		<text>Сообщение</text>
+	</string>
+	<string id="tip_door_close">
+		<text>%c[255,255,125,0]Закрыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>%c[255,255,125,0]Дверь заперта</text>
+	</string>
+	<string id="tip_door_open">
+		<text>%c[255,255,125,0]Открыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>В Зоне недавно произошёл выброс.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>Получены координаты ранее найденного тайника</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>Найден тайник</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Получены координаты тайника</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>%c[255,255,125,0]Загрузка завершена</text>
+	</string>
+</string_table>

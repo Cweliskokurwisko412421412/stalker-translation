@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mod_minds">
+		<text>Мысли</text>
+	</string>
+	<string id="st_actor_name">
+		<text>Вы</text>
+	</string>
+	<string id="esc_trader">
+		<text>Сидорович</text>
+	</string>
+	<string id="st_actor_1_name">
+		<text>Вадим Инквизитор</text>
+	</string>
+	<string id="esc_bandit_1">
+		<text>Кислый</text>
+	</string>
+	<string id="esc_bandit_2">
+		<text>Корень</text>
+	</string>
+	<string id="esc_bandit_3">
+		<text>Пепел</text>
+	</string>
+	<string id="esc_bandit_4">
+		<text>Тёмный</text>
+	</string>
+	<string id="esc_bandit_5">
+		<text>Бутылка</text>
+	</string>
+	<string id="esc_bandit_6">
+		<text>Крюк</text>
+	</string>
+	<string id="esc_bandit_7">
+		<text>Порох</text>
+	</string>
+	<string id="esc_bandit_8">
+		<text>Светлый</text>
+	</string>
+	<string id="esc_bandit_9">
+		<text>Сушёный</text>
+	</string>
+	<string id="esc_bandit_10">
+		<text>Чабан</text>
+	</string>
+	<string id="esc_stalker_d_lead">
+		<text>Коготь</text>
+	</string>
+	<string id="esc_stalker_d_1">
+		<text>Лысый</text>
+	</string>
+	<string id="esc_stalker_d_2">
+		<text>Косяк</text>
+	</string>
+	<string id="esc_stalker_d_3">
+		<text>Лента</text>
+	</string>
+	<string id="esc_stalker_d_4">
+		<text>Душный</text>
+	</string>
+	<string id="esc_stalker_d_5">
+		<text>Дротик</text>
+	</string>
+	<string id="esc_stalker_ecolog">
+		<text>Доцент Кирк</text>
+	</string>
+	<string id="esc_stalker_ecolog_enemy">
+		<text>Неизвестный</text>
+	</string>
+	<string id="esc_stalker_thief">
+		<text>Горемыка</text>
+	</string>
+	<string id="esc_stalker_guard">
+		<text>Лапа</text>
+	</string>
+	<string id="esc_army_guard">
+		<text>Северский</text>
+	</string>
+	<string id="esc_army_leader">
+		<text>Полковник Козлов</text>
+	</string>
+	<string id="esc_army_help_to_1">
+		<text>Мучной</text>
+	</string>
+	<string id="esc_army_help_to_2">
+		<text>Травин</text>
+	</string>
+	<string id="esc_army_help_to_3">
+		<text>Гасай</text>
+	</string>
+	<string id="esc_stalker_svin_doc">
+		<text>Морфин</text>
+	</string>
+	<string id="esc_stalker_svin_dolg">
+		<text>Миссионер</text>
+	</string>
+	<string id="esc_stalker_svin_lead">
+		<text>Гильза</text>
+	</string>
+	<string id="esc_thing">
+		<text>...</text>
+	</string>
+	<string id="esc_dolbaeb">
+		<text>Вадик</text>
+	</string>
+	<string id="esc_stalker_panatseya">
+		<text>Плюш</text>
+	</string>
+	<string id="esc_stalker_bar_sit">
+		<text>Рагуил</text>
+	</string>
+	<string id="esc_army_random_1">
+		<text>Скиф</text>
+	</string>
+	<string id="esc_army_random_2">
+		<text>Синицын</text>
+	</string>
+	<string id="esc_army_random_3">
+		<text>Соколов</text>
+	</string>
+	<string id="esc_army_random_4">
+		<text>Воронов</text>
+	</string>
+	<string id="esc_army_random_5">
+		<text>Ястребов</text>
+	</string>
+	<string id="esc_army_random_6">
+		<text>Топоров</text>
+	</string>
+	<string id="esc_army_random_7">
+		<text>Денисов</text>
+	</string>
+	<string id="esc_army_random_8">
+		<text>Скат</text>
+	</string>
+	<string id="esc_army_random_9">
+		<text>Волков</text>
+	</string>
+	<string id="esc_army_random_10">
+		<text>Лисов</text>
+	</string>
+	<string id="esc_army_random_11">
+		<text>Зайцев</text>
+	</string>
+	<string id="esc_army_random_12">
+		<text>Цветков</text>
+	</string>
+	<string id="esc_army_random_13">
+		<text>Крылов</text>
+	</string>
+	<string id="esc_army_random_14">
+		<text>Сопов</text>
+	</string>
+	<string id="esc_army_random_15">
+		<text>Зебров</text>
+	</string>
+	<string id="esc_army_random_16">
+		<text>Никулин</text>
+	</string>
+	<string id="esc_army_random_17">
+		<text>Бурунов</text>
+	</string>
+	<string id="esc_army_random_18">
+		<text>Кириллов</text>
+	</string>
+	<string id="esc_army_tehnik">
+		<text>Гриша Гайка</text>
+	</string>
+	<string id="esc_stalker_random_1">
+		<text>Варвар</text>
+	</string>
+	<string id="esc_stalker_random_2">
+		<text>Тимур Клыгин</text>
+	</string>
+	<string id="esc_stalker_random_3">
+		<text>Фёдор Палагов</text>
+	</string>
+	<string id="esc_stalker_random_4">
+		<text>Никита Филин</text>
+	</string>
+	<string id="esc_stalker_random_5">
+		<text>Никита Спасибо</text>
+	</string>
+	<string id="esc_stalker_random_6">
+		<text>Рома Трюфель</text>
+	</string>
+	<string id="esc_stalker_random_7">
+		<text>Влад Морозов</text>
+	</string>
+	<string id="esc_stalker_random_8">
+		<text>Даниил Хантер</text>
+	</string>
+	<string id="esc_stalker_trader">
+		<text>Богдан Шевченко</text>
+	</string>
+	<string id="esc_stalker_tehnik">
+		<text>Маркс</text>
+	</string>
+	<string id="esc_stalker_barman">
+		<text>Крот</text>
+	</string>
+	<string id="esc_secret_door_corpse">
+		<text>Кондор</text>
+	</string>
+	<string id="esc_freedom_1">
+		<text>Типо Шадя</text>
+	</string>
+	<string id="esc_freedom_2">
+		<text>Андрей Маслина</text>
+	</string>
+	<string id="esc_freedom_3">
+		<text>Игорь АмНям</text>
+	</string>
+	<string id="esc_freedom_atp">
+		<text>Вячеслав Тринадцатый</text>
+	</string>
+	<string id="esc_freedom_lead">
+		<text>Саня Сопов</text>
+	</string>
+	<string id="esc_freedom_girl">
+		<text>Алиса</text>
+	</string>
+	<string id="esc_zombie_scene_1">
+		<text>Зотов</text>
+	</string>
+	<string id="esc_zombie_scene_2">
+		<text>Оракул</text>
+	</string>
+	<string id="esc_snaff_trader">
+		<text>Парцей</text>
+	</string>
+	<string id="esc_bandit_dolzhnik">
+		<text>Тыква</text>
+	</string>
+	<string id="esc_zasada_merc_bandit_1">
+		<text>Карась</text>
+	</string>
+	<string id="esc_zasada_merc_bandit_2">
+		<text>Окунь</text>
+	</string>
+	<string id="esc_corpse_menu_pashalka">
+		<text>Каа</text>
+	</string>
+	<string id="esc_aka_kontrik_novice">
+		<text>Ахахахахахаха</text>
+	</string>
+	<string id="esc_loh_novice_dialog">
+		<text>Влад</text>
+	</string>
+	<string id="esc_mitropolit">
+		<text>Митрополит</text>
+	</string>
+	<string id="esc_mercs_leader">
+		<text>Ворон</text>
+	</string>
+	<string id="esc_mercs_guard">
+		<text>Орёл</text>
+	</string>
+	<string id="esc_mercs_rand_1">
+		<text>Ястреб</text>
+	</string>
+	<string id="esc_mercs_rand_2">
+		<text>Воробей</text>
+	</string>
+	<string id="esc_mercs_rand_3">
+		<text>Сокол</text>
+	</string>
+	<string id="esc_army_losted">
+		<text>Мыло</text>
+	</string>
+	<string id="mod_broooooo">
+		<text>Твой Бро</text>
+	</string>
+	<string id="lab_merc_tunnel_1">
+		<text>Варан</text>
+	</string>
+	<string id="lab_merc_tunnel_2">
+		<text>Бритва</text>
+	</string>
+	<string id="lab_merc_tunnel_3">
+		<text>Берри</text>
+	</string>
+	<string id="lab_merc_tunnel_4">
+		<text>Демьян</text>
+	</string>
+	<string id="lab_merc_tunnel_5">
+		<text>Панцирь</text>
+	</string>
+	<string id="lbx_doctor">
+		<text>Левин</text>
+	</string>
+</string_table>

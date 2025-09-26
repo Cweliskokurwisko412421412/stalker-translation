@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="esc_save_panatseya_name">
+		<text>Сигнал есть: Спасти сталкера</text>
+	</string>
+	<string id="esc_save_panatseya_desc">
+		<text>Я получил SOS от сталкера на хуторе... Нужно поторопиться и помочь ему...</text>
+	</string>
+	<string id="esc_find_sig_panatseya_name">
+		<text>Сигнал есть: Найти сигналы на Кордоне</text>
+	</string>
+	<string id="esc_find_sig_panatseya_desc">
+		<text>Плюш дал мне некое устройство. Он сказал, что оно принимает какие-то сигналы по всему Кордону. Стоит с этим разобраться... Нужно поискать места, где он может принимать что-то интересное.</text>
+	</string>
+	<string id="esc_start_mod_quest_name">
+		<text>Хорошее начало: Поговорить с Пеплом</text>
+	</string>
+	<string id="esc_start_mod_quest_desc">
+		<text>Мы наконец-то прибыли на Кордон. Я немного отдохнул, нужно пойти и поговорить с Пеплом, обсудить дальнейший план.</text>
+	</string>
+	<string id="esc_start_mod_go_derev_name">
+		<text>Хорошее начало: Пойти в деревню с Корнем</text>
+	</string>
+	<string id="esc_start_mod_go_derev_desc">
+		<text>Пепел хочет заполучить деньги Сидора. Нужно пойти в деревню и выбить с него денег "за крышу".</text>
+	</string>
+	<string id="esc_start_mod_wait_to_bunk_name">
+		<text>Хорошее начало: Поговорить с Корнем</text>
+	</string>
+	<string id="esc_start_mod_wait_to_bunk_desc">
+		<text>Мы в деревне. Надо поговорить с Корнем.</text>
+	</string>
+	<string id="esc_start_mod_walk_to_sidor_name">
+		<text>Хорошее начало: Поговорить с Сидоровичем</text>
+	</string>
+	<string id="esc_start_mod_walk_to_sidor_desc">
+		<text>В деревне новички нас побаиваются. И правильно. Нефиг зелени этой мешаться под ногами. Нужно выбить с Сидора денег. Этот старый хер языком работать умеет, надо быть аккуратнее при переговорах.</text>
+	</string>
+	<string id="esc_start_mod_speak_band_name">
+		<text>Хорошее начало: Поговорить с Корнем</text>
+	</string>
+	<string id="esc_start_mod_speak_band_desc">
+		<text>Переговоры закончились. Нужно сообщить Корню.</text>
+	</string>
+	<string id="esc_start_mod_speak_lead_name">
+		<text>Хорошее начало: Вернуться к Пеплу</text>
+	</string>
+	<string id="esc_start_mod_speak_lead_desc">
+		<text>Нужно сообщить Пеплу о результатах переговоров.</text>
+	</string>
+	<string id="esc_bandit_electra_name">
+		<text>Электро: Поговорить с Чабаном</text>
+	</string>
+	<string id="esc_bandit_electra_desc">
+		<text>Чабан хочет что-то мне сказать. Скорее всего о той своей шумящей штуке.</text>
+	</string>
+	<string id="esc_bandit_ele_go_to_name">
+		<text>Электро: Проследовать за бандитом</text>
+	</string>
+	<string id="esc_bandit_ele_go_to_desc">
+		<text>Чабан, кажется, понял как открыть свою херню. Нужно проследовать за ним.</text>
+	</string>
+	<string id="esc_bandit_ele_wait_name">
+		<text>Электро: Подождать</text>
+	</string>
+	<string id="esc_bandit_ele_wait_desc">
+		<text>Просто жди. Ты дурак?</text>
+	</string>
+	<string id="esc_bandit_ele_back_name">
+		<text>Электро: Провести Чабана до костра</text>
+	</string>
+	<string id="esc_bandit_ele_back_desc">
+		<text>Чабана ударило током. Видимо, в этой штуке была закрыта часть аномалии "Электра". Твою мать... сильно ему прилетело. Хорошо хоть выжил.</text>
+	</string>
+	<string id="esc_back_to_sidor_main_name">
+		<text>Внезапная работа: Поговорить с Сидоровичем</text>
+	</string>
+	<string id="esc_back_to_sidor_main_desc">
+		<text>Сидорович хочет предложить мне работу. С чего бы мне? Нужно быть осторожнее.</text>
+	</string>
+	<string id="esc_out_bunk_name">
+		<text>Внезапная работа: Покинуть бункер</text>
+	</string>
+	<string id="esc_out_bunk_desc">
+		<text>Я выслушал Сидоровича. Нужно покинуть бункер.</text>
+	</string>
+	<string id="esc_speak_ab_mis_name">
+		<text>Долги: Разузнать про Миссионера</text>
+	</string>
+	<string id="esc_speak_ab_mis_desc">
+		<text>Я внезапно вспомнил о том, что пришёл на Кордон, чтобы найти Миссионера. Нужно распросить Сидоровича или Когтя в деревне.</text>
+	</string>
+	<string id="esc_find_kogot_balbesi_name">
+		<text>Потеряшки: Найти новичков из деревни</text>
+	</string>
+	<string id="esc_find_kogot_balbesi_desc">
+		<text>Коготь попросил найти ушедших из деревни новичков. Они не далеко.</text>
+	</string>
+	<string id="esc_kogot_back_name">
+		<text>Потеряшки: Вернуться к Когтю</text>
+	</string>
+	<string id="esc_kogot_back_desc">
+		<text>Новички найдены. Жив, правда, только один. Убил он своего друга. Мда. Ну да ладно, надо сообщить Когтю.</text>
+	</string>
+	<string id="esc_bring_money_kogot_name">
+		<text>Плата: Заплатить Когтю 10 тысяч</text>
+	</string>
+	<string id="esc_bring_money_kogot_desc">
+		<text>Коготь расскажет про Миссионера, если я заплачу ему 10 тысяч денег. Нужно принести ему их.</text>
+	</string>
+	<string id="esc_check_grave_name">
+		<text>Долги: Проверить могилу ночью</text>
+	</string>
+	<string id="esc_check_grave_desc">
+		<text>Коготь дал наводку на могилу, где каждую ночь в промежутке с 22:00 до 3:00 может быть Миссионер. Нужно подловить его в это время.</text>
+	</string>
+	<string id="esc_kill_thief_name">
+		<text>Долги: Убить и обыскать сталкера</text>
+	</string>
+	<string id="esc_kill_thief_desc">
+		<text>Нужно убить и осмотреть сталкера.</text>
+	</string>
+	<string id="esc_find_trava_name">
+		<text>Травник: Найти траву в тайнике</text>
+	</string>
+	<string id="esc_find_trava_desc">
+		<text>Миссионер болен "Свалочной оспой". Нужно собрать траву для лекарства.</text>
+	</string>
+	<string id="esc_find_flower_name">
+		<text>Травник: Найти Алый цветок</text>
+	</string>
+	<string id="esc_find_flower_desc">
+		<text>Миссионер болен "Свалочной оспой". Нужно собрать Алый цветок для лекарства.</text>
+	</string>
+	<string id="esc_go_to_guard_hello_name">
+		<text>Травник: Поговорить с охранником</text>
+	</string>
+	<string id="esc_go_to_guard_hello_desc">
+		<text>Я собрал всё для лекарства для Миссионера. Нужно отнести их на свиноферму.</text>
+	</string>
+	<string id="esc_check_guard_secret_name">
+		<text>Травник: Обыскать тайник охранника</text>
+	</string>
+	<string id="esc_check_guard_secret_desc">
+		<text>Охранник не хочет пускать меня... Нужно найти ему бухло. Алкаш херов, сука. Ладно, это не очень далеко. Сбегаю.</text>
+	</string>
+	<string id="esc_back_guard_alco_name">
+		<text>Травник: Принести самогон охраннику</text>
+	</string>
+	<string id="esc_back_guard_alco_desc">
+		<text>Самогон забрал. Может плюнуть в него? Раздражает меня этот охранник.</text>
+	</string>
+	<string id="esc_go_to_doc_name">
+		<text>Травник: Передать доктору травы</text>
+	</string>
+	<string id="esc_go_to_doc_desc">
+		<text>Я прошёл на ферму. Теперь нужно передать травы доктору.</text>
+	</string>
+	<string id="esc_go_sleep_name">
+		<text>Травник: Вздремнуть</text>
+	</string>
+	<string id="esc_go_sleep_desc">
+		<text>Нужно отдохнуть и дождаться, пока Миссионер очнётся.</text>
+	</string>
+	<string id="esc_speak_leader_svin_name">
+		<text>Побег: Поговорить с Гильзой</text>
+	</string>
+	<string id="esc_speak_leader_svin_desc">
+		<text>Что это было? Мне это приснилось? Нужно поговорить с Гильзой.</text>
+	</string>
+	<string id="esc_find_missioner_name">
+		<text>Побег: Найти Миссионера</text>
+	</string>
+	<string id="esc_find_missioner_desc">
+		<text>Миссионер сбежал... Сука... Я найду его, чего бы мне это не стоило. Этот ублюдок заплатит...</text>
+	</string>
+	<string id="esc_jump_to_puzir_name">
+		<text>Побег: Прыгнуть в пузырь над мостом</text>
+	</string>
+	<string id="esc_jump_to_puzir_desc">
+		<text>Горемыка подсказал, что Миссионер прыгнул в пузырь над мостом. Я за ним.</text>
+	</string>
+	<string id="esc_go_to_voenniy_name">
+		<text>Катакомбы: Поговорить с военными</text>
+	</string>
+	<string id="esc_go_to_voenniy_desc">
+		<text>В КПК некого учёного упоминается лаборатория. Что-ж... Видимо придётся попросить помощи у старых друзей.</text>
+	</string>
+	<string id="esc_army_leader_hello_name">
+		<text>Катакомбы: Поговорить с полковником</text>
+	</string>
+	<string id="esc_army_leader_hello_desc">
+		<text>Старые друзья приняли меня тепло. Наверное. Надеюсь с полковником договоримся.</text>
+	</string>
+	<string id="esc_final_wait_mod_quest_name">
+		<text>Катакомбы: Помочь военным</text>
+	</string>
+	<string id="esc_final_wait_mod_quest_desc">
+		<text>Полковник согласился взять меня в лабораторию. Но нужно помочь трём военным с аванпоста.</text>
+	</string>
+	<string id="esc_final_helped_army_name">
+		<text>Весёлая ночка: Поговорить с полковником</text>
+	</string>
+	<string id="esc_final_helped_army_desc">
+		<text>Я помог всем на блокпосте. Нужно поговорить с полковником.</text>
+	</string>
+	<string id="esc_go_to_drunk_name">
+		<text>Весёлая ночка: Выпить за костром</text>
+	</string>
+	<string id="esc_go_to_drunk_desc">
+		<text>Перед операцией военные хотят выпить вместе. Я бы хотел к ним присоединиться.</text>
+	</string>
+	<string id="esc_back_to_polk_name">
+		<text>Весёлая ночка: Вернуться к полковнику</text>
+	</string>
+	<string id="esc_back_to_polk_desc">
+		<text>Пьянка прошла... неплохо. Чувствую себя отлично. Нужно поговорить с полковником.</text>
+	</string>
+	<string id="esc_talk_ab_drunk_army_name">
+		<text>Весёлая ночка: Поговорить с военным</text>
+	</string>
+	<string id="esc_talk_ab_drunk_army_desc">
+		<text>Нужно поговорить с парнями и узнать, готовы ли они лететь.</text>
+	</string>
+	<string id="esc_army_go_to_heli_name">
+		<text>Весёлая ночка: Сесть в вертолёт</text>
+	</string>
+	<string id="esc_army_go_to_heli_desc">
+		<text>Все готовы. Нужно садиться в вертолёт и вылетать со всеми.</text>
+	</string>
+	<string id="esc_find_planshet_name">
+		<text>Милый и Пушистый: Найти планшет</text>
+	</string>
+	<string id="esc_find_planshet_desc">
+		<text>Сталкер Лента попросил найти его графический планшет и пообещал взамен мне что-то интересное... Где же его, блин, искать? Лента говорит, что планшет где-то на южной части Кордона. Севернее ЖД искать смысла нет.</text>
+	</string>
+	<string id="esc_back_planshet_name">
+		<text>Милый и Пушистый: Вернуть планшет</text>
+	</string>
+	<string id="esc_back_planshet_desc">
+		<text>Я нашёл планшет. Нужно вернуть его Ленте.</text>
+	</string>
+	<string id="esc_check_strange_house_sound_name">
+		<text>Старые друзья: Проверить шум</text>
+	</string>
+	<string id="esc_check_strange_house_sound_desc">
+		<text>После открытия двери я услышал какой-то странный шум на нижнем этаже... Нужно проверить что там.</text>
+	</string>
+	<string id="esc_stalker_zombies_scene_name">
+		<text>Старые друзья: Проверить лагерь ночью</text>
+	</string>
+	<string id="esc_stalker_zombies_scene_desc">
+		<text>В КПК трупа указан некий лагерь, где он должен встретить "Старых друзей". Стоит проверить это место ночью.</text>
+	</string>
+	<string id="esc_strange_house_find_key_name">
+		<text>Тук-Тук: Поговорить со Светлым</text>
+	</string>
+	<string id="esc_strange_house_find_key_desc">
+		<text>Светлый говорил, что нашёл ключ. А новичок в деревне ключ потерял... Пазл в голове сам складывается, не так ли?</text>
+	</string>
+	<string id="esc_open_derev_house_name">
+		<text>Тук-Тук: Открыть дверь в деревне</text>
+	</string>
+	<string id="esc_open_derev_house_desc">
+		<text>Ключ у меня. Нужно открыть дверь в деревне.</text>
+	</string>
+	<string id="esc_check_derev_house_name">
+		<text>Тук-Тук: Осмотреть дом</text>
+	</string>
+	<string id="esc_check_derev_house_desc">
+		<text>Я внутри. За мной захлопнулась дверь и не открывается... Ладно, надо осмотреть дом.</text>
+	</string>
+	<string id="esc_back_book_novice_name">
+		<text>Тук-Тук: Отдать книгу новичку</text>
+	</string>
+	<string id="esc_back_book_novice_desc">
+		<text>В доме была странная книга. Надо вернуть её новичку</text>
+	</string>
+	<string id="esc_back_bandit_8_key_name">
+		<text>Тук-Тук: Отдать Светлому один из артефактов</text>
+	</string>
+	<string id="esc_back_bandit_8_key_desc">
+		<text>Новичок дал в награду два артефакта - Рубин и Сапфир. Вместе они, увы, просто безделушки. Нужно отдать Светлому один из артов, чтобы они проявляли свои свойства. Всё равно обещал ему долю.</text>
+	</string>
+	<string id="esc_talk_with_freedom_lead_name">
+		<text>Мёртвый Анархист: Встретиться с лидером отряда Свободовцев</text>
+	</string>
+	<string id="esc_talk_with_freedom_lead_desc">
+		<text>Свобода на Кордоне? Что-то интересное. Кажется, у них есть работа, за которую пообещали хорошую оплату...</text>
+	</string>
+	<string id="esc_meet_snaff_trader_name">
+		<text>Мёртвый Анархист: Встретиться с продавцом "снаффа"</text>
+	</string>
+	<string id="esc_meet_snaff_trader_desc">
+		<text>Кто-то заказывает "снафф" со "Свободовцами". Нужно встретиться с продавцом и попытаться через него выйти на заказчика.</text>
+	</string>
+	<string id="esc_kill_trader_snaff_name">
+		<text>Мёртвый Анархист: Убить Парцея</text>
+	</string>
+	<string id="esc_kill_trader_snaff_desc">
+		<text>Ублюдок связан со всей торговлей "Снаффом". Его нужно убить.</text>
+	</string>
+	<string id="esc_back_to_freedom_lead_name">
+		<text>Мёртвый Анархист: Вернуться к Сопову</text>
+	</string>
+	<string id="esc_back_to_freedom_lead_desc">
+		<text>Нужно передать Сопову всё то, что я узнал от продавца "Снаффа".</text>
+	</string>
+	<string id="esc_check_strange_art_most_name">
+		<text>Цвет голубых очей: Осмотреть место свечения</text>
+	</string>
+	<string id="esc_check_strange_art_most_desc">
+		<text>Нужно осмотреть место, где Сушёный видел свечение ночью.</text>
+	</string>
+	<string id="esc_back_art_back_most_name">
+		<text>Цвет голубых очей: Отдать артефакт Сушёному</text>
+	</string>
+	<string id="esc_back_art_back_most_desc">
+		<text>Что это было? Артефакт меня телепортировал? Нужно показать его Сушёному.</text>
+	</string>
+	<string id="esc_find_art_bandit_atp_name">
+		<text>Цвет голубых очей: Найти Сушёного</text>
+	</string>
+	<string id="esc_find_art_bandit_atp_desc">
+		<text>Сушёный пропал. Артефакт его телепортировал... Сука, это ведь было очевидно... Нужно найти его.</text>
+	</string>
+	<string id="esc_speak_with_bandit_atp_art_name">
+		<text>Цвет голубых очей: Поговорить Сушёного</text>
+	</string>
+	<string id="esc_speak_with_bandit_atp_art_desc">
+		<text>Сушёный спасён. Нужно обсудить с ним произошедшее.</text>
+	</string>
+	<string id="esc_meet_bandit_dolzhnik_name">
+		<text>У вас задолженность: Встретиться с должником</text>
+	</string>
+	<string id="esc_meet_bandit_dolzhnik_desc">
+		<text>Какой-то сталкер задолжал братку. Надо сходить и забрать артефакт "Золотая Рыбка".</text>
+	</string>
+	<string id="esc_check_dolzhnik_tainik_name">
+		<text>У вас задолженность: Проверить тайник должника</text>
+	</string>
+	<string id="esc_check_dolzhnik_tainik_desc">
+		<text>Чувствую, что этот хрен что-то задумал. Но вот что?</text>
+	</string>
+	<string id="esc_kill_zasada_mercs_name">
+		<text>У вас задолженность: Убить наёмников</text>
+	</string>
+	<string id="esc_kill_zasada_mercs_desc">
+		<text>Нужно убить наёмников.</text>
+	</string>
+	<string id="esc_check_bandit_dolzhnik_place_name">
+		<text>У вас задолженность: Проверить должника</text>
+	</string>
+	<string id="esc_check_bandit_dolzhnik_place_desc">
+		<text>Этот мудак устроил засаду. Как я понимаю, предназначалась она не для меня. Нужно проверить, на месте ли Тыква.</text>
+	</string>
+	<string id="esc_take_golden_fish_dolzhnik_name">
+		<text>У вас задолженность: Обыскать тело должника</text>
+	</string>
+	<string id="esc_take_golden_fish_dolzhnik_desc">
+		<text>Мне кажется, что Тыква меня обманывает. Я убил его. Нужно обыскать тело.</text>
+	</string>
+	<string id="esc_back_to_bandit_dolg_name">
+		<text>У вас задолженность: Вернуться к бандиту</text>
+	</string>
+	<string id="esc_back_to_bandit_dolg_desc">
+		<text>Нужно вернуться к братку и рассказать о произошедшем.</text>
+	</string>
+	<string id="esc_check_noviced_contrik_place_name">
+		<text>Мозголомство: Проверить место, где были новички</text>
+	</string>
+	<string id="esc_check_noviced_contrik_place_desc">
+		<text>Новичок попросил осмотреть место, где он убил своего друга.</text>
+	</string>	
+	<string id="esc_check_freezer_name">
+		<text>Мозголомство: Найти холодильник</text>
+	</string>
+	<string id="esc_check_freezer_desc">
+		<text>Что это было? У меня в рюкзаке появилась записка... Кажется, продолжение в холодильнике в одном из погребов деревне новичков. Код от замка - 4145.</text>
+	</string>	
+	<string id="esc_check_underground_contrik_name">
+		<text>Мозголомство: Осмотреть подземелье</text>
+	</string>
+	<string id="esc_check_underground_contrik_desc">
+		<text>Записка гласит о некой встрече в подземелье около Разрушенного хутора... Нужно отправиться туда.</text>
+	</string>	
+	<string id="esc_back_to_novice_contrik_name">
+		<text>Мозголомство: Вернуться к новичку</text>
+	</string>
+	<string id="esc_back_to_novice_contrik_desc">
+		<text>Это всё были проделки контролёра... Стоило догадаться. Но... как он мог управлять моим сознанием и сознанием того новичка с такого расстояния? Не особо понятно...</text>
+	</string>
+	<string id="esc_talk_with_scientist_name">
+		<text>О нет, замеры!: Поговорить с учёным</text>
+	</string>
+	<string id="esc_talk_with_scientist_desc">
+		<text>Я решил поработать на Сидоровича. Первое задание - охранять учёного, пока тот делает какие-то замеры или типо того.</text>
+	</string>
+	<string id="esc_wait_scientist_name">
+		<text>О нет, замеры!: Охранять учёного</text>
+	</string>
+	<string id="esc_wait_scientist_desc">
+		<text>Я решил поработать на Сидоровича. Первое задание - охранять учёного, пока тот делает какие-то замеры или типо того.</text>
+	</string>
+	<string id="esc_scientist_out_sidor_name">
+		<text>О да, замеров нет?: Рассказать Сидоровичу о произошедшем</text>
+	</string>
+	<string id="esc_scientist_out_sidor_desc">
+		<text>Учёный пропал... Нужно рассказать об этом Сидоровичу.</text>
+	</string>
+	<string id="esc_meet_the_novice_name">
+		<text>Свежая кровь: Встретить новичка</text>
+	</string>
+	<string id="esc_meet_the_novice_desc">
+		<text>В Зону пришёл новичок. Нужно встретить его и провести до деревни.</text>
+	</string>
+	<string id="esc_follow_novice_sidor_name">
+		<text>Свежая кровь: Провести новичка в деревню</text>
+	</string>
+	<string id="esc_follow_novice_sidor_desc">
+		<text>В Зону пришёл новичок. Нужно провести до деревни.</text>
+	</string>
+	<string id="esc_kill_dogs_name">
+		<text>Свежая кровь: Убить собак</text>
+	</string>
+	<string id="esc_kill_dogs_desc">
+		<text>На пути попались собаки. Нужно убить их.</text>
+	</string>
+	<string id="esc_wtf_novice_sidor_name">
+		<text>Свежая кровь: Поговорить с новичком</text>
+	</string>
+	<string id="esc_wtf_novice_sidor_desc">
+		<text>Новичок встал и что-то рассматривает. Нужно узнать, что он там увидел.</text>
+	</string>
+	<string id="esc_kill_boar_novice_name">
+		<text>Свежая кровь: Убить кабана</text>
+	</string>
+	<string id="esc_kill_boar_novice_desc">
+		<text>Внезапно появился кабан. Нужно убить его.</text>
+	</string>
+	<string id="esc_speak_novice_end_name">
+		<text>Свежая кровь: Поговорить с новичком</text>
+	</string>
+	<string id="esc_speak_novice_end_desc">
+		<text>Кабан мёртв. Мы уже рядом с деревней. Нужно довести новичка до неё.</text>
+	</string>
+	<string id="esc_back_to_sidor_novice_name">
+		<text>Свежая кровь: Рассказать Сидоровичу о ситуации</text>
+	</string>
+	<string id="esc_back_to_sidor_novice_desc">
+		<text>Новичок просто сбежал! Испугался кабана! А сколько амбиций было... Нету слов - одни эмоции. Нужно рассказать Сидоровичу.</text>
+	</string>
+	<string id="esc_check_underground_strange_name">
+		<text>Здесь людей е...: Осмотреть подвал</text>
+	</string>
+	<string id="esc_check_underground_strange_desc">
+		<text>Я пробрался через баррикады в подвале склада деревни новичков. Нужно осмотреть его.</text>
+	</string>
+	<string id="esc_meet_mercs_name">
+		<text>Сигнал есть: Встретиться с неизвестными</text>
+	</string>
+	<string id="esc_meet_mercs_desc">
+		<text>Я поймал какой-то сигнал. Кажется, кто-то только что пришёл в дом напротив фермы. Там же, где я нашёл Плюша. Нужно встретиться с ними.</text>
+	</string>
+	<string id="esc_speak_mercs_lead_name">
+		<text>Сигнал есть: Поговорить с лидером наёмников</text>
+	</string>
+	<string id="esc_speak_mercs_lead_desc">
+		<text>Я пришёл к наёмникам. Нужно выяснить, что они тут делают.</text>
+	</string>
+	<string id="esc_back_to_panatseya_final_name">
+		<text>Сигнал есть: Вернуться к Плюшу</text>
+	</string>
+	<string id="esc_back_to_panatseya_final_desc">
+		<text>Меня вырубили. Вещи на месте, что удивительно. Жаль, что теперь я не узнаю, что они замышляют.</text>
+	</string>
+	<string id="esc_find_item_1_army_name">
+		<text>Вечные муки: Найти пистолет</text>
+	</string>
+	<string id="esc_find_item_1_army_desc">
+		<text>Военный оставил пистолет посреди минного поля. Как?! Не знаю. Он должен быть у поваленного дерева у забора. Надо аккуратно забрать его.</text>
+	</string>
+	<string id="esc_back_item_1_army_name">
+		<text>Вечные муки: Вернуть пистолет</text>
+	</string>
+	<string id="esc_back_item_1_army_desc">
+		<text>Я нашёл пистолет. Надо выбираться с поля и отдать пистолет военному.</text>
+	</string>
+	<string id="esc_find_item_2_army_name">
+		<text>Травоман: Найти зажигалку на блокпосте</text>
+	</string>
+	<string id="esc_find_item_2_army_desc">
+		<text>Военный где-то потерял зажигалку на блокпосте. Нужно найти её. О боже...</text>
+	</string>
+	<string id="esc_back_item_2_army_name">
+		<text>Травоман: Вернуть зажигалку</text>
+	</string>
+	<string id="esc_back_item_2_army_desc">
+		<text>Я нашёл зажигалку. И ста лет не прошло...</text>
+	</string>
+	<string id="esc_find_losted_army_name">
+		<text>Дневник будущего: Найти потерявшегося военного</text>
+	</string>
+	<string id="esc_find_losted_army_desc">
+		<text>Военный сошёл с ума и ушёл до элеватора. Нужно найти его.</text>
+	</string>
+	<string id="esc_kill_chimera_army_name">
+		<text>Дневник будущего: Убить химеру</text>
+	</string>
+	<string id="esc_kill_chimera_army_desc">
+		<text>Химера! Нужно убить её.</text>
+	</string>
+	<string id="esc_talk_with_losted_army_name">
+		<text>Дневник будущего: Поговорить с военным</text>
+	</string>
+	<string id="esc_talk_with_losted_army_desc">
+		<text>Химера мертва. Нужно поговорить с военным.</text>
+	</string>
+	<string id="esc_final_3_army_quest_end_name">
+		<text>Дневник будущего: Доложить военному о выполнении</text>
+	</string>
+	<string id="esc_final_3_army_quest_end_desc">
+		<text>Военный спасён. Нужно сказать Гасаю об этом.</text>
+	</string>
+	<string id="esc_final_1_army_quest_name">
+		<text>Вечные муки: Поговорить с Мучным</text>
+	</string>
+	<string id="esc_final_1_army_quest_desc">
+		<text>Нужно поговорить с Мучным.</text>
+	</string>
+	<string id="esc_final_2_army_quest_name">
+		<text>Травоман: Поговорить с Травиным</text>
+	</string>
+	<string id="esc_final_2_army_quest_desc">
+		<text>Нужно поговорить с Травиным.</text>
+	</string>
+	<string id="esc_final_3_army_quest_name">
+		<text>Дневник будущего: Поговорить с Гасаем</text>
+	</string>
+	<string id="esc_final_3_army_quest_desc">
+		<text>Нужно поговорить с Гасаем.</text>
+	</string>
+	<string id="esc_check_trader_dead_name">
+		<text>Мечта многих: Проверить Сидоровича</text>
+	</string>
+	<string id="esc_check_trader_dead_desc">
+		<text>Сидор долго не выходил на связь. Нужно проверить его.</text>
+	</string>
+	<string id="esc_speak_with_kogot_trader_dead_name">
+		<text>Мечта многих: Поговорить с Когтем</text>
+	</string>
+	<string id="esc_speak_with_kogot_trader_dead_desc">
+		<text>Сидоровича нет. Нужно спросить у Когтя, куда он пропал.</text>
+	</string>
+	<string id="lab_main_task_name">
+		<text>Страх неизвестности: Пройти через катакомбы</text>
+	</string>
+	<string id="lab_main_task_desc">
+		<text>Нужно пробираться через катакомбы до лаборатории.</text>
+	</string>
+	<string id="lab_final_doors_open_name">
+		<text>Страх неизвестности: Найти способ открыть дверь</text>
+	</string>
+	<string id="lab_final_doors_open_desc">
+		<text>Нужно пробираться через катакомбы до лаборатории.</text>
+	</string>
+	<string id="lab_take_nach_book_name">
+		<text>Страх неизвестности: Подобрать записи</text>
+	</string>
+	<string id="lab_take_nach_book_desc">
+		<text>Нужно подобрать записи.</text>
+	</string>
+	<string id="lab_final_door_destroyed_name">
+		<text>Страх неизвестности: Покинуть катакомбы</text>
+	</string>
+	<string id="lab_final_door_destroyed_desc">
+		<text>Нужно покинуть катакомбы по готовности.</text>
+	</string>
+	<string id="lbx_kill_everybody_name">
+		<text>Момент расплаты: Убить всех</text>
+	</string>
+	<string id="lbx_kill_everybody_desc">
+		<text>Нужно убить всех, кто встанет на своём пути.</text>
+	</string>
+	<string id="lbx_find_dollzhnik_name">
+		<text>Момент расплаты: Найти Миссионера</text>
+	</string>
+	<string id="lbx_find_dollzhnik_desc">
+		<text>Я убью его.</text>
+	</string>
+	<string id="lbx_kill_dollzhnik_name">
+		<text>Момент расплаты: Убить Миссионера</text>
+	</string>
+	<string id="lbx_kill_dollzhnik_desc">
+		<text>Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри. Умри.</text>
+	</string>
+	<string id="lbx_kill_thing_name">
+		<text>Момент расплаты: Убить «Квазара»</text>
+	</string>
+	<string id="lbx_kill_thing_desc">
+		<text>УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ. УМРИ.</text>
+	</string>
+</string_table>

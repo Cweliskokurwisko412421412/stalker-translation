@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mod_info">
+		<text>Информация</text>
+	</string>
+	<string id="mod_thx_4_playing">
+		<text>Спасибо за прохождение!</text>
+	</string>
+	<string id="mod_developer">
+		<text>Разработчики</text>
+	</string>
+	<string id="mod_scr1pt">
+		<text>ScR1pt</text>
+	</string>
+	<string id="mod_ink">
+		<text>Ink</text>
+	</string>
+	<string id="mod_content">
+		<text>Благодарности:</text>
+	</string>
+	<string id="mod_axr">
+		<text>AdvancedXRay + G.S.W.R.</text>
+	</string>
+	<string id="mod_stcop">
+		<text>STCoP 3.7</text>
+	</string>
+	<string id="mod_voice_smot">
+		<text>SMOT - Озвучка</text>
+	</string>
+	<string id="mod_voice_wolf">
+		<text>Wolfstalker - Озвучка</text>
+	</string>
+	<string id="mod_appro">
+		<text>Форуму AP-PRO и его обитателям</text>
+	</string>
+	<string id="mod_others_thanks">
+		<text>Всем прочим, чьи наработки использовались</text>
+	</string>
+	<string id="mod_donations_thx">
+		<text>Благодарность за поддержку</text>
+	</string>
+	<string id="mod_donations_text">
+		<text>Многие донатили анонимно и таких людей было немало. Но я искренне благодарен всем тем, кто это делал!</text>
+	</string>
+	<string id="mod_about_tg">
+		<text>Следите за обновлениями в Telegram</text>
+	</string>
+	<string id="mod_my_tg">
+		<text>https://t.me/scr1pthome</text>
+	</string>
+	<string id="mod_music_only">
+		<text>Дальше будет только музыка :)</text>
+	</string>
+</string_table>

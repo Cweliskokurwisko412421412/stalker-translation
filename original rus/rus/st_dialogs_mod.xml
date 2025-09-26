@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="esc_trader_hello_dialog">
+		<text>Чего тебе?</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_0">
+		<text>%c[255,255,125,0]Ты просил подойти к тебе, когда отдохну.</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_1">
+		<text>Да. Значит, смотри: Ты, и ещё пара пацанов чешете в деревню зелёных. Они уже ждут тебя и в курсе всего. Особо стволами не размахивайте и не буяньте! Эта зелень сама пересрётся по-любому, когда вас увидит. Мешаться не должны. Ваша задача с бункерной жабой встретиться и припугнуть его. Пусть этот хер старый платит за "крышу". Выбей штук эдак 10 за сутки. И да, старая жаба будет понимать, что мы не станем убивать его, но если будет выебываться, то надо бы припугнуть его, ага?</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_2">
+		<text>Так резко будем вываливать свои яйца?</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_3">
+		<text>Не вижу причин не делать этого. Тут любой человек в группе стоит десяток такой зелени, как в деревне, если не дороже. Даже Сенька. Он хоть и алкаш, но когда трезвый - стреляет с-с-сука точнее стрелка ворошиловского. Ах да, Кислый хотел тебя видеть. Вон он позади тебя сидит на диване.</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_4">
+		<text>Без проблем. Я пошёл.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_0">
+		<text>Браток, это тебе помощь нужна?</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_1">
+		<text>Да, слушай. Я короче это, магнитофон нашёл тут и кассеты, побитые правда. Хотелось бы нормальные кассеты какие-нибудь раздобыть. Если найдёшь - тащи мне. Я заплачу за каждую. Если чё, сможешь сам прослушать их содержимое.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_2">
+		<text>Кассеты? Лучше бы зад свой поднял и делом занялся, вместо того, чтобы сидеть тут и кассеты слушать.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_3">
+		<text>Да брось. Отдыхать тоже надо.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_4">
+		<text>Ладно, если что попадётся - принесу.</text>
+	</string>
+	<string id="esc_casseta_1_done">
+		<text>Кассета с номером "45"</text>
+	</string>
+	<string id="esc_casseta_2_done">
+		<text>Кассета с номером "16"</text>
+	</string>
+	<string id="esc_casseta_3_done">
+		<text>Кассета с номером "19"</text>
+	</string>
+	<string id="esc_casseta_4_done">
+		<text>Кассета с номером "132"</text>
+	</string>
+	<string id="esc_casseta_5_done">
+		<text>Кассета с номером "68"</text>
+	</string>
+	<string id="esc_casseta_6_done">
+		<text>Кассета с номером "2"</text>
+	</string>
+	<string id="esc_cassets_start_found_1">
+		<text>Нашёл я кое-какую кассету...</text>
+	</string>
+	<string id="esc_cassets_start_found_2">
+		<text>Ну-ка, показывай.</text>
+	</string>
+	<string id="esc_casseta_no">
+		<text>Забудь.</text>
+	</string>
+	<string id="esc_bandit_go_to_derev_0">
+		<text>%c[255,255,125,0]Я готов. Идём.</text>
+	</string>
+	<string id="esc_bandit_in_derev_start_0">
+		<text>%c[255,255,125,0]Итак?</text>
+	</string>
+	<string id="esc_bandit_in_derev_start_1">
+		<text>Демонстративно проходим через деревню. Особо не шали, просто идём до бункера. Переговоры на тебе.</text>
+	</string>
+	<string id="esc_bandit_in_derev_start_2">
+		<text>Понял.</text>
+	</string>
+	<string id="esc_bandit_end_peregovor_0">
+		<text>%c[255,255,125,0]Я закончил.</text>
+	</string>
+	<string id="esc_bandit_end_peregovor_1">
+		<text>Хорошо. Мы тут останемся в деревне. Следить скажем так. А ты чеши на АТП и расскажи пахану что и как.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_good_0">
+		<text>%c[255,255,125,0]Торгаш согласился платить. 10, как и положено.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_good_1">
+		<text>Чу-у-дно! Держи, заслужил. Ах да! Сходи к Чабану, он наткнулся на какую-то херню и искал тебя.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_0">
+		<text>%c[255,255,125,0]Дипломатия... вышла не очень успешной.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_1">
+		<text>Не понял.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_2">
+		<text>Старая жаба отказалась платить назначенную сумму. Он чувствует, что мы его не тронем, скинул цену до 6 тысяч.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_3">
+		<text>Херовый ты переговорщик, косяк за тобой. Вот что: Чабан нашёл что-то и хотел, чтоб ты ему помог.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_0">
+		<text>%c[255,255,125,0]Ну, Сидор, жаба старая, как жизнь?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_1">
+		<text>Хорошо, пока ваше стадо не припёрлось.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_2">
+		<text>Обижаешь.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_3">
+		<text>Чё вам нужно?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_4">
+		<text>Значит, такая тема... Мы вас это, крышевать будем, ага? А за крышу надо платить.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_5">
+		<text>Так и думал... С меня и зелени деньги пришли трясти? Ну вы и козлы.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_6">
+		<text>Это мы козлы? Ты свои цены видел? Торгаш херов. Я ведь могу и обидеться.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_67">
+		<text>Сколько?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_677">
+		<text>10 тысяч за сутки.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_6666">
+		<text>Ладно, зная вас, больных ублюдков, лучше соглашусь.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_7">
+		<text>Давай без этого, я к тебе по-нормальному пришёл договариваться.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_7777">
+		<text>Много. 8 - край.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_8">
+		<text>Но-но! Подумай о зелени в деревне. Ты хочешь совсем без клиентов остаться? Понимаешь о чём я?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_88">
+		<text>Ладно... 10 так 10 штук. Просто уйди уже.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_9">
+		<text>Не будешь платить - просто убьем тебя.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_99">
+		<text>Кишка тонка у вас убить меня. Вы прекрасно знаете, что пойдёт за этим. А за угрозы понижаю плату до 6 штук.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_6677">
+		<text>Вот и хорошо. Завтра парни придут за деньгами.</text>
+	</string>
+	<string id="esc_bandit_electra_hello_0">
+		<text>%c[255,255,125,0]Искал?</text>
+	</string>
+	<string id="esc_bandit_electra_hello_1">
+		<text>Да. Помнишь я ту чёрную херню нашёл, которая светится голубым и "гудит"?</text>
+	</string>
+	<string id="esc_bandit_electra_hello_2">
+		<text>Ну да.</text>
+	</string>
+	<string id="esc_bandit_electra_hello_3">
+		<text>Короче, как я понял это какая-то "коробочка". Внутри чё-то есть. У меня есть мысль, как её можно открыть, но мне нужна твоя помощь.</text>
+	</string>
+	<string id="esc_bandit_electra_hello_4">
+		<text>Давай, веди. Самому интересно что за ерунда такая.</text>
+	</string>
+	<string id="esc_bandit_electra_cont_0">
+		<text>%c[255,255,125,0]Ну?</text>
+	</string>
+	<string id="esc_bandit_electra_cont_1">
+		<text>Да погоди ты... Открываю... Отойди немного.</text>
+	</string>
+	<string id="esc_bandit_electra_cont_2">
+		<text>Хорошо.</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_0">
+		<text>...</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_1">
+		<text>Ты в порядке?!</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_2">
+		<text>С-с-сука... Ай, блять! Ай...</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_3">
+		<text>Идти можешь?</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_4">
+		<text>Да... Вроде да... Как же долбануло-то больно.</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_5">
+		<text>Давай, идём назад. Главное, что выжил.</text>
+	</string>
+	<string id="esc_bandit_electra_end_0">
+		<text>%c[255,255,125,0]Всё хорошо?</text>
+	</string>
+	<string id="esc_bandit_electra_end_1">
+		<text>Да... Мне это... Отойти от этого надо чуток. Поговорим позже, ага?</text>
+	</string>
+	<string id="esc_bandit_electra_end_2">
+		<text>Хорошо.</text>
+	</string>
+	<string id="esc_trader_job_start_0">
+		<text>%c[255,255,125,0]Звал?</text>
+	</string>
+	<string id="esc_trader_job_start_1">
+		<text>И тебе привет. Бабок срубить не желаешь?</text>
+	</string>
+	<string id="esc_trader_job_start_2">
+		<text>Почему ты предлагаешь это мне, а не кому-то из деревни?</text>
+	</string>
+	<string id="esc_trader_job_start_3">
+		<text>Из деревни идиоты эти вылезти боятся. А сталкеры с фермы сюда больше не ходят. У них свой торгаш, весь бизнес мне рушит сука.</text>
+	</string>
+	<string id="esc_trader_job_start_4">
+		<text>Хм... Ладно, я подумаю над твоим предположением.</text>
+	</string>
+	<string id="esc_trader_about_dolg_0">
+		<text>Слушай, Сидорыч, а ты случайно не знаешь, где сейчас Миссионер?</text>
+	</string>
+	<string id="esc_trader_about_dolg_1">
+		<text>Понятия не имею.</text>
+	</string>
+	<string id="esc_kogot_job_start_0">
+		<text>%c[255,255,125,0]Коготь, ты не знаешь где Миссионер?</text>
+	</string>
+	<string id="esc_kogot_job_start_1">
+		<text>Может и знаю. Но с чего ты взял, что я тебе скажу?</text>
+	</string>
+	<string id="esc_kogot_job_start_2">
+		<text>Может, договоримся? Помочь с чем?</text>
+	</string>
+	<string id="esc_kogot_job_start_3">
+		<text>У меня с деньгами напряг. За 10 тысяч расскажу. И с этим работку тебе даю: Тут парочка сталкеров уходили схрон проверять свой, но не вернулись. Я видел куда примерно они шли, но сам покинуть лагерь не могу. Так же не могу и зелень из деревни отправить. Найдёшь их и заплатишь 10 тысяч - расскажу где искать того, кто тебе нужен.</text>
+	</string>
+	<string id="esc_kogot_job_start_4">
+		<text>Ла-а-адно. Давай метку на бедолаг своих.</text>
+	</string>
+	<string id="esc_novice_killer_okak_0">
+		<text>%c[255,255,125,0]Это не вы ли ушли схрон проверять?</text>
+	</string>
+	<string id="esc_novice_killer_okak_1">
+		<text>Т-ты кто?! Что тебе нужно?!</text>
+	</string>
+	<string id="esc_novice_killer_okak_2">
+		<text>Меня Коготь послал за вами, зелень. Что произошло?</text>
+	</string>
+	<string id="esc_novice_killer_okak_3">
+		<text>Он... Его убили кабаны!</text>
+	</string>
+	<string id="esc_novice_killer_okak_4">
+		<text>Что-то не очень на это похоже. Рядом нет никого.</text>
+	</string>
+	<string id="esc_novice_killer_okak_5">
+		<text>Они... убежали...</text>
+	</string>
+	<string id="esc_novice_killer_okak_6">
+		<text>Да? Ты в этом уверен?</text>
+	</string>
+	<string id="esc_novice_killer_okak_7">
+		<text>Мы шли забирать мой схрон... Он сказал, что это его схрон... а потом напали собаки и загрызли его, а я потом отпугнул их...</text>
+	</string>
+	<string id="esc_novice_killer_okak_8">
+		<text>Сначала кабаны, теперь собаки... Я же вижу эту дырку в его голове. Так и скажи, что завалил его.</text>
+	</string>
+	<string id="esc_novice_killer_okak_9">
+		<text>Я... Я... Почему... Как же так...</text>
+	</string>
+	<string id="esc_novice_killer_okak_10">
+		<text>Ну хорош ныть. Чеши к Когтю. Он разберётся с тобой.</text>
+	</string>
+	<string id="esc_novice_killer_okak_11">
+		<text>Это не я... Правда... Прошу...</text>
+	</string>
+	<string id="esc_novice_killer_okak_12">
+		<text>Иди, пока ты рядом с ним не лёг.</text>
+	</string>
+	<string id="esc_kogot_after_novice_0">
+		<text>%c[255,255,125,0]Странная ситуация там произошла. Парнишка убил друга своего. Говорит мутанты напали. Потом сказал, что друг его хотел схрон себе присвоить. Разбирайся сам в этом деле.</text>
+	</string>
+	<string id="esc_kogot_after_novice_1">
+		<text>Я сомневаюсь, что он мог убить своего друга... Они ведь с детства знакомы и всегда были "Не разлей вода".</text>
+	</string>
+	<string id="esc_kogot_after_novice_2">
+		<text>Коготь, ты ведь дольше меня в Зоне. Ты-то должен знать как тут всё бывает.</text>
+	</string>
+	<string id="esc_kogot_after_novice_3">
+		<text>Ладно, да... Ты прав, наверное. С тебя ещё 10 тысяч, а потом я расскажу, где находится человек, которого ты ищешь.</text>
+	</string>
+	<string id="esc_kogot_has_money_0">
+		<text>%c[255,255,125,0]Вот деньги.</text>
+	</string>
+	<string id="esc_kogot_has_money_1">
+		<text>Значит, слушай. Твой сталкерок находится на ферме. Насколько я знаю, каждую ночь он выходит с базы до одной могилки. Можешь найти его там.</text>
+	</string>
+	<string id="esc_actor_thief_start_0">
+		<text>Чё тебе тут нужно, крыса бандитская?</text>
+	</string>
+	<string id="esc_actor_thief_start_1">
+		<text>Ну нахера сразу по голове... Мне нужен Миссионер. Вы же сталкеры, а ведёте себя порой хуже бандитов.</text>
+	</string>
+	<string id="esc_actor_thief_start_2">
+		<text>Уж не тебе меня судить, сука. На кой хрен тебе нужен Миссионер?</text>
+	</string>
+	<string id="esc_actor_thief_start_3">
+		<text>А тебя это ебать не должно.</text>
+	</string>
+	<string id="esc_actor_thief_start_4">
+		<text>Он должен мне денег. Вот и всё.</text>
+	</string>
+	<string id="esc_actor_thief_start_5">
+		<text>Долги... Значит слушай сюда. Миссионер подцепил "Свалочную Оспу". Он отлёживается на базе в крайне херовом состоянии.</text>
+	</string>
+	<string id="esc_actor_thief_start_6">
+		<text>Я не дам умереть этому ублюдку, пока он не выплатит долг... Я могу что-то сделать?</text>
+	</string>
+	<string id="esc_actor_thief_start_7">
+		<text>Вообще-то... можешь. Ты ведь видел пузырь над насыпью? Так вот: под ближайшим вагончиком восточнее от пузыря я оставил сумку с травами. А ещё нужно найти "Алый цветок". Они вылезают из ржавой техники. Один такой я недавно видел на упавшем тепловозе, который находится на востоке железной дороги. Из этих вещей можно сделать сыворотку.</text>
+	</string>
+	<string id="esc_actor_thief_start_8">
+		<text>Хорошо, схожу. Жди.</text>
+	</string>
+	<string id="esc_panatseya_dialog_0">
+		<text>Ты подобрал его?</text>
+	</string>
+	<string id="esc_panatseya_dialog_1">
+		<text>*Вколоть шприц сталкеру*</text>
+	</string>
+	<string id="esc_panatseya_dialog_2">
+		<text>Сейчас, погоди немного.</text>
+	</string>
+	<string id="esc_panatseya_dialog_3">
+		<text>Фу-ух... Спасибо тебе... Правда, я очень благодарен...</text>
+	</string>
+	<string id="esc_panatseya_dialog_4">
+		<text>Что произошло?</text>
+	</string>
+	<string id="esc_panatseya_dialog_5">
+		<text>Меня подстрелил один сталкер. Оставил меня умирать, но пришёл ты и спас меня...</text>
+	</string>
+	<string id="esc_panatseya_dialog_6">
+		<text>Зачем ему это?</text>
+	</string>
+	<string id="esc_panatseya_dialog_7">
+		<text>Не знаю. Э-э... Видишь эту фигню? *Сталкер показывает непонятное устройство, отдаленно похожее на КПК*. Она время от времени ловит странные сигналы в этом доме. Конкретно в нём. Я пытался ходить по Кордону, но нифига не было. Слушай, я пойду на базу и подлечусь. Пока не могу тебе отплатить за помощь. Встретимся позже и я заплачу тебе, ага?</text>
+	</string>
+	<string id="esc_panatseya_dialog_8">
+		<text>Ладно-ладно. Поправляйся.</text>
+	</string>
+	<string id="esc_panatseya_dialog_9">
+		<text>Хм... У меня идея. Мне хоть и не удалось найти места, где появляются сигналы, это не значит, что их нет. Можешь их поискать? Я тогда расплачусь с тобой и за спасение и за разгадку этой тайны за раз.</text>
+	</string>
+	<string id="esc_panatseya_dialog_10">
+		<text>Попробую, давай.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_0">
+		<text>%c[255,255,125,0]Мне нужно внутрь.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_1">
+		<text>Ты ещё кто такой?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_2">
+		<text>Пусти. Я по поручению Горемыки. Забирал травы.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_21">
+		<text>Он говорил о тебе, да. Проходи.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_3">
+		<text>Пусти. Я принёс травы для Миссионера.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_31">
+		<text>О как... А ты откуда знаешь?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_32">
+		<text>Знаю и всё. Мне нужен ваш "больной".</text>
+	</string>
+	<string id="esc_guard_hello_dialog_33">
+		<text>Нет. Я тебя не пропущу. Докажи, что тебе можно доверять.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_34">
+		<text>Я помог Плюшу в разрушенном доме напротив фермы.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_35">
+		<text>Так это был ты? Ладно, можешь проходить.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_4">
+		<text>И как же?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_41">
+		<text>Ты, вероятно, слышал, что на северном КПП развелась какая-то херня и на Свалку все ходят теперь только через тоннель западнее?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_42">
+		<text>Допустим.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_43">
+		<text>На КПП этом лежит моя коллекционная колода карт. Я её оставлял там ещё до того, как КПП стал опасным. Если ты принесёшь их, то я пропущу тебя.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_44">
+		<text>А не пойти ли тебе нахер с такими просьбами? Я пытаюсь "вашего" спасти, а ты меня на смерть посылаешь.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_45">
+		<text>Ладно... Ты прав. И про карты я наврал. Хорошо, тогда дело попроще. Я в тоннеле под насыпью оставил рюкзак с самогоном. Просто принеси его. Это рядом.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_46">
+		<text>Если там не будет самогона, приколист херов, я тебе череп прострелю.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_done_0">
+		<text>%c[255,255,125,0]Бери. И дай пройти уже.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_done_1">
+		<text>Проходи.</text>
+	</string>
+	<string id="esc_thief_why_grass_0">
+		<text>Чего ты траву-то спрятал, а не с собой носил?</text>
+	</string>
+	<string id="esc_thief_why_grass_1">
+		<text>Дык "твои" пацаны же ходят сталкерам докучают. Хер их поймёшь - отберут ещё.</text>
+	</string>
+	<string id="esc_doctor_hello_0">
+		<text>%c[255,255,125,0]Док, полагаю? Кажется, вам это нужно.</text>
+	</string>
+	<string id="esc_doctor_hello_1">
+		<text>Да. Благодарю. Остаётся лишь ждать...</text>
+	</string>
+	<string id="esc_doctor_hello_2">
+		<text>Долго?</text>
+	</string>
+	<string id="esc_doctor_hello_3">
+		<text>Несколько часов. Я так понимаю, вам нужен сталкер этот? Можете лечь во-о-он там. Я сообщу, когда он очнётся.</text>
+	</string>
+	<string id="esc_doctor_hello_4">
+		<text>Ага.</text>
+	</string>
+	<string id="esc_lead_af_sleep_0">
+		<text>%c[255,255,125,0]Что тут произошло?</text>
+	</string>
+	<string id="esc_lead_af_sleep_1">
+		<text>Он убил доктора и ушёл, пока все спали.</text>
+	</string>
+	<string id="esc_lead_af_sleep_2">
+		<text>Как? Куда?</text>
+	</string>
+	<string id="esc_lead_af_sleep_3">
+		<text>Понятия не имею. Остальные тоже ничего не знают.</text>
+	</string>
+	<string id="esc_lead_af_sleep_4">
+		<text>Сука...</text>
+	</string>
+	<string id="esc_thief_secret_0">
+		<text>Пс-с...</text>
+	</string>
+	<string id="esc_thief_secret_1">
+		<text>Чего?</text>
+	</string>
+	<string id="esc_thief_secret_2">
+		<text>Я видел куда ушёл Миссионер. Только никому, прошу тебя.</text>
+	</string>
+	<string id="esc_thief_secret_3">
+		<text>Почему это?</text>
+	</string>
+	<string id="esc_thief_secret_4">
+		<text>Он ведь дока убил. Если они найдут его, то так же убьют. А тебе ведь он нужен живым, верно?</text>
+	</string>
+	<string id="esc_thief_secret_5">
+		<text>Верно. Куда он ушёл?</text>
+	</string>
+	<string id="esc_thief_secret_6">
+		<text>Он прыгнул в пузырь.</text>
+	</string>
+	<string id="esc_thief_secret_7">
+		<text>Над насыпью? Спасибо.</text>
+	</string>
+	<string id="esc_army_guard_hello_0">
+		<text>%c[255,255,125,0]Сань.</text>
+	</string>
+	<string id="esc_army_guard_hello_1">
+		<text>У тебя что-то важное?</text>
+	</string>
+	<string id="esc_army_guard_hello_2">
+		<text>Да. Мне нужен Полковник.</text>
+	</string>
+	<string id="esc_army_guard_hello_3">
+		<text>Проходи.</text>
+	</string>
+	<string id="esc_army_guard_hello_4">
+		<text>Спасибо.</text>
+	</string>
+	<string id="esc_army_leader_hello_0">
+		<text>%c[255,255,125,0]Давно не виделись.</text>
+	</string>
+	<string id="esc_army_leader_hello_1">
+		<text>Это точно.</text>
+	</string>
+	<string id="esc_army_leader_hello_2">
+		<text>Как жизнь?</text>
+	</string>
+	<string id="esc_army_leader_hello_3">
+		<text>Ты ведь не о моих делах пришёл узнать. Чё тебе нужно?</text>
+	</string>
+	<string id="esc_army_leader_hello_4">
+		<text>Мне нужно попасть в лабораторию "Иридий".</text>
+	</string>
+	<string id="esc_army_leader_hello_5">
+		<text>Ишь чего захотел! Хм... Мы, вообще-то, собирались отправлять туда отряд. Ты, блин, очень вовремя.</text>
+	</string>
+	<string id="esc_army_leader_hello_6">
+		<text>Серьёзно? Возьмите меня с собой.</text>
+	</string>
+	<string id="esc_army_leader_hello_7">
+		<text>Ан-нет. Не могу, извини. Ты не военнослужащий. Ты - посторонний.</text>
+	</string>
+	<string id="esc_army_leader_hello_8">
+		<text>И что мне, в армию вашу, блин, вступить?</text>
+	</string>
+	<string id="esc_army_leader_hello_9">
+		<text>Ну почему же. Я могу вообще-то организовать тебе "билетик", но не за так.</text>
+	</string>
+	<string id="esc_army_leader_hello_10">
+		<text>Узнаю тебя... И что же тебе нужно?</text>
+	</string>
+	<string id="esc_army_leader_hello_11">
+		<text>Понимаешь, у ребят на блокпосте есть "незаконченные" дела тут. Они полетят только когда завершат их.</text>
+	</string>
+	<string id="esc_army_leader_hello_12">
+		<text>Понимаю... Говори, кому там нужна помощь.</text>
+	</string>
+	<string id="esc_army_leader_hello_13">
+		<text>Вот тебе список. Поможешь им - приму тебя в отряд.</text>
+	</string>
+	<string id="esc_leader_army_completed_0">
+		<text>%c[255,255,125,0]Кажется, всё...</text>
+	</string>
+	<string id="esc_leader_army_completed_1">
+		<text>Да. Ты и в правду помог всем. Слушай, не хочешь посидеть с парнями? Пообщаться перед полётом.</text>
+	</string>
+	<string id="esc_leader_army_completed_2">
+		<text>Что-ж... Хорошо.</text>
+	</string>
+	<string id="esc_army_final_polk_0">
+		<text>%c[255,255,125,0]Крепкая херня, однако. Удивительно, но у меня даже голова не болит.</text>
+	</string>
+	<string id="esc_army_final_polk_1">
+		<text>От этой дряни похмелья почти нет. Парни там уже делают последние приготовления. Давай, иди к ним и летите.</text>
+	</string>
+	<string id="esc_army_final_polk_2">
+		<text>Так точно!</text>
+	</string>
+	<string id="esc_army_final_fly_0">
+		<text>%c[255,255,125,0]Что-ж... Хорошо посидели.</text>
+	</string>
+	<string id="esc_army_final_fly_1">
+		<text>Ага, это точно. Давай, залезай внутрь. Мы закончим приготовления и вылетим.</text>
+	</string>
+	<string id="esc_army_final_fly_2">
+		<text>Угу.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_0">
+		<text>Эй, это что у тебя?</text>
+	</string>
+	<string id="esc_buy_about_blocknot_1">
+		<text>А тебе какое дело?</text>
+	</string>
+	<string id="esc_buy_about_blocknot_2">
+		<text>Я знаю что это за блокнот. Э-э... Слушай, не хочешь продать его? Я тебе тысяч 20 дам и... Детектор хороший! Как смотришь на это?</text>
+	</string>
+	<string id="esc_buy_about_blocknot_3">
+		<text>Деньги лишними не будут. Да и детектор пригодится. Давай.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_4">
+		<text>Нет, мне самому блокнот приглянулся. Извини.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_cont_0">
+		<text>Я так подумал... Забирай блокнот.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_cont_1">
+		<text>Благодарю. Как и говорил - бери детектор, всё равно я артефакты ищу плохо, и денег немного. Ради такого не жалко.</text>
+	</string>
+	<string id="esc_stalker_furry_start_0">
+		<text>%c[255,0,128,0]Чё грустный такой?</text>
+	</string>
+	<string id="esc_stalker_furry_start_1">
+		<text>А? Да я планшет свой графический где-то потерял. М-м-м... Я, ну, рисовать люблю. Э-э... Можешь найти его? Пожалуйста. Он мне очень дорог. Я тебе взамен дам кое-что интересное! Планшет где-то на южной части Кордона, дальше ЖД я не ходил.</text>
+	</string>
+	<string id="esc_stalker_furry_cont_0">
+		<text>Забирай, художник.</text>
+	</string>
+	<string id="esc_stalker_furry_cont_1">
+		<text>Ты нашёл его! Спасибо! Вот - мой старый блокнотик. Это со времён, когда я рисовал ещё на бумаге... Мне он уже не нужен, копии рисунков у меня есть.</text>
+	</string>
+	<string id="esc_bandit_8_just_0">
+		<text>Расскажешь чё интересного?</text>
+	</string>
+	<string id="esc_bandit_8_just_1">
+		<text>Я короче недавно ключ нашёл какой-то, но вот понять не могу от чего он. Выбрасывать, сам понимаешь, жалко. Мало ли пригодится. Гы. А так нифига интересного не было за последнее время. Ногу вот разве что подвернул. До сих пор болит, падла.</text>
+	</string>
+	<string id="esc_actor_predhistory_0">
+		<text>Ты, случайно, не на северной тропе две недели назад был? Я тогда в дозоре был, видел тебя. Только без повязки.</text>
+	</string>
+	<string id="esc_actor_predhistory_1">
+		<text>Был. Я тебя тоже узнал. Ты тогда раненого сталкера на себе тащил. Уважуха.</text>
+	</string>
+	<string id="esc_actor_predhistory_2">
+		<text>Странно. Тогда ты не стрелял, и сейчас не стреляешь. Для бандюка - поведение странное. Расскажешь, что за история у тебя?</text>
+	</string>
+	<string id="esc_actor_predhistory_3">
+		<text>Не каждый, кто в кожанке - отморозок. Я сам раньше в форме ходил. ВВшник, Харьков. Много лет. Пока не вляпался по уши.</text>
+	</string>
+	<string id="esc_actor_predhistory_4">
+		<text>Ага, а теперь скрываешься среди тех, кого сам раньше ловил?</text>
+	</string>
+	<string id="esc_actor_predhistory_5">
+		<text>Не всё так просто. Был один рейд. Обычная зачистка. Только потом оказалось - не всё было по уставу. Командование кинуло, свалили всё на меня. Мол, "инициатива на месте". Хотя приказы были чёткие.</text>
+	</string>
+	<string id="esc_actor_predhistory_6">
+		<text>Знакомо. В бумагах одно, на земле - совсем другое.</text>
+	</string>
+	<string id="esc_actor_predhistory_7">
+		<text>Вот и я остался крайним. На губу, потом под трибунал. Но я ушёл. Через КПП, в Зону. Лучше стать призраком здесь, чем гнить за то, чего не делал.</text>
+	</string>
+	<string id="esc_actor_predhistory_8">
+		<text>А почему к бандитам? Мог бы к "Свободе" или к простым сталкерам.</text>
+	</string>
+	<string id="esc_actor_predhistory_9">
+		<text>Пробовал. Никому не нужен бывший вояка с испорченной историей. В "Долге" - сразу проверка, чуть не с разоблачением. А в банде - приняли. Молча. Свои правила, грязь, да. Но жить можно. Здесь не спрашивают, кем ты был. Только смотри, чтобы своих не сдал.</text>
+	</string>
+	<string id="esc_actor_predhistory_10">
+		<text>И каково это - быть на другой стороне?</text>
+	</string>
+	<string id="esc_actor_predhistory_11">
+		<text>Я не на стороне. Я - между. Ни туда, ни сюда. Просто живу. Долги прошлой жизни платить больше некому, кроме меня самого. Долги... Именно из-за одного такого я тут...</text>
+	</string>
+	<string id="esc_actor_predhistory_12">
+		<text>Ты тогда на тропе мог меня снять. Почему не стал?</text>
+	</string>
+	<string id="esc_actor_predhistory_13">
+		<text>Потому что ты своего тащил. Не враг ты мне. Такие у меня в части тоже были. Не продались.</text>
+	</string>
+	<string id="esc_actor_predhistory_14">
+		<text>Ясно... Ты... Смотри в оба. Зона - хуже трибунала.</text>
+	</string>
+	<string id="esc_actor_predhistory_15">
+		<text>Это точно...</text>
+	</string>
+	<string id="esc_bandit_1_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_1_about_1">
+		<text>Эх... Вспоминаю иногда - ну и дурной был. До Зоны-то я в бригаде крутился, в Орехово. Тяжёлые ребята были. Настоящая контора.</text>
+	</string>
+	<string id="esc_bandit_1_about_2">
+		<text>Опа... Так ты из ОПГ? Не просто гопник с подворотни?</text>
+	</string>
+	<string id="esc_bandit_1_about_3">
+		<text>Не, я ж говорю - конкретная тема. Сходки, крыши, автоматы в багажнике. У нас даже "смотрящий" был свой, с Урала.</text>
+	</string>
+	<string id="esc_bandit_1_about_4">
+		<text>И чё делали? Реально стреляли? Или больше понты?</text>
+	</string>	
+	<string id="esc_bandit_1_about_5">
+		<text>Стреляли. И не понарошку. Бизнес делили, точки отжимали, пацанов ставили на базары. Был один случай - грузинский клан полез на нашу автомойку... Утром трое их лежали в багажнике у гаражей. Без вопросов.</text>
+	</string>	
+	<string id="esc_bandit_1_about_6">
+		<text>А мусора? Вроде как в девяностые всех жали...</text>
+	</string>	
+	<string id="esc_bandit_1_about_7">
+		<text>Мы не лохи. Своих в отделе имели. Один майор лично нас по звонку отпускал. Главное было - не лезть в политику. А так - свобода, бабки, стволы. Даже с чеченами пару раз на стрелках пересекались.</text>
+	</string>	
+	<string id="esc_bandit_1_about_8">
+		<text>Ни хрена себе... А чё с бригадой стало?</text>
+	</string>	
+	<string id="esc_bandit_1_about_9">
+		<text>Стукач завёлся. Через месяц шестерых взяли, троих положили, "смотрящего" - в лесу в бочке нашли. Я чудом свалил. Через Белоруссию. А потом - Зона. Тут, как ни странно, спокойней. Ствол есть, работа есть, и никто в спину не стреляет... пока сам не дёрнешь.</text>
+	</string>
+	<string id="esc_bandit_1_about_10">
+		<text>Слушай... А ты, выходит, не просто бандит. Ты из тех, кто выжил. У нас таких уважают.</text>
+	</string>
+	<string id="esc_bandit_1_about_11">
+		<text>Да мне уважение по барабану. Я здесь, чтобы жить. Остальное - пыль.</text>
+	</string>
+	<string id="esc_bandit_1_about_12">
+		<text>И правильно. Тут ведь тоже своя ОПГ - только вместо базаров артефакты, вместо стрелок - схроны. Всё по понятиям, только другие.</text>
+	</string>
+	<string id="esc_bandit_2_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_2_about_1">
+		<text>Слышь, Инк... А ведь раньше у меня жизнь сладкая была. До всей этой сраной Зоны.</text>
+	</string>
+	<string id="esc_bandit_2_about_2">
+		<text>Та не ври. Все тут такие - бывшие воры в законе, прям как по шаблону. Ты-то чем промышлял?</text>
+	</string>
+	<string id="esc_bandit_2_about_3">
+		<text>Карманник я был. Профи. В метро, на вокзалах, на рынках. Золото, мобилки, кошельки - всё шло в дело.</text>
+	</string>
+	<string id="esc_bandit_2_about_4">
+		<text>Прям как в кино, да? А ну-ка, расскажи, как кого-нибудь конкретно обчистил.</text>
+	</string>
+	<string id="esc_bandit_2_about_5">
+		<text>Был случай в "Ереване", знаешь такой рынок? Там один жирный барыга ходил, цепь на шее - как у быка. Я его неделю пас. Потом - бах, в давке у ларька под шумок - и цепочка моя. Даже не пикнул.</text>
+	</string>
+	<string id="esc_bandit_2_about_6">
+		<text>А если б пикнул?</text>
+	</string>
+	<string id="esc_bandit_2_about_7">
+		<text>Тогда план "Б". Был у меня напарник, Васька. Он бы его отвлёк, типа "дядя, огоньку нет?" А я - фьють - и в толпу. Там уже не найти.</text>
+	</string>
+	<string id="esc_bandit_2_about_8">
+		<text>Лихо. А чё ж в Зону подался? Карманы закончились?</text>
+	</string>
+	<string id="esc_bandit_2_about_9">
+		<text>Ваську менты взяли, а я почувствовал, что крышка рядом. Пара знакомых в СИЗО уже сгнила. Тут либо тюрьма, либо кладбище. А Зона - она хоть и жрёт, но по-своему честная.</text>
+	</string>
+	<string id="esc_bandit_2_about_10">
+		<text>Угу... Тут хотя бы всё просто: или ты, или тебя. Без судей, без бумажек.</text>
+	</string>
+	<string id="esc_bandit_2_about_11">
+		<text>Ага. И цепочки тут другие - артефакт на шею повесишь, а он фонит так, что потом из ушей светится...</text>
+	</string>
+	<string id="esc_bandit_2_about_12">
+		<text>Ну, ты, блин, философ! Давай, за бывшую жизнь. И чтоб в Зоне нас пули стороной обходили.</text>
+	</string>
+	<string id="esc_bandit_2_about_13">
+		<text>Хорошо сказал. Давай.</text>
+	</string>
+	<string id="esc_bandit_3_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_3_about_1">
+		<text>Эх... времена были. До Зоны я делами занимался... серьёзными. Не как сейчас - с вояками по кустам бегать. Настоящий гоп-стоп был, с размахом!</text>
+	</string>
+	<string id="esc_bandit_3_about_2">
+		<text>Да ну? Ты серьёзно? Где, в Ростове, что ли?</text>
+	</string>
+	<string id="esc_bandit_3_about_3">
+		<text>В Подмосковье, в основном. Глухие трассы, знаешь... там, где фонари не горят и ментов меньше, чем зомбей в Рыжем лесу.</text>
+	</string>
+	<string id="esc_bandit_3_about_4">
+		<text>И чё, прям на дороге останавливали?</text>
+	</string>
+	<string id="esc_bandit_3_about_5">
+		<text>Ну а как. Ставим машину поперёк, я с двушкой выхожу - "Добрый вечер, документы, кошелёк, жизнь..." - и всё по стандарту. Один раз дальнобойщик, дурак, полез в бардачок - я думал, ствол тянет. Пришлось по колёсам стрелять. А потом он сам из кабины выпрыгнул, штаны мокрые, представляешь?</text>
+	</string>
+	<string id="esc_bandit_3_about_6">
+		<text>Ха! Красиво. А девок не грабили?</text>
+	</string>
+	<string id="esc_bandit_3_about_7">
+		<text>Женщин не трогали. У нас правило было. Бабло, тачки, техника - да. Но без грязи. Мы ж не звери, Инк.</text>
+	</string>
+	<string id="esc_bandit_3_about_8">
+		<text>Уважаю. А мусора?</text>
+	</string>
+	<string id="esc_bandit_3_about_9">
+		<text>С ними сложнее было. Один раз чуть не попались. Гнали за нами через лесополосу, я по просеке - газ в пол, пень на повороте - бум! Машина в кювет, а я с Санычем в кусты. Два дня потом шли до станции.</text>
+	</string>
+	<string id="esc_bandit_3_about_10">
+		<text>А чего в Зону-то подался?</text>
+	</string>
+	<string id="esc_bandit_3_about_11">
+		<text>Тут... проще. Никаких долгов, никаких законов. Своя правда. Или ты - или тебя. Всё честно.</text>
+	</string>
+	<string id="esc_bandit_3_about_12">
+		<text>В натуре. Тут хоть знаешь, за что умираешь...</text>
+	</string>
+	<string id="esc_bandit_4_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_4_about_1">
+		<text>Э-э...</text>
+	</string>
+	<string id="esc_bandit_4_about_2">
+		<text>Ну и чё... Ты раньше вроде при бабках был, не? Что ж тебя в Зону занесло?</text>
+	</string>
+	<string id="esc_bandit_4_about_3">
+		<text>Было дело... Деньги, связи, движ. Всё как у людей. Пока свои же не кинули.</text>
+	</string>
+	<string id="esc_bandit_4_about_4">
+		<text>Опа. Кинули - это как?</text>
+	</string>
+	<string id="esc_bandit_4_about_5">
+		<text>Был я в одной теме. Возили ширпотреб, кое-где - железо, кое-где - не железо. Через границу. Работали тихо, по своим каналам. А потом - в одну ходку суют мне в груз "лишнего". Я и не знал. Там не тряпки - там стволы, и не простые, а армейские. С оптикой. Прижимают на границе. Мне - восемь светит. А остальные - как сквозь землю.</text>
+	</string>
+	<string id="esc_bandit_4_about_6">
+		<text>Стоп, ты чё, даже не в курсе был, что везёшь?</text>
+	</string>
+	<string id="esc_bandit_4_about_7">
+		<text>Вот именно. Мне дали накладную, сказали: "рутина, как всегда". А я дурак, поверил. И кто подложил - не знаю до сих пор. Только один из своих потом резко тачку поменял, дом купил и с концами слился.</text>
+	</string>
+	<string id="esc_bandit_4_about_8">
+		<text>И чё, сел?</text>
+	</string>
+	<string id="esc_bandit_4_about_9">
+		<text>Год на СИЗО, потом - по делу пошли непонятки. Адвокат мутный, свидетели пропали. Короче, отпустили по "недостатку". Но все свои уже меня похоронили. Заказов - ноль, доверия - минус. ОПГшники шепчутся, как крысу видят. Я понял - или валить, или валиться.</text>
+	</string>
+	<string id="esc_bandit_4_about_10">
+		<text>И сюда, значит?</text>
+	</string>
+	<string id="esc_bandit_4_about_11">
+		<text>А куда ещё? Тут - как бы с чистого листа. У всех своя грязь, но никто не лезет. Главное - чтоб руки были целы и автомат не падал.</text>
+	</string>
+	<string id="esc_bandit_4_about_12">
+		<text>Хреновая история, брат. А если встретишь того, кто подставил?</text>
+	</string>
+	<string id="esc_bandit_4_about_13">
+		<text>Найду. Не важно где - на Большой земле или тут, в аномалиях. У меня с ним счёт. И я умею ждать.</text>
+	</string>
+	<string id="esc_bandit_5_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_5_about_1">
+		<text>Не люблю я это вспоминать...</text>
+	</string>
+	<string id="esc_bandit_5_about_2">
+		<text>Слышь... Ты ж вроде не с нами с самого начала был. Говорили, ты сталкером был. Это правда?</text>
+	</string>
+	<string id="esc_bandit_5_about_3">
+		<text>Был. Два года с хвостиком. По-тихому работал: артефакты, хабар, охота. Без героизма, без понтов. Пока не случилось дерьмо, которое всё перевернуло.</text>
+	</string>
+	<string id="esc_bandit_5_about_4">
+		<text>Что за дерьмо? Кого-то слил?</text>
+	</string>
+	<string id="esc_bandit_5_about_5">
+		<text>Напарника... Сашку. Вместе с ним ещё с "Южных холмов" начали. Всё - вдвоём. Аномалии, твари, даже раз с бандюками схлестнулись - выбрались. А в тот день... просто глупо вышло. Зашли в лес за артефактом. Я шёл первым, смотрю - "Электра" сбоку. Я в обход, он за мной. Только я шаг сделал - сработала "Мясорубка" под корнями. Я прыгнул в сторону - выжил. Он - не успел. Его разорвало за секунду.</text>
+	</string>
+	<string id="esc_bandit_5_about_6">
+		<text>Бывает. Зона жрёт по расписанию. Но при чём тут изгой?</text>
+	</string>
+	<string id="esc_bandit_5_about_7">
+		<text>А при том, что с нашей группой пересекались тогда ещё трое. Один из них потом начал шептать другим, мол, я Сашку специально подставил - чтоб хабар не делить. Типа, я знал про ловушку. А доказать обратное как? Кто в Зоне правду ищет?</text>
+	</string>
+	<string id="esc_bandit_5_about_8">
+		<text>И чё, прям все враз отвернулись?</text>
+	</string>
+	<string id="esc_bandit_5_about_9">
+		<text>Все. Даже те, с кем костры делил и пули ловил. Кто-то в спину шептал, кто-то - в открытую. Один даже в спину стрелял, промахнулся. Понял я тогда - не место мне среди них больше. Ни друзей, ни доверия. Один вариант остался - к тем, кому плевать, кем ты был.</text>
+	</string>
+	<string id="esc_bandit_5_about_10">
+		<text>То есть к бандитам.</text>
+	</string>
+	<string id="esc_bandit_5_about_11">
+		<text>Ага. Тут никто не спрашивал, откуда я и что натворил. Здесь важен только результат: принёс хабар - молодец. Завалил долговца - красавец. Всё просто. Без лицемерия.</text>
+	</string>
+	<string id="esc_bandit_5_about_12">
+		<text>Понял... Знаешь, бывает, кто-то в банду по жадности, кто-то - по дурости, а ты... по безысходности. Зона таких жрёт медленно.</text>
+	</string>
+	<string id="esc_bandit_5_about_13">
+		<text>Зато честно. Я тут не притворяюсь.</text>
+	</string>
+	<string id="esc_bandit_5_about_14">
+		<text>Если чё - ты теперь не один. В Зоне поодиночке долго не живут.</text>
+	</string>
+	<string id="esc_bandit_5_about_15">
+		<text>Уже понял. Спасибо.</text>
+	</string>
+	<string id="esc_bandit_6_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_6_about_1">
+		<text>Ты точно хочешь знать?</text>
+	</string>
+	<string id="esc_bandit_6_about_2">
+		<text>Ты ведь не из тех, кто сразу в банду подался. Видно же - не по бабкам сюда пришёл. Расскажешь?</text>
+	</string>
+	<string id="esc_bandit_6_about_3">
+		<text>Не для ушей это. Но ты нормальный вроде. Ладно, слушай.</text>
+	</string>
+	<string id="esc_bandit_6_about_4">
+		<text>Давай.</text>
+	</string>
+	<string id="esc_bandit_6_about_5">
+		<text>Был у меня человек. Девушка. Лена. Чистая, светлая... Я ради неё даже завязал с движухой - работал грузчиком, жил на съёмной, копил на свадьбу.</text>
+	</string>
+	<string id="esc_bandit_6_about_6">
+		<text>И чё случилось?</text>
+	</string>
+	<string id="esc_bandit_6_about_7">
+		<text>Один ублюдок. Сын местного бизнесмена. Привык, что всё можно. Напился. Увидел её вечером у остановки. Забрал. Потом - изнасиловал... и убил. Тело нашли через два дня в лесополосе.</text>
+	</string>
+	<string id="esc_bandit_6_about_8">
+		<text>Твою мать...</text>
+	</string>
+	<string id="esc_bandit_6_about_9">
+		<text>Суд был. Папаша всё порешал. Адвокат, ментовка, липовая экспертиза. "Не хватило доказательств". Его даже под стражу не взяли. Он ржал в зале суда. Прямо на меня глядел. Тогда я понял - закона нет. Есть только ты и ствол.</text>
+	</string>
+	<string id="esc_bandit_6_about_10">
+		<text>Ты его?</text>
+	</string>
+	<string id="esc_bandit_6_about_11">
+		<text>Да. Через две недели. Поймал у коттеджа. Сначала хотел просто в грудь - быстро. Но потом... Не получилось. Я дал ему почувствовать. Как это - быть беспомощным. Как это - молить, а тебя не слышат. Я сделал то, чего хотел. А потом - сжёг дом. С концами.</text>
+	</string>
+	<string id="esc_bandit_6_about_12">
+		<text>Тебя искали?</text>
+	</string>
+	<string id="esc_bandit_6_about_13">
+		<text>Недолго. Камеры сгорели, улики тоже. Но я знал, что рано или поздно всплывёт. Вот и ушёл. В Зону. Здесь мне никто не скажет "так нельзя". Здесь можно по-настоящему исчезнуть.</text>
+	</string>
+	<string id="esc_bandit_6_about_14">
+		<text>Слушай... Я думал, ты просто молчун. А ты... Ты человек. Настоящий.</text>
+	</string>
+	<string id="esc_bandit_6_about_15">
+		<text>Человеком я был там, с ней. А здесь... здесь я просто живу. Каждый день - без имени и без памяти.</text>
+	</string>
+	<string id="esc_bandit_6_about_16">
+		<text>За неё выпьем?</text>
+	</string>
+	<string id="esc_bandit_6_about_17">
+		<text>За неё.</text>
+	</string>
+	<string id="esc_bandit_7_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_7_about_1">
+		<text>О себе?</text>
+	</string>
+	<string id="esc_bandit_7_about_2">
+		<text>Ну да. Ты точно раньше не мента чистил? У тебя повадки такие... аккуратные. Чё ты до Зоны делал?</text>
+	</string>
+	<string id="esc_bandit_7_about_3">
+		<text>Домушником был. С квартиры на квартиру - как на вахту. Ночью лез, когда жильцы на работе. Быстро, тихо, без понтов.</text>
+	</string>
+	<string id="esc_bandit_7_about_4">
+		<text>Ха, серьёзно? Как в кино - отмычки, перчатки, воровская романтика?</text>
+	</string>
+	<string id="esc_bandit_7_about_5">
+		<text>Типа того. Пока однажды не зашёл... не туда.</text>
+	</string>
+	<string id="esc_bandit_7_about_6">
+		<text>Давай, выкладывай. Что за квартира?</text>
+	</string>
+	<string id="esc_bandit_7_about_7">
+		<text>Район элитный, много денег. Навели на одну хату - якобы семья в отпуске, всё чики-пуки. Поднялся на третий, взломал замок - как по маслу. Захожу - темно, тишина. Думаю: "Сейчас всё соберу и свалю". А там - не пусто.</text>
+	</string>
+	<string id="esc_bandit_7_about_8">
+		<text>Кто был?</text>
+	</string>
+	<string id="esc_bandit_7_about_9">
+		<text>Мужик. Один. Сидит в кресле напротив телевизора... и смотрит. Не двигается. А потом я понял: он мертвый. Глаза открыты, лицо с фиолетовым оттенком. На полу - кровь и шприцы. Я встал, как вкопанный.</text>
+	</string>
+	<string id="esc_bandit_7_about_10">
+		<text>Ё-моё... Ты в чью хату залез?</text>
+	</string>
+	<string id="esc_bandit_7_about_11">
+		<text>Оказалось - это нора какого-то барыги, у которого делишки с серьёзными людьми. Его уже кто-то опередил, пришили. А я - по камерам влез как "тот, кто последний выходил".</text>
+	</string>
+	<string id="esc_bandit_7_about_12">
+		<text>А мусора?</text>
+	</string>
+	<string id="esc_bandit_7_about_13">
+		<text>Пришли через день. Соседи слышали "подозрительный шум" - ага, как будто я пылесос включал. Я успел смыться, но меня начали искать и менты, и его "друзья". Город стал тесен. Один путь остался - в Зону. И тут, как ни странно, спокойнее.</text>
+	</string>
+	<string id="esc_bandit_7_about_14">
+		<text>Так это не Зона тебя съела - ты сам сбежал в пасть.</text>
+	</string>
+	<string id="esc_bandit_7_about_15">
+		<text>Верно. Только в пасти, где у всех по ножу, ты хотя бы знаешь, откуда удар ждать.</text>
+	</string>
+	<string id="esc_bandit_7_about_16">
+		<text>Ну, брат, у тебя киношная жизнь. А теперь - шныряешь с нами по норам да вояк поджидаешь...</text>
+	</string>
+	<string id="esc_bandit_7_about_17">
+		<text>Лучше уж тут. Тут, если сдохнешь, то честно. Не за косяк чужой, а за свой.</text>
+	</string>
+	<string id="esc_bandit_8_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_8_about_1">
+		<text>Никогда не влезай в долги. Даже если кажется, что "проверенные люди". Особенно тогда.</text>
+	</string>
+	<string id="esc_bandit_8_about_2">
+		<text>Не от хорошей жизни люди в Зону прутся - и так понятно. Ну-ка, рассказывай. Кому и за что ты задолжал?</text>
+	</string>
+	<string id="esc_bandit_8_about_3">
+		<text>Были у меня тогда "свои люди". Связи, схема с контрабандой - техника, запчасти, иногда оружие. Всё шло чётко, пока одна партия не ушла в трубу.</text>
+	</string>
+	<string id="esc_bandit_8_about_4">
+		<text>Угнали?</text>
+	</string>
+	<string id="esc_bandit_8_about_5">
+		<text>Хуже. Один из наших решил по-быстрому срубить бабла и слил груз другой стороне. И что бы ты думал? Партия была куплена на деньги бригадного авторитета. Долг - сорок тысяч зеленью. А я крайний. На бумагах - всё на мне.</text>
+	</string>
+	<string id="esc_bandit_8_about_6">
+		<text>Да тебя ж закопать должны были.</text>
+	</string>
+	<string id="esc_bandit_8_about_7">
+		<text>Почти. Мне сразу передали "привет" - сожгли машину, разбили нос жене, и намекнули: "либо бабки, либо плоскость горизонтальная". Вариантов - ноль. Продал всё, что было. Хату, тачку, технику. Оставалось десять штук. А они - ждали.</text>
+	</string>
+	<string id="esc_bandit_8_about_8">
+		<text>И ты свалил?</text>
+	</string>
+	<string id="esc_bandit_8_about_9">
+		<text>В ночь на поезд, через проводника - в сторону юга. Потом - КПП. Фейковые доки. А дальше - только Зона. Тут они не сунутся. Сами боятся. Зона - единственное место, где даже такие, как они, не главные.</text>
+	</string>
+	<string id="esc_bandit_8_about_10">
+		<text>А если найдут? Тут же всё бывает.</text>
+	</string>
+	<string id="esc_bandit_8_about_11">
+		<text>Найдут - не уйду. Я тут уже другим стал. Тут долг один - выжить. И он - у каждого.</text>
+	</string>
+	<string id="esc_bandit_8_about_12">
+		<text>Слушай... А я-то думал, ты просто старый контрабас. А у тебя история как в книге.</text>
+	</string>
+	<string id="esc_bandit_8_about_13">
+		<text>Только книгой эта не закончится. Либо пуля, либо мутант, либо аномалия... Но точно не долговая расписка...</text>
+	</string>
+	<string id="esc_bandit_9_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_9_about_1">
+		<text>...</text>
+	</string>
+	<string id="esc_bandit_9_about_2">
+		<text>Ты ж не всегда тут был. Кто тебя в банду привёл? Ты ж вроде из тех, кто по одиночке шарится.</text>
+	</string>
+	<string id="esc_bandit_9_about_3">
+		<text>Меня не Зона сюда затащила... Меня друзья позвали. С лагеря ещё. Мы вместе этапы катали. Потом на волю - и в Зону. "Работка есть, хавка будет, оружие своё, живи - не хочу", говорили.</text>
+	</string>
+	<string id="esc_bandit_9_about_4">
+		<text>И чё, нормально было?</text>
+	</string>
+	<string id="esc_bandit_9_about_5">
+		<text>Первое время - да. Семеро нас было. Ходили на склады, снимали сталкеров, делились честно. Без подстав. Своё братство, понимаешь?</text>
+	</string>
+	<string id="esc_bandit_9_about_6">
+		<text>А куда они все делись?</text>
+	</string>
+	<string id="esc_bandit_9_about_7">
+		<text>Зону, брат, не обманешь. Один в аномалию влетел, не заметил "пуханку" в тумане.\nВторого снорки порвали - на Агропроме. Мы тогда поздно пришли.\nТретий психанул, полез в лабораторию. Сам. Нашли его пару дней спустя. Без лица.</text>
+	</string>
+	<string id="esc_bandit_9_about_8">
+		<text>А остальные?</text>
+	</string>
+	<string id="esc_bandit_9_about_9">
+		<text>Других вояки сняли. Был старый спор - они кого-то у них когда-то подрезал. Они ждали. Подставили через левый тайник. Остался я. Последний...\nИногда думаю - может, я должен был первым…</text>
+	</string>
+	<string id="esc_bandit_9_about_10">
+		<text>Да ладно тебе... Может, ты просто живучий.</text>
+	</string>
+	<string id="esc_bandit_9_about_11">
+		<text>Или просто не дошёл до своей ошибки. Пока. Но знаешь что? Я за них всё помню. И пока я жив - они не исчезли. Пусть через мои руки грязь идёт, но память - чистая</text>
+	</string>
+	<string id="esc_bandit_9_about_12">
+		<text>Ты не просто мясо. Ты - память банды. Уважение.</text>
+	</string>
+	<string id="esc_bandit_10_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_bandit_10_about_1">
+		<text>Чего это тебя заинтересовало моё прошлое?</text>
+	</string>
+	<string id="esc_bandit_10_about_2">
+		<text>В тебе какая-то... интеллигентность проскакивает. Где копался до этого?</text>
+	</string>
+	<string id="esc_bandit_10_about_3">
+		<text>Да сам не пойму, как всё кувырком пошло. Я ведь изначально вообще - технарь. Электронику чинил, со связью работал. Любопытный был... до мании. Всё хотелось знать: как работает, что внутри, зачем тут вышка стоит, откуда сигнал лезет...</text>
+	</string>
+	<string id="esc_bandit_10_about_4">
+		<text>И чего, за это тебе прописку в Зоне выдали?</text>
+	</string>
+	<string id="esc_bandit_10_about_5">
+		<text>Не сразу. Однажды полез в один архив... ради интереса. Достал старый военный протокол - про один сбой в антенне под Припятью. Слишком много вопросов появилось. Начал совать нос, копать, кому не надо звонить...</text>
+	</string>
+	<string id="esc_bandit_10_about_6">
+		<text>И кто пришёл в гости первым?</text>
+	</string>
+	<string id="esc_bandit_10_about_7">
+		<text>Люди без погон, без имён. Один раз - разговор. Второй - угроза. На третий - пропала моя девушка. Словно и не существовала. Документы - чисто. Фото - нет. Соседи говорят: "Никогда такой не было".</text>
+	</string>
+	<string id="esc_bandit_10_about_8">
+		<text>Жуть. Ну и?</text>
+	</string>
+	<string id="esc_bandit_10_about_9">
+		<text>Ну и понял я, что если останусь - исчезну вместе со всеми данными. Сбежал. Через пару знакомых перебросился в Зону. Тут, знаешь, свои правила. Тут за любопытство - пуля, а не зачистка изнутри.</text>
+	</string>
+	<string id="esc_bandit_10_about_10">
+		<text>И как тебя бандюки-то приняли?</text>
+	</string>
+	<string id="esc_bandit_10_about_11">
+		<text>Принесли старую рацию - "попробуй почини". Починил. Потом генератор. Потом - "а можешь взломать тайник Долга?". Поняли, что полезный. Оставили. Ну и я остался.</text>
+	</string>
+	<string id="esc_bandit_10_about_12">
+		<text>Вот так, значит. Хотел знать всё - теперь живёшь там, где никто не знает, доживёшь ли до утра.</text>
+	</string>
+	<string id="esc_bandit_10_about_13">
+		<text>А тут хоть всё честно. Кто стреляет - тот и враг. А на Большой земле враги - в галстуках и с чистыми руками. Предпочитаю мутанта, чем протокол.</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_0">
+		<text>%c[255,0,128,0]Нахрена ты друга-то своего убил?</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_1">
+		<text>Это был не я...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_2">
+		<text>Ну опять начинается...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_3">
+		<text>Нет, прошу, выслушай! Когда мы подошли к тому месту, у меня резко заболела голова... А потом... Я будто перестал себя контролировать...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_4">
+		<text>Ага. Тобой начала контролировать жажда наживы.</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_5">
+		<text>Нет! Пожалуйста, сходи к тому месту ещё раз. Осмотри тело... Я правду говорю...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_6">
+		<text>Ладно-ладно, давай схожу.</text>
+	</string>
+	<string id="esc_novice_der_house_0">
+		<text>%c[255,0,128,0]Чё трешься тут?</text>
+	</string>
+	<string id="esc_novice_der_house_1">
+		<text>Да я, блин, ключ где-то потерял от дома. А у меня там вещь одна важная для меня...</text>
+	</string>
+	<string id="esc_novice_der_house_2">
+		<text>Ключ, говоришь, потерял? Возможно я даже знаю, где твой ключ.</text>
+	</string>
+	<string id="esc_novice_der_house_3">
+		<text>Правда?! Принеси ключ, пожалуйста! Я тебе взамен дам кое-что интересное. Нашёл только недавно. И... э-э... денег немного.</text>
+	</string>
+	<string id="esc_novice_der_house_4">
+		<text>Хорошо, жди.</text>
+	</string>
+	<string id="esc_bandit_8_key_0">
+		<text>Братуха, помню ты ключ какой-то упоминал. Можешь одолжить?</text>
+	</string>
+	<string id="esc_bandit_8_key_1">
+		<text>Было такое дело. Ты знаешь чё он открывает?</text>
+	</string>
+	<string id="esc_bandit_8_key_2">
+		<text>Есть вариант один. Если чё-нибудь там будет, то поделюсь с тобой.</text>
+	</string>
+	<string id="esc_bandit_8_key_3">
+		<text>Хм. Лады, идёт.</text>
+	</string>
+	<string id="esc_stalker_derev_book_0">
+		<text>Вот твоя книга. Откуда-то в доме появился зомби.</text>
+	</string>
+	<string id="esc_stalker_derev_book_1">
+		<text>Зомби? Странно... И дверь пропала... Книга... Да...\nТы не подумай... Это память для меня. Она дорога мне.\nНаграда... Я как-то нашёл два странных артефакта. Э-э... Прикол их в том, что они не работают, когда находятся у одного человека. Поэтому тебе стоит отдать один из них кому-то. Я оставлять их, если честно, не хочу. Что-то не нравятся они мне. А может быть я просто... зря панику навожу.</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_0">
+		<text>Держи свою долю.</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_1">
+		<text>Опа-опа. Чё там?</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_2">
+		<text>Забирай "Сапфир".</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_3">
+		<text>Забирай "Рубин".</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_4">
+		<text>Намана. Знал ведь, что пригодится ключ, хы.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_0">
+		<text>...Помнишь?.. Был... Кон... дор... Говорил... "своих не бросаем".</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_1">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_2">
+		<text>А как запахло пси... как голова начала трещать... - он... он даже не оглянулся.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_3">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_4">
+		<text>Ты кричал... я тоже... Не словами, а нутром. А он...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_5">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_6">
+		<text>Видел... Он мог... увести... бло... када... был-ла у него. Я его... её сам... дал ему в Агропроме... Струсил... Он...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_7">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_8">
+		<text>Мы ж не сразу... Мы ж ещё шли... Падали... шли... А он?.. Он ушёл... Связь оборвал... Радио молчало...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_9">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_10">
+		<text>А мы остались. Сначала туман в голове... потом - провал. А потом - тишина. Внутри. Всегда.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_11">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_12">
+		<text>...Теперь он нам - как фон в тумане. Как шум в башке... Если бы сердце билось... я бы его... ненавидел.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_13">
+		<text>Мне... жаль...</text>
+	</string>
+	<string id="esc_freedom_atp_hello_0">
+		<text>%c[255,0,128,0]Вот уж кого увидеть не ожидал. "Хай".</text>
+	</string>
+	<string id="esc_freedom_atp_hello_1">
+		<text>Чувак, я смотрю ты тут гоняешь туда-сюда. Ноги не болят? Нет? Ну и отлично. У нас, в общем, проблемка одна появилась. "Наших" режут. Причём буквально!</text>
+	</string>
+	<string id="esc_freedom_atp_hello_2">
+		<text>Не догоняю. Чё ты хочешь от меня?</text>
+	</string>
+	<string id="esc_freedom_atp_hello_3">
+		<text>Подзаработать предложить хочу. Если интересно - наш старший тебя уже ждёт. Он тебе подробнее расскажет чё и как. Оплата достойная - будь уверен.</text>
+	</string>
+	<string id="esc_freedom_atp_hello_4">
+		<text>Ладно, схожу. Метку только дай.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_0">
+		<text>Ну привет. "Ваш" сказал, что у вас дело какое-то есть.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_1">
+		<text>Да, есть. Ты знаешь что такое "снафф"?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_21">
+		<text>Да.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_31">
+		<text>Хорошо. Так вот: у кого-то то ли в Зоне, то ли за её пределами, не особо важно, появился "фетиш" на "снафф" со "Свободовцами". Понимаешь?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_22">
+		<text>Нет.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_32">
+		<text>Это видео, на которых запечатлены убийства людей. Часто с особой жестокостью - зависит от того, сколько заплатят. Такие материалы делают чаще всего с целью продажи. На заказ. Кто-то начал заказывать "Снафф" со "Свободовцами". Понимаешь, да?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_4">
+		<text>Понимаю. И тебя, очевидно, не устраивает такой расклад, да? И что ты предлагаешь?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_5">
+		<text>На заказчика выйти будет... проблематично. Однако у нас есть инфа о человеке, что занимается продажей уже готовых материалов.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_6">
+		<text>Хочешь выйти на заказчика через посредника? Не думаешь, что у него достаточно средств для сохранения своей анонимности?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_7">
+		<text>Вероятно так и есть, но попытаться, думаю, стоит. Если ты согласен - я напишу продавцу и дам тебе координаты встречи. Ты встречаешься с ним, допрашиваешь и докладываешь, идёт? Никто из нас не сможет, потому что мы сами "Свободовцы". Все жутко напряжены, на нервах. Боюсь не удержатся и убьют заказчика на месте, а нам это не нужно. Это лишь спугнёт заказчика и заставит курьеров использовать... Ну охрану например.\nНу так что?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_8">
+		<text>Давай, попробую вашу проблему решить.</text>
+	</string>
+	<string id="esc_snaff_trader_0">
+		<text>Это с тобой я должен был встретиться и за "снафф" перетереть?</text>
+	</string>
+	<string id="esc_snaff_trader_1">
+		<text>Ну, ты или не ты - не знаю. Но я такое продаю. Значит, "Свободовский" стоит 75 тысяч с простым убийством. С мучениями 125 тысяч. Какой будешь брать?</text>
+	</string>
+	<string id="esc_snaff_trader_2">
+		<text>С мучениями... Покажешь на практике, как это выглядит?</text>
+	</string>
+	<string id="esc_snaff_trader_3">
+		<text>Э? Чё?</text>
+	</string>
+	<string id="esc_snaff_trader_4">
+		<text>*Избить*</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_0">
+		<text>Ай! Сука!</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_1">
+		<text>Теперь по порядку. Кто поставщик? Кто заказчик?</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_2">
+		<text>Я ничего не знаю! Мамой клянусь, нихера я не знаю!</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_3">
+		<text>Тогда по-плохому... *Выстрелить*</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_0">
+		<text>Хватит... Блять... Я же сейчас умру...</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_1">
+		<text>Меня это не волнует. Говори кто заказчик.</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_2">
+		<text>Ладно... С-с-сука... Как же больно...\nЗаказчик это кто-то из высших чинов "Долга". Не очень удивительно, правда? Я не знаю кто именно, клянусь! Он общается только через проверенных посредников, которые даже под жесткими пытками не выдадут его личность. Сами видео снимают специально нанятые люди. Как и за пределами Зоны. Им платят - они выполняют работу, всё записывают и отдают заказчику. Заказчик это продаёт тому, кто захочет.\nЭтот "Долговец" заказчик чаще всего продаёт это кому-то из своих же. Кому ещё нужны страдания "Свободы"? Ну... Изредко кто-то не из "Долга" тоже заказывает такие видео. Тогда в дело вступают такие как я... Мы не участвуем с съёмках. Мы лишь приносим материал покупателю и продаём.\nВсё! Я рассказал всё, что знал... А теперь дай аптечку! А то я сейчас сдохну нахер...</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_3">
+		<text>Туда тебе и дорога. Хотя... Я могу заставить тебя почувствовать облегчение.</text>
+	</string>
+	<string id="esc_snaff_trader_end_0">
+		<text>Ну... Заказчик кто-то из "Долга", как и большинство покупателей. Сами видео снимают специально нанятые люди. Мне кажется то, что я узнал - более чем очевидно.</text>
+	</string>
+	<string id="esc_snaff_trader_end_1">
+		<text>Нам нужно было удостовериться. Раз уж "Долговцы" таким начали заниматься - мы тоже в стороне стоять не будем. Поймут, суки, что бывает, если вредить нашему брату-"Свободовцу".</text>
+	</string>
+	<string id="esc_snaff_trader_end_2">
+		<text>Догадываюсь.</text>
+	</string>
+	<string id="esc_snaff_trader_end_3">
+		<text>Без грязи. Ну... почти. Нашим людям нужно высвободить пар, а сейчас и повод полноценный появился. Держи - за инфу. Мы посидим тут немного и свалим. Удачи, мэн.</text>
+	</string>
+	<string id="esc_freedom_leader_about_0">
+		<text>Расскажи о себе.</text>
+	</string>
+	<string id="esc_freedom_leader_about_1">
+		<text>Было время, я не просто в Свободе был... Я её часть в Зоне держал. Группу вёл - "Ганза" назывались. Слыхал?</text>
+	</string>
+	<string id="esc_freedom_leader_about_2">
+		<text>"Ганза"? Да не, чёт не припомню. Хотя погоди... было что-то на северных частях, у Барьера, кажись?</text>
+	</string>
+	<string id="esc_freedom_leader_about_3">
+		<text>Верно. Мы там начали. С десяток хороших бойцов, дисциплина, свобода, идеи... Но со временем мы выросли. Сами себя переименовали - стали "Легионом".</text>
+	</string>
+	<string id="esc_freedom_leader_about_4">
+		<text>Ха! "Легион" - солидно звучит. Прям армия. А чё стало-то с вами?</text>
+	</string>
+	<string id="esc_freedom_leader_about_5">
+		<text>Не Зона, так люди. Начали давить нас. Монолиты, наймиты, мутанты... Потом ещё предательство изнутри. Один вояка, вроде свой, а продал всех Чистому Небу. Вышли на зачистку. Из тридцати нас четверо выжили.</text>
+	</string>
+	<string id="esc_freedom_leader_about_6">
+		<text>Жесть... Знакомо. У нас как-то тоже с крысиным предателем шорох был. После этого доверие - редкий товар.</text>
+	</string>
+	<string id="esc_freedom_leader_about_7">
+		<text>Сейчас мы всем составом тут. Остался только шеврон, да позывной... Ну, разве что вот девушка с нами ходить начала в ходки. Если хочешь знать почему - спроси её сам. Захочет - расскажет... \nТак, о чём это я? Ах да... \nНо память живёт. Иногда снится, как мы на Янтаре патрули держали... как первый артефакт с АТП вытащили.</text>
+	</string>
+	<string id="esc_freedom_leader_about_8">
+		<text>Уважуха тебе. Не за идею - за память. Не каждый может столько пройти и человеком остаться.\nСвоих тут у нас не бросают, если это реально свои. Проверенные временем, понимаешь? Даже если раньше на разных сторонах стояли.</text>
+	</string>
+	<string id="esc_freedom_leader_about_9">
+		<text>Спасибо. Видать, Зона и вправду всех по-своему равняет.</text>
+	</string>
+	<string id="esc_freedom_girl_about_0">
+		<text>Слушай, а ты как вообще в "Свободу"-то попала? Девчонка в Зоне - редкость.</text>
+	</string>
+	<string id="esc_freedom_girl_about_1">
+		<text>Долгая история. Я ведь раньше просто сталкером была. Артефакты таскала, пряталась от химер. Жила тихо.</text>
+	</string>
+	<string id="esc_freedom_girl_about_2">
+		<text>Ну да... до первой засады, как обычно. Так?</text>
+	</string>
+	<string id="esc_freedom_girl_about_3">
+		<text>Так. Попала в беду под Агропромом. Тварь какая-то, ползучая... я тогда думала, что это конец. Кровь, паника, всё как в тумане. А потом - бах-бах! - очередь, грохот, и надо мной стоят они. "Легион".</text>
+	</string>
+	<string id="esc_freedom_girl_about_4">
+		<text>"Легион"? Слышал, раньше целый отряд был, прям семья.</text>
+	</string>
+	<string id="esc_freedom_girl_about_5">
+		<text>Семья - хорошее слово. Они вытащили меня, рану обработали, дотащили до базы. Я тогда даже не знала, кто они. Не носили эмблем, вели себя просто. Но дисциплина была - чувствовалась.</text>
+	</string>
+	<string id="esc_freedom_girl_about_6">
+		<text>Так "Легион" тебя в "Свободу" затащил?</text>
+	</string>
+	<string id="esc_freedom_girl_about_7">
+		<text>Не то чтобы затащили. Просто сказали: "Выбирай — хочешь обратно в болото, или хочешь, чтобы тебя кто-то прикрывал в спине?"\nЯ выбрала. Потом вступила в Свободу и с "Легионом" часто ходила. С ними я чувствовала себя в безопасности. Не командуют, но прикроют. Всегда.</text>
+	</string>
+	<string id="esc_freedom_girl_about_8">
+		<text>Думаю, правильный выбор. В Зоне, по правде, выживают не те, кто круче стреляет, а те, кому есть на кого положиться. Хотя тут такое - редкость. Чтоб прям настоящая дружба была.</text>
+	</string>
+	<string id="esc_freedom_girl_about_9">
+		<text>Именно. Я может и не из "Легиона", но душой - с ними. И если кто скажет плохое про них - перегрызусь.</text>
+	</string>
+	<string id="esc_freedom_girl_about_10">
+		<text>Убедительно... Ладно, до встречи. Почему-то мне кажется, что мы ещё увидимся. И не смотри на мою нашивку - на меня тоже можно положиться.</text>	
+	</string>
+	<string id="esc_freedom_girl_about_11">
+		<text>Зона - не про цвета. Среди "своих" тоже ублюдков хватает. Она про то, кто остался рядом, когда всё началось по-настоящему.</text>	
+	</string>
+	<string id="esc_bandit_electra_about_0">
+		<text>Ну, есть мысли насчёт того, что это за херня была с "электрой"?</text>
+	</string>
+	<string id="esc_bandit_electra_about_1">
+		<text>Да, в целом, я думаю и так ясно всё. В этой коробочке была как-то заточена энергия этой самой "электры". Но вот кто и как её заточил там - вопрос, конечно, хороший...</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_0">
+		<text>%c[255,0,128,0]Что расскажешь интересного?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_1">
+		<text>Эээ… Ну вот ты слыхал про то, что некоторые артефакты можно совмещать друг с другом или разным мусором в аномалиях, чтобы получать новые, более крутые арты? Тра... Дранц… Как его там, бляха... Трансмутация, во!</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_21">
+		<text>Слышал.</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_31">
+		<text>Гы-гы... Откуда? Я же выдумал это только что. Ты либо пиздишь, либо тебя наебали. Хы. Ладно, я не об этом хотел рассказать. Мне как-то причудилось, что какой-то странный арт был на мосту этом. Причём арт такой, что его без детектора видно, прикинь?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_22">
+		<text>Не слышал.</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_32">
+		<text>Ну, и правильно. Я только что это придумал. Ладно, я не об этом хотел рассказать. Мне как-то причудилось, что какой-то странный арт был на мосту этом. Причём арт такой, что его без детектора видно, прикинь?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_4">
+		<text>Тебе ведь причудилось, так? Зачем тогда ты мне это рассказываешь?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_5">
+		<text>Ну... Я арт тот больше не видел, но... Он выглядел таким реальным... Можешь осмотреть то место?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_6">
+		<text>Ладно, гляну может быть.</text>
+	</string>
+	<string id="esc_bandit_strange_art_out_0">
+		<text>Держи. Эта херня меня телепортировала по всему Кордону!</text>
+	</string>
+	<string id="esc_bandit_strange_art_out_1">
+		<text>Реально? Интересно. За эту шнягу могут дать дохрена денег. Вот - чем богат.</text>
+	</string>
+	<string id="esc_bandit_strange_art_backing_0">
+		<text>Браток, ты в порядке?</text>
+	</string>
+	<string id="esc_bandit_strange_art_backing_1">
+		<text>Бля... да... вроде... ребро болит... Упал...</text>
+	</string>
+	<string id="esc_bandit_strange_art_backing_2">
+		<text>Давай, помогу добраться до АТП.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_0">
+		<text>Какие мысли по произошедшему?</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_1">
+		<text>Звиздец полный - вот такие!</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_2">
+		<text>Ты избавился от арта?</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_3">
+		<text>Да. Он покидал меня по Кордону, но потом отпустил. Я подумал: "ну его нахер" и решил закопать от греха подальше. Выкопал руками небольшую ямку и только его бросил - сразу телепортировался сюда на дерево. Повезло, что не насадился на него, так - пара царапин. С этого дерева упал и, видимо, нахер сломал себе ребро.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_4">
+		<text>Мда уж. Чем Зона не шутит.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_5">
+		<text>Жадность фраера чуть не сгубила. Стоило догадаться, что если арт телепортировал тебя, то и меня будет.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_6">
+		<text>Возможно. Ладно, удачи. Поправляйся.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_7">
+		<text>Ага, спасибо. И за то, что нашёл меня и спас тоже - огромное спасибо, братан. Буду должен.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_8">
+		<text>Забей - всё нормально.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_9">
+		<text>Как скажешь.</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_0">
+		<text>%c[255,0,128,0]Чё такой кислый?</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_1">
+		<text>Браток, у меня тут проблемка возникла. Подсобишь?</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_2">
+		<text>Что за проблемка?</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_3">
+		<text>Мне пацан один бабок торчит. Процентики-то капают, пора забрать. Мы добазарились на артефакт "Золотая Рыбка". Чел этот должен быть в тоннеле под мостом. Сгоняй, а? Я себя чувствую не очень.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_0">
+		<text>Ну привет.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_1">
+		<text>Ты кто? Я жду другого человека.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_2">
+		<text>Я вместо него. Давай сюда арт.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_3">
+		<text>Э-э... Чёрт... Видишь ли... Я рюкзак потерял. Недалеко тут. Патронов нет, блин. А там вроде кабанчики были. Забери сам, а?</text>
+	</string>
+	<string id="esc_dollzhnik_hello_4">
+		<text>Хм.</text>
+	</string>
+	<string id="esc_dollzhnik_end_good_0">
+		<text>Вот твой камешек.</text>
+	</string>
+	<string id="esc_dollzhnik_end_good_1">
+		<text>Шик. Вот твоя награда.</text>
+	</string>
+	<string id="esc_dollzhnik_end_bad_0">
+		<text>Сбежал, сука. Ещё и засаду устроил.</text>
+	</string>
+	<string id="esc_dollzhnik_end_bad_1">
+		<text>Вот мудак, блять... Ладно, переживу. Не страшно.</text>
+	</string>
+	<string id="esc_novice_end_conrik_0">
+		<text>Странная херня, в общем-то. Постоял в том месте, а потом в глазах потемнело. Очнулся рядом со свинофермой, а передо мной сталкер. Не могу объяснить почему, но я застыл от ужаса. Сталкер испарился... Потом судьба привела меня в какую-то... канализацию около домика напротив свинофермы. Там был контролёр.</text>
+	</string>
+	<string id="esc_novice_end_conrik_1">
+		<text>Мда уж, ну и жуть. Значит, контролёр меня заставил убить моего друга... Теперь-то ты мне веришь?</text>
+	</string>
+	<string id="esc_novice_end_conrik_2">
+		<text>Верю. Да. Кстати, я нашёл эти две записки. Глянь.</text>
+	</string>
+	<string id="esc_novice_end_conrik_3">
+		<text>Чего? У тебя в руках пусто.</text>
+	</string>
+	<string id="esc_novice_end_conrik_4">
+		<text>Что..? Куда она... М-мать... Видимо, совсем головой тронулся. Пойду я.</text>
+	</string>
+	<string id="esc_trader_quest_first_0">
+		<text>%c[255,0,128,0]Я согласен поработать на тебя.</text>
+	</string>
+	<string id="esc_trader_quest_first_1">
+		<text>У нас тут "очкарик" есть. Видел, думаю. Ему надо бы помочь с какими-то замерами, или не замерами... Я в подробности не вдавался. Нужен сопровождающий.</text>
+	</string>
+	<string id="esc_trader_quest_first_2">
+		<text>Хорошо.</text>
+	</string>
+	<string id="esc_ecolog_dialog_0">
+		<text>Это тебе нужна охрана?</text>
+	</string>
+	<string id="esc_ecolog_dialog_1">
+		<text>Да. Господи, наконец-то. Ты поможешь?</text>
+	</string>
+	<string id="esc_ecolog_dialog_2">
+		<text>Помогу. Скажи хоть конкретнее чё нужно.</text>
+	</string>
+	<string id="esc_ecolog_dialog_3">
+		<text>"Чё-чё"... Просто рядом будь и отстреливай мутантов или ещё кого-нибудь. Ничего трудного. Потом подкину деньжат, если всё гладко пройдёт.</text>
+	</string>
+	<string id="esc_ecolog_dialog_4">
+		<text>Ладно, идём.</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_0">
+		<text>Учёный пропал...</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_1">
+		<text>Он умер?</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_2">
+		<text>Да... или нет... Он стоял со своим сканнером и просто исчез. Как сквозь землю провалился.</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_3">
+		<text>Что творится... Всё через жопу в последнее время... Ладно, вот тебе за потраченное время.</text>
+	</string>
+	<string id="esc_trader_quest_novice_0">
+		<text>%c[255,0,128,0]Ещё чем помочь?</text>
+	</string>
+	<string id="esc_trader_quest_novice_1">
+		<text>Тут новичок должен прийти в тоннель около блокпоста. Сходи за ним и приведи в деревню.</text>
+	</string>
+	<string id="esc_novice_quest_loh_0">
+		<text>Это ты в Зону собрался? Тебя Сидор забрать просил?</text>
+	</string>
+	<string id="esc_novice_quest_loh_1">
+		<text>Да! Вот она какая... Зона... Меня прям распирает от эмоций! Хочу быстрее поглядеть на все её чудеса!</text>
+	</string>
+	<string id="esc_novice_quest_loh_2">
+		<text>Ладно, романтик, пойдём.</text>
+	</string>
+	<string id="esc_novice_quest_what_is_it_0">
+		<text>Чё встал?</text>
+	</string>
+	<string id="esc_novice_quest_what_is_it_1">
+		<text>Это что такое? Вот - на земле.</text>
+	</string>
+	<string id="esc_novice_quest_what_is_it_2">
+		<text>Это...</text>
+	</string>
+	<string id="esc_novice_quest_out_0">
+		<text>Всё нормально. Идём.</text>
+	</string>
+	<string id="esc_novice_quest_out_1">
+		<text>Н-нет! Я передумал! Тут... Тут слишком опасно! Я возвращаюсь назад!</text>
+	</string>
+	<string id="esc_novice_quest_out_2">
+		<text>Нифига себе.</text>
+	</string>
+	<string id="esc_novice_end_trader_0">
+		<text>Твой новичок испугался кабана и решил свалить назад.</text>
+	</string>
+	<string id="esc_novice_end_trader_1">
+		<text>Ты смотри что делается... Если раньше самые слабохарактерные не доходили до железки и уходили из Зоны, то этот вообще даже до деревни не дошёл! Что творится то...</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_0">
+		<text>Ты ещё кто? Почему ты сидишь с зомби? Чё ты вообще тут забыл? Нахера эту область завалили?</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_1">
+		<text>Зови меня Рагуил. А что мне до зомби? Они меня не трогают. Я их тоже. Если ты не заметил - они отсюда не выходят. Эту область закрыли, потому что тут ку-у-уча насекомых: таракашки, паучки. Хе-хе... Они, знаешь ли, ядовитые, радиоактивные, болячки переносят...\nЯ тут... просто сижу. "Бакары" собираю и читаю.</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_2">
+		<text>"Бакары"?</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_3">
+		<text>Да. Священные писания, посланные свыше. Заповеди, если угодно. Их пишет некий Митрополит, который связан с Господом. Записи гласят, что Зона послана человечеству за его грехи... Меня эти бумажки очень заинтересовали. Хотел бы я с Митрополитом встретиться... Вот - прочти. Быть может тебя тоже затянет. Думаю, что это не единственная запись. Вот бы глянуть их все... Эх...</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_4">
+		<text>Что-ж...</text>
+	</string>
+	<string id="esc_mitropolit_dialog_0">
+		<text>Ты ещё кто?</text>
+	</string>
+	<string id="esc_mitropolit_dialog_1">
+		<text>Я... Митрополит... Ты не готов принять истину божию... Возьми мою последнюю запись и погрузись в страдание!</text>
+	</string>
+	<string id="esc_mitropolit_dialog_2">
+		<text>Эй, ты куда?</text>
+	</string>
+	<string id="esc_zapoved_1_done">
+		<text>Первая заповедь.</text>
+	</string>
+	<string id="esc_zapoved_3_done">
+		<text>Третья заповедь.</text>
+	</string>
+	<string id="esc_zapoved_4_done">
+		<text>Четвёртая заповедь.</text>
+	</string>
+	<string id="esc_zapoved_5_done">
+		<text>Пятая заповедь.</text>
+	</string>
+	<string id="esc_zapoved_6_done">
+		<text>Шестая заповедь.</text>
+	</string>
+	<string id="esc_zapoved_7_done">
+		<text>Седьмая заповедь.</text>
+	</string>
+	<string id="esc_zapoved_8_done">
+		<text>Восьмая заповедь.</text>
+	</string>
+	<string id="esc_zapovedi_start_found_1">
+		<text>Нашёл я кое-какую заповедь...</text>
+	</string>
+	<string id="esc_zapovedi_start_found_2">
+		<text>Ну-ка, показывай.</text>
+	</string>
+	<string id="esc_zapoved_no">
+		<text>Забудь.</text>
+	</string>
+	<string id="esc_raguil_end_0">
+		<text>Ты уже изучил все заповеди. Не хочешь забрать их? Мне они ни к чему.</text>
+	</string>
+	<string id="esc_raguil_end_1">
+		<text>Да, давай.</text>
+	</string>
+	<string id="esc_merc_guard_dialog_0">
+		<text>Чё тебе надо?</text>
+	</string>
+	<string id="esc_merc_guard_dialog_1">
+		<text>Э-э..."В последнее время в Зоне выпало много радиоактивных осадков."</text>
+	</string>
+	<string id="esc_merc_guard_dialog_2">
+		<text>Ясно, проходи.</text>
+	</string>
+	<string id="esc_merc_guard_dialog_3">
+		<text>Где ваш главный?</text>
+	</string>
+	<string id="esc_merc_guard_dialog_4">
+		<text>Прямо за моей спиной.</text>
+	</string>
+	<string id="esc_merc_guard_dialog_5">
+		<text>Хорошо.</text>
+	</string>
+	<string id="esc_mercs_final_dialog_0">
+		<text>Ну здравствуй.</text>
+	</string>
+	<string id="esc_mercs_final_dialog_1">
+		<text>Ну и? Где?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_2">
+		<text>Где что?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_3">
+		<text>Не делай из меня дурака. Где он?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_4">
+		<text>Где... кто?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_5">
+		<text>Сокол...</text>
+	</string>
+	<string id="esc_mercs_final_dialog_6">
+		<text>Что?</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_0">
+		<text>Твоё устройство выловило переговоры наймов с неким "Свином". Не уверен, было прозвище это или оскорбление.</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_1">
+		<text>Наёмники? Нихрена себе. Чё ж они тут забыли?</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_2">
+		<text>Не знаю... Не смог узнать. Меня раскусили и вырубили.</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_3">
+		<text>Эх! Херово. Значит, и куда они ушли ты тоже не знаешь?</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_4">
+		<text>Нет. Удивительно, но мои вещи они не тронули. Видимо, их "дело" очень прибыльное. Жаль, что мы теперь вряд-ли уже когда-нибудь узнаем, что они тут делали.</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_5">
+		<text>Да... Ладно, за хлопоты ты заслужил награду. Вот:</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_6">
+		<text>Спасибо. И... больше не лови пулю животом, ага?</text>
+	</string>
+	<string id="esc_army_1_quest_start_0">
+		<text>Тебе нужна помощь?</text>
+	</string>
+	<string id="esc_army_1_quest_start_1">
+		<text>Да. Видишь ли... Ты наверняка видел минное поле у блокпоста. А ещё упавшее дерево на востоке. Там рюкзак должен быть, а в нём мой пистолет. Не спрашивай как он там оказался... Просто... Можешь достать его? Пожалуйста. Проберись через мины. Я не могу. Просто... э... не могу.</text>
+	</string>
+	<string id="esc_army_2_quest_start_0">
+		<text>Могу помочь?</text>
+	</string>
+	<string id="esc_army_2_quest_start_1">
+		<text>Я зажигалку потерял где-то. Блин, весь блокпост обшарил, но не могу найти! Недавно ведь только купил, эх...</text>
+	</string>
+	<string id="esc_army_3_quest_start_0">
+		<text>Помочь?</text>
+	</string>
+	<string id="esc_army_3_quest_start_1">
+		<text>Да. У меня знакомый свалил куда-то. Голоса начал слышать, начал орать и просто сбежал с блокпоста. Я не могу покинуть блокпост, но и этого парня найти тоже надо. Никто из штаба жопу даже не почешет, чтоб организовать его поиски. Он что-то говорит про элеватор, кажется. Думаю, он там.</text>
+	</string>
+	<string id="esc_army_1_helped_0">
+		<text>Забирай.</text>
+	</string>
+	<string id="esc_army_1_helped_1">
+		<text>Спасибо. Он важен для меня. Правда.</text>
+	</string>
+	<string id="esc_army_2_helped_0">
+		<text>Вот - держи. Ты сигареты об костёр зажечь не мог?</text>
+	</string>
+	<string id="esc_army_2_helped_1">
+		<text>Спасибо. Не мог. Дело принципа, понимаешь? Наконец-то покурю...</text>
+	</string>
+	<string id="esc_army_3_helped_0">
+		<text>Вернул потеряшку.</text>
+	</string>
+	<string id="esc_army_3_helped_1">
+		<text>Да, он мне уже сказал. Голоса у него в голове заткнулись. Надеюсь...</text>
+	</string>
+	<string id="esc_army_lost_hello_0">
+		<text>А вот и потеряшка.</text>
+	</string>
+	<string id="esc_army_lost_hello_1">
+		<text>Ты... Как ты прошёл мимо этого чудовища?</text>
+	</string>
+	<string id="esc_army_lost_hello_2">
+		<text>Какого чудовища?</text>
+	</string>
+	<string id="esc_army_losted_saved_0">
+		<text>Мертва сука.</text>
+	</string>
+	<string id="esc_army_losted_saved_1">
+		<text>Ты... Спасибо... Ты спас мне жизнь... Я правда тебе благодарен...</text>
+	</string>
+	<string id="esc_army_losted_saved_2">
+		<text>Пошли, бедолага.</text>
+	</string>
+	<string id="esc_trader_final_dialog_xd_0">
+		<text>Ты как-то упоминал, что тебе мешает торговец с фермы.</text>
+	</string>
+	<string id="esc_trader_final_dialog_xd_1">
+		<text>Да. Я уже почти подготовил почву для того, чтобы подорвать его бизнес. Я свяжусь с тобой, как всё будет готово.</text>
+	</string>
+	<string id="esc_trader_final_dialog_xd_2">
+		<text>Хорошо. Пойду отдохну.</text>
+	</string>
+	<string id="esc_kogot_killed_trader_0">
+		<text>Где Сидор?</text>
+	</string>
+	<string id="esc_kogot_killed_trader_1">
+		<text>Мёртв. Несколько часов назад услышал выстрел в бункере. Когда зашёл - никого нет внутри. Только тело торговца. Мы его вынесли и закопали. Жаль, конечно. Сидор хоть и был жабой жадной, но ведь был своей жабой. Он так долго в Зоне был, что даже не верится, что его нет.</text>
+	</string>
+	<string id="lab_thing_dialog_0">
+		<text>Ты так близок...</text>
+	</string>
+	<string id="lab_thing_dialog_1">
+		<text>Твою мать... Снова ты!</text>
+	</string>
+	<string id="lab_thing_dialog_2">
+		<text>Не останавливайся. Иди к своей цели. Ты на верном пути.</text>
+	</string>
+	<string id="lab_thing_dialog_3">
+		<text>Что?! Кто ты?!</text>
+	</string>
+	<string id="lab_thing_doors_dialog_0">
+		<text>И куда ты собрался?</text>
+	</string>
+	<string id="lab_thing_doors_dialog_1">
+		<text>Снова ты! Кто ты?!</text>
+	</string>
+	<string id="lab_thing_doors_dialog_2">
+		<text>Всему своё время, Инк. Ты ведь хочешь попасть туда, не так ли? Тебе нужно попасть в лабораторию.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_3">
+		<text>Откуда ты это знаешь?</text>
+	</string>
+	<string id="lab_thing_doors_dialog_4">
+		<text>Всему своё время... Сейчас важно лишь то, что я могу тебе с этим помочь. Тебе лишь нужно найти код от этих дверей. По всем катакомбам разбросаны записи персонала. Быть может, ты сможешь найти код в них? Ну правда тебе пригодится блокнот начальника. Надеюсь, у тебя он уже есть.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_5">
+		<text>Твою мать...</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_0">
+		<text>Та-а-ак...</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_1">
+		<text>Что ты делаешь?</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_2">
+		<text>Отвали. Просто дай мне немного времени.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_3">
+		<text>Э-э... Ладно?</text>
+	</string>
+	<string id="lbx_ecolog_dialog_0">
+		<text>Что вы сделали?! Кто вы?! Вы хоть понимаете, что натворили?!</text>
+	</string>
+	<string id="lbx_ecolog_dialog_1">
+		<text>Отвали.</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_0">
+		<text>Хах... Ха-ха... Ха...</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_1">
+		<text>Теперь ты уже не убежишь, ублюдок.</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_2">
+		<text>Ха...</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_3">
+		<text>Смейся, пока можешь.</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_4">
+		<text>Ха-ха-ха...</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_5">
+		<text>*Избить*</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_0">
+		<text>Ха-ха...</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_1">
+		<text>Мало?! И ты ещё и ржёшь, сука?! За что ты убил её?! Отвечай!</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_2">
+		<text>Ха...</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_3">
+		<text>Говори, мразь! Что она тебе сделала?! Она была ребёнком! Ребёнком, сука!</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_4">
+		<text>Ахаха...</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_5">
+		<text>С-сука... *Выстрелить*</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_0">
+		<text>М... Ха-ха...</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_1">
+		<text>Что?! Какого..?</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_2">
+		<text>Ха... Ха... Ха...</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_3">
+		<text>КОГДА ТЫ УЖЕ, БЛЯТЬ, СДОХНЕШЬ?!</text>
+	</string>
+	<string id="lbx_ecolog_end_dialog_0">
+		<text>Стойте... Не делайте этого! Вы даже не представляете что творите!</text>
+	</string>
+	<string id="lbx_ecolog_end_dialog_1">
+		<text>Твою мать, закройся! Пока я тебя тоже не убил.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_0">
+		<text>Жалкое зрелище...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_1">
+		<text>Что? Снова ты... Почему ты меня преследуешь?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_2">
+		<text>Ты ведь так ничего и не понял, не так ли?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_3">
+		<text>Нет?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_4">
+		<text>Эти лаборанты... Военные в катакомбах... Доктор... Ты правда не понимаешь, что сделал?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_5">
+		<text>Чего?! Какие, нахрен, лаборанты?! А дока и военных убил ты!</text>
+	</string>
+	<string id="lbx_start_thing_dialog_6">
+		<text>А если вспомнить?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_7">
+		<text>Что..? </text>
+	</string>
+	<string id="lbx_start_thing_dialog_8">
+		<text>Ох... Ты ведь сам убил их. Вспомни.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_9">
+		<text>Я... Это не... Не может быть...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_10">
+		<text>Да-а-а... Правда может быть... неожиданной. </text>
+	</string>
+	<string id="lbx_start_thing_dialog_11">
+		<text>...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_12">
+		<text>В общем-то теперь всё это уже не особо важно. Главное, что твоя ненависть высвободила меня.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_13">
+		<text>Подожди... Это значит..?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_14">
+		<text>Да. Никакого Миссионера никогда не было. У тебя никогда не было сестры, которая якобы умерла от его рук. Эти воспоминания - моих рук дело.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_15">
+		<text>Но... кто был на ферме? Кого лечил док?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_16">
+		<text>Всё просто - Док лечил другого сталкера. Все твои разговоры про Миссионера были на самом деле про другого сталкера. Просто в твоей голове они сохранились так, словно они были как раз о нём.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_17">
+		<text>Я... Боже...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_18">
+		<text>Как я и сказал, теперь всё это не столь важно. Я свободен. Почти. Нужно избавиться от моего "проводника". Не бойся - я сделаю всё быстро.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_19">
+		<text>Хочешь убить меня? Хер тебе!</text>
+	</string>
+	<string id="lbx_start_thing_dialog_20">
+		<text>Решил побарахтаться? Ладно... Ты лишь отсрочишь неизбежное - не более.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_21">
+		<text>Сейчас мы это и узнаем.</text>
+	</string>
+	<string id="lbx_end_thing_dialog_0">
+		<text>Бесполезно... Как же ты жалок...</text>
+	</string>
+	<string id="lbx_end_thing_dialog_1">
+		<text>Что ты, блять, такое?! Что тебе нужно?! Отвали от меня!</text>
+	</string>
+	<string id="lbx_end_thing_dialog_2">
+		<text>Твоя жизнь не меняется. Из года в год одно и то же. Прожигаешь жизнь на бесполезные занятия.</text>
+	</string>
+	<string id="lbx_end_thing_dialog_3">
+		<text>Что? О чём ты? Твою мать, отстань!</text>
+	</string>
+	<string id="lbx_end_thing_dialog_4">
+		<text>Добро пожаловать в ад. В реальный ад... Ах да. Проверь папку с игрой.</text>
+	</string>
+	<string id="lbx_end_thing_dialog_5">
+		<text>Чего?!</text>
+	</string>
+</string_table>

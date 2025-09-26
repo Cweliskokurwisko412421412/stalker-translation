@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dm_hello_0">
+		<text>Что-то нужно?</text>
+	</string>
+	<string id="dm_hello_1">
+		<text>Приветствую.</text>
+	</string>
+	<string id="dm_hello_10">
+		<text>Привет.</text>
+	</string>
+	<string id="dm_hello_11">
+		<text>Здравствуй.</text>
+	</string>
+	<string id="dm_hello_12">
+		<text>Что надо?</text>
+	</string>
+	<string id="dm_hello_13">
+		<text>Чего тебе?</text>
+	</string>
+	<string id="dm_hello_14">
+		<text>Говори.</text>
+	</string>
+	<string id="dm_hello_15">
+		<text>Что нужно?</text>
+	</string>
+	<string id="dm_hello_16">
+		<text>Чё тебе?</text>
+	</string>
+	<string id="dm_hello_17">
+		<text>Слушаю.</text>
+	</string>
+	<string id="dm_hello_2">
+		<text>Ну, здравствуй.</text>
+	</string>
+	<string id="dm_hello_3">
+		<text>Чё тебе?</text>
+	</string>
+	<string id="dm_hello_4">
+		<text>О, нарисовался!</text>
+	</string>
+	<string id="dm_hello_5">
+		<text>Чё нужно?</text>
+	</string>
+	<string id="dm_hello_6">
+		<text>Хаюшки.</text>
+	</string>
+	<string id="dm_hello_7">
+		<text>Здорово, мэн.</text>
+	</string>
+	<string id="dm_hello_8">
+		<text>Хай.</text>
+	</string>
+	<string id="dm_hello_9">
+		<text>Здорово.</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>Привет.</text>
+	</string>
+</string_table>
