@@ -1,0 +1,48 @@
+<w>
+    <file name="ui\js2_ui_hud">
+        <!-- Boss health bar -->
+        <texture id="ui_boss_sega_healph" x="328" y="0" width="332" height="14" />
+        <texture id="ui_boss_sega_healph_progress" x="328" y="15" width="328" height="9" />
+
+        <!-- Main hud -->
+        <texture id="ui_inGame2_Main_HUD_window" x="0" y="0" width="1" height="1" />
+        <texture id="ui_inGame2_Main_HUD_health_bar" x="0" y="699" width="138" height="7" />
+        <texture id="ui_inGame2_Main_HUD_stamina_bar" x="0" y="707" width="138" height="3" />
+
+        <!-- Subtitles -->
+        <texture id="ui_subtitles_background" x="0" y="738" width="1024" height="153" />
+
+        <!-- Radar (minimap) -->
+        <texture id="ui_inGame2_Radar_main_window" x="831" y="9" width="185" height="185" />
+	    <texture id="ui_inGame2_Radar_blue_bar" x="0" y="0" width="1" height="1" />
+	    <texture id="ui_inGame2_Radar_green_bar" x="0" y="0" width="1" height="1" />
+	    <texture id="ui_inGame2_Radar_compass" x="854" y="213" width="143" height="143" />
+
+		<!-- Achievements -->
+        <texture id="ui_achiev_background" x="835" y="630" width="189" height="52" />
+
+        <!-- Bleeding -a->
+	    <texture id="ui_inGame2_circle_bloodloose_green" x="1110" y="96" width="864" height="864" />
+	    <texture id="ui_inGame2_circle_bloodloose_yellow" x="1088" y="64" width="896" height="896" />
+	    <texture id="ui_inGame2_circle_bloodloose_orange" x="1056" y="32" width="960" height="960" />
+	    <texture id="ui_inGame2_circle_bloodloose_red" x="1024" y="0" width="1024" height="1024" />
+
+		<! Needs: hunger -a->
+	    <texture id="ui_inGame2_circle_hunger_green" x="11" y="925" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_hunger_yellow" x="11" y="948" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_hunger_orange" x="11" y="970" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_hunger_red" x="11" y="993" width="20" height="22" />
+		
+		<! Needs: overweight -a->
+		<texture id="ui_inGame2_circle_Overweight_green" x="61" y="925" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_Overweight_yellow" x="61" y="948" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_Overweight_orange" x="61" y="970" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_Overweight_red" x="61" y="993" width="20" height="22" />
+    	    
+		<! Needs: radiation -a->
+		<texture id="ui_inGame2_circle_radiation_green" x="162" y="925" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_radiation_yellow" x="162" y="948" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_radiation_orange" x="162" y="970" width="20" height="22" />
+	    <texture id="ui_inGame2_circle_radiation_red" x="162" y="993" width="20" height="22" />-->
+    </file>
+</w>
