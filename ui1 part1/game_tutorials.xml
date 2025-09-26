@@ -1,0 +1,397 @@
+<window>
+	<talk_ssu>
+    <render_prio>5</render_prio>
+    <global_wnd width="1024" height="768">
+     	<pause_state>off</pause_state>
+   		<auto_static width="1024" height="768" stretch="1">
+      			<texture>intro\intro_back</texture>
+   		</auto_static>
+      	<function_on_stop>xr_effects.pri_a28_talk_ssu_video_end</function_on_stop>
+  	</global_wnd>
+	<item>
+		<length_sec>60</length_sec>
+    <disabled_key>quit</disabled_key>
+    <main_wnd>
+      <auto_static  start_time="0" length_sec="61" x="0" y="96" width="1024" height="576" stretch="1">
+        <widescreen_rect width="1024" height="768"/>
+        <texture width="638" height="358">intro\video_talk_with_ssu</texture>
+    	</auto_static>
+		</main_wnd>
+	</item>
+	</talk_ssu>
+
+	<outro_game>
+    <persistent>1</persistent>
+		<global_wnd width="1024" height="768">
+      <pause_state>on</pause_state>
+   		<auto_static width="1024" height="768" stretch="1">
+      			<texture>intro\intro_back</texture>
+   		</auto_static>
+      <function_on_start>outro_cond.start_bk_sound</function_on_start>
+      <function_on_stop>outro_cond.stop_bk_sound</function_on_stop>
+    </global_wnd>
+    
+		<item>
+			<length_sec>8</length_sec>
+      <function_on_frame>outro_cond.update_bk_sound_fade_start</function_on_frame>
+
+      <main_wnd>
+		 		<auto_static  start_time="0" length_sec="8" x="0" y="32" width="1024" height="576" stretch="1">
+          <widescreen_rect width="1024" height="768"/>
+          <texture width="638" height="358">outro\0_pause</texture>
+   			</auto_static>
+			</main_wnd>
+		</item>
+		<item>
+			<length_sec>15.6</length_sec>
+      		<sound>characters_voice\scenario\pripyat\pri_a28_outro_phrase_1</sound>
+      		<main_wnd>
+        		<auto_static  start_time="0" length_sec="15.6" x="0" y="32" width="1024" height="576" stretch="1">
+          			<widescreen_rect width="1024" height="768"/>
+          			<texture width="638" height="358">outro\1_medal</texture>
+    			</auto_static>
+				<auto_static start_time="0" length_sec="15.6" x="500" y="870" width="870" height="500" alignment="c" stretch="1"
+					light_anim="pri_a28_phrase_1" la_cyclic="0" la_texture="1" la_alpha="1">
+					<text align="c" font="graffiti22" r="100" g="100" b="100" a="255">outro_phrase_1</text>
+				</auto_static>
+ 	  		</main_wnd>
+		</item>
+	</outro_game>
+#include "ui\ui_credits.xml"
+
+	<game_over>
+		<global_wnd/>
+
+		<item>
+			<length_sec>4</length_sec>
+			<pause_state>off</pause_state>
+			<guard_key>jump</guard_key>
+			<function_on_stop>xr_effects.on_tutor_gameover_stop</function_on_stop>
+			<action id="quick_load" finalize="1">xr_effects.on_tutor_gameover_quickload</action>
+			<sound/>
+			<grab_input>1</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="10000" x="410" y="330" width="300" height="60">
+					<text font="letterica25"  r="255" g="0" b="0" a="255" align="c">st_game_over</text>
+				</auto_static>
+				<auto_static start_time="3" length_sec="10000" x="410" y="660" width="300" height="60" light_anim="ui_pda_contacts" la_cyclic="1" la_text="1" la_alpha="1">
+					<text font="letterica18"  r="255" g="0" b="0" a="255" align="c">st_game_over_press_jump</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</game_over>
+
+  <game_loaded>
+    <global_wnd>
+      <pause_state>on</pause_state>
+    </global_wnd>
+
+    <item>
+      <length_sec>1</length_sec>
+      <guard_key>any</guard_key>
+      <grab_input>1</grab_input>
+      <main_wnd>
+
+        <auto_static start_time="0" length_sec="10000" alignment="c" x="512" y="545" width="600" height="30" light_anim="ui_slow_blinking_alpha" la_cyclic="1" la_text="1" la_alpha="1">
+          <text font="letterica18"  r="180" g="180" b="180" a="255" align="c">st_press_any_key</text>
+        </auto_static>
+      </main_wnd>
+    </item>
+  </game_loaded>
+
+#include "ui\ui_credits.xml"
+
+<intro_logo>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<play_each_item>1</play_each_item>
+
+	<item>
+		<length_sec>0</length_sec>
+		<main_wnd>
+			<auto_static  start_time="0" length_sec="0" x="0" y="32" width="1024" height="576" stretch="1">
+				<widescreen_rect width="1024" height="768"/>
+				<texture width="638" height="358">intro\intro_back</texture>
+			</auto_static>
+		</main_wnd>
+		<grab_input>0</grab_input>
+	</item>
+</intro_logo>
+
+<intro_game>
+	<global_wnd width="1024" height="768">
+		<auto_static width="1024" height="768" stretch="1">
+			<texture>intro\intro_back</texture>
+		</auto_static>
+	</global_wnd>
+	<play_each_item>1</play_each_item>
+
+	<item>
+		<length_sec>0</length_sec>
+		<main_wnd>
+			<auto_static  start_time="0" length_sec="0" x="0" y="32" width="1024" height="576" stretch="1">
+				<widescreen_rect width="1024" height="768"/>
+				<texture width="638" height="358">intro\intro_back</texture>
+			</auto_static>
+		</main_wnd>
+		<grab_input>0</grab_input>
+	</item>
+</intro_game>
+
+	<tutorial_sleep>
+		<global_wnd/>
+
+		<item>
+			<disabled_key>quit</disabled_key>
+			<length_sec/>
+			<action id="use" finalize="1">xr_effects.sleep</action>
+			<guard_key>use</guard_key>
+			<disabled_key>quit</disabled_key>
+			<grab_input>0</grab_input>
+			<main_wnd>
+				<auto_static start_time="0" length_sec="5000" x="512" y="660" width="300" height="60" alignment="c" stretch="1"
+							la_cyclic="1" la_texture="1" la_alpha="1">
+					<text font="graffiti22" r="225" g="225" b="250" a="255" align="c">sleep_zone_tip</text>
+				</auto_static>
+			</main_wnd>
+		</item>
+	</tutorial_sleep>
+
+<cat_menu_joke>
+  <over_main_menu>1</over_main_menu>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound>music\cat_menu</sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\cat_menu_joke</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\cat_menu_joke</texture>
+    </auto_static>
+  </global_wnd_16>
+
+	<item>
+		<length_sec>0.01</length_sec>
+		<sound></sound>
+    <function_on_stop>xr_effects.before_credits</function_on_stop>
+
+    <main_wnd>
+		</main_wnd>
+	</item>
+
+	<item>
+		<length_sec>13</length_sec>
+		<sound>music\cat_menu</sound>
+    <function_on_stop>xr_effects.after_credits</function_on_stop>
+     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</cat_menu_joke>
+
+<casseta_1_video>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound></sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd_16>
+
+
+	<item>
+		<length_sec>43</length_sec>
+		<sound>cassets\esc_casseta_1</sound>
+	     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</casseta_1_video>
+
+<casseta_2_video>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound></sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd_16>
+
+
+	<item>
+		<length_sec>43</length_sec>
+		<sound>cassets\esc_casseta_2</sound>
+	     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</casseta_2_video>
+
+<casseta_3_video>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound></sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd_16>
+
+
+	<item>
+		<length_sec>39</length_sec>
+		<sound>cassets\esc_casseta_3</sound>
+	     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</casseta_3_video>
+
+<casseta_4_video>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound></sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd_16>
+
+
+	<item>
+		<length_sec>43</length_sec>
+		<sound>cassets\esc_casseta_4</sound>
+	     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</casseta_4_video>
+
+<casseta_5_video>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound></sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd_16>
+
+
+	<item>
+		<length_sec>43</length_sec>
+		<sound>cassets\esc_casseta_5</sound>
+	     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</casseta_5_video>
+
+<casseta_6_video>
+  <persistent>1</persistent>
+
+   <global_wnd width="1024" height="768">
+     <pause_state>on</pause_state>
+     <sound></sound>
+
+   <auto_static width="1024" height="768" stretch="1">
+     <texture>intro\intro_back</texture>
+   </auto_static>
+    <auto_static x="0" y="32" width="1024" height="576" stretch="1">
+      <texture x="1" y="1"  width="1920" height="720">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd>
+
+  <global_wnd_16 width="1024" height="768">
+    <sound></sound>
+    <auto_static width="1024" height="768" stretch="1">
+      <texture width="1920" height="1080">ui\esc_casseta_background</texture>
+    </auto_static>
+  </global_wnd_16>
+
+
+	<item>
+		<length_sec>43</length_sec>
+		<sound>cassets\esc_casseta_6</sound>
+	     <pause_state>on</pause_state>
+    <main_wnd>
+		</main_wnd>
+	</item>
+</casseta_6_video>
+
+</window>

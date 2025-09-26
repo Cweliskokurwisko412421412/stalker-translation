@@ -1,0 +1,16 @@
+
+<cat_menu_joke>
+  <function_on_stop>xr_effects.before_credits</function_on_stop>
+  <over_main_menu>1</over_main_menu>
+  <persistent>1</persistent>
+  <global_wnd width="1024" height="768">
+<item>
+
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture width="1920" height="1080">ui\_cat_joke</texture>
+		</auto_static>
+  </item>
+
+    <function_on_stop>xr_effects.after_credits</function_on_stop>
+  </global_wnd>
+</cat_menu_joke>
