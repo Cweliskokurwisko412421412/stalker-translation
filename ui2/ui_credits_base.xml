@@ -1,0 +1,79 @@
+  <item>
+    <length_sec>1.5</length_sec>
+    <pause_state>on</pause_state>
+    <function_on_stop>xr_effects.before_credits</function_on_stop>
+    <guard_key/>
+    <cursor_pos x="1024" y="768"/>
+    <pda_section/>
+    <grab_input>1</grab_input>
+    <main_wnd/>
+  </item>
+
+    <item>
+			<length_sec>182</length_sec>
+			<pause_state>on</pause_state>
+			<guard_key/>
+			<sound>Music\credits</sound>
+			<cursor_pos x="1024" y="768"/>
+			<pda_section/>
+			<grab_input>1</grab_input>
+			<main_wnd>
+
+				<auto_static start_time="2" length_sec="7" x="325" y="270" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica25" color="ui_green">mod_thx_4_playing</text>
+				</auto_static>
+				
+				<auto_static start_time="10" length_sec="172" x="325" y="107" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica25" color="ui_green">mod_info</text>
+				</auto_static>
+
+				<auto_static start_time="10" length_sec="10" x="325" y="270" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" color="ui_green">mod_developer</text>
+				</auto_static>
+				<auto_static start_time="10" length_sec="10" x="325" y="290" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_scr1pt</text>
+				</auto_static>
+				<auto_static start_time="10" length_sec="10" x="325" y="310" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_ink</text>
+				</auto_static>
+
+				<auto_static start_time="22" length_sec="10" x="325" y="250" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" color="ui_green">mod_content</text>
+				</auto_static>
+				<auto_static start_time="22" length_sec="10" x="325" y="270" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_axr</text>
+				</auto_static>
+				<auto_static start_time="22" length_sec="10" x="325" y="290" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_stcop</text>
+				</auto_static>
+				<auto_static start_time="22" length_sec="10" x="325" y="310" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_voice_smot</text>
+				</auto_static>
+				<auto_static start_time="22" length_sec="10" x="325" y="330" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_voice_wolf</text>
+				</auto_static>
+				<auto_static start_time="22" length_sec="10" x="325" y="350" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_appro</text>
+				</auto_static>
+				<auto_static start_time="22" length_sec="10" x="325" y="370" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_others_thanks</text>
+				</auto_static>
+
+				<auto_static start_time="33" length_sec="10" x="325" y="270" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" color="ui_green">mod_donations_thx</text>
+				</auto_static>
+				<auto_static start_time="33" length_sec="10" x="325" y="290" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" r="255" g="0" b="125">mod_donations_text</text>
+				</auto_static>
+
+				<auto_static start_time="44" length_sec="138" x="325" y="270" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" color="ui_green">mod_about_tg</text>
+				</auto_static>
+				<auto_static start_time="44" length_sec="138" x="325" y="300" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" color="ui_green">mod_my_tg</text>
+				</auto_static>
+				<auto_static start_time="44" length_sec="138" x="325" y="360" width="500" height="40" light_anim="credits_head" la_cyclic="0" la_texture="0" la_alpha="1">
+					<text align="c" font="letterica18" color="ui_green">mod_music_only</text>
+				</auto_static>
+			</main_wnd>
+		</item>
