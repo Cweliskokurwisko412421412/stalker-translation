@@ -1,0 +1,16 @@
+<header>
+	<!-- subtitles -->
+  	<subtitles_name x="127" y="694" width="595" height="30" complex_mode="1">
+		<text font="letterica18" color="white" align="c"/>
+	</subtitles_name>
+	
+	<subtitles_text x="220" y="694" width="595" height="30" complex_mode="1">
+		<text font="letterica18" r="255" g="125" b="0" a="255" align="c"/>
+	</subtitles_text>
+
+	<subtitles_background x="0" y="678" width="1024" height="153" stretch="1">
+		<auto_static x="0" y="0" width="1024" height="153" stretch="1">
+			<texture>ui_subtitles_background</texture>
+		</auto_static>
+	</subtitles_background>
+</header>

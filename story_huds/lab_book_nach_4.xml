@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ 
+
+    <lab_book_nach_ui>
+
+	<table x="380" y="185" width="230" height="400" stretch="1">
+		<texture x="0" y="0" width="768" height="1024">ui\actors_note\actors_note_blank_bloknot_page</texture>
+	</table>
+
+	<name x="400" y="200" width="200" height="230" stretch="1" complex_mode="1">
+		<text x="0" y="0" r="0" g="0" b="255" a="255" font="letterica16">lab_zapiska_nach_4_text</text>
+	</name>
+
+	<text1 x="5400" y="240" width="200" height="230">
+		<text x="0" y="0" r="0" g="0" b="0" a="158" font="letterica16"  complex_mode="1">actor_note_text_1</text>
+	</text1>
+
+	<btn_1 x="380" y="600" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_back</text>
+	</btn_1>
+
+	<btn_2 x="520" y="600" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_out</text>
+	</btn_2>
+
+
+
+
+    </lab_book_nach_ui>
+
+

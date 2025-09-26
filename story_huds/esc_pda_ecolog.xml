@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ 
+
+    <esc_pda_ecolog_ui>
+
+	<table x="300" y="205" width="400" height="400" stretch="1">
+		<texture x="0" y="0" width="1024" height="768">ui\actors_note\pda_hud</texture>
+	</table>
+
+	<name x="-5450" y="200" width="480" height="500" stretch="1" complex_mode="1">
+		<text x="0" y="0" r="0" g="0" b="0" a="158" font="graffiti22">actor_note_name_4</text>
+	</name>
+
+	<text1 x="-5400" y="240" width="200" height="230">
+		<text x="0" y="0" r="0" g="0" b="0" a="158" font="letterica16"  complex_mode="1">actor_note_text_4</text>
+	</text1>
+
+	<btn_1 x="625" y="205" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_out</text>
+	</btn_1>
+
+	<btn_2 x="440" y="310" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_pda_ecolog_1</text>
+	</btn_2>
+
+	<btn_3 x="440" y="335" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_pda_ecolog_2</text>
+	</btn_3>
+
+	<btn_4 x="440" y="360" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_pda_ecolog_3</text>
+	</btn_4>
+
+	<btn_5 x="440" y="385" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_pda_ecolog_4</text>
+	</btn_5>
+
+	<btn_6 x="440" y="410" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_pda_ecolog_5</text>
+	</btn_6>
+
+	<btn_7 x="440" y="435" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_pda_ecolog_6</text>
+	</btn_7>
+
+
+
+
+    </esc_pda_ecolog_ui>
+
+

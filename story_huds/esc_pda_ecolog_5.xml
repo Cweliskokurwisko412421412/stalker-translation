@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ 
+
+    <esc_pda_ecolog_ui>
+
+	<table x="300" y="205" width="400" height="400" stretch="1">
+		<texture x="0" y="0" width="1024" height="768">ui\actors_note\pda_hud</texture>
+	</table>
+
+	<name x="-5450" y="200" width="480" height="500" stretch="1" complex_mode="1">
+		<text x="0" y="0" r="0" g="0" b="0" a="158" font="graffiti22">actor_note_name_4</text>
+	</name>
+
+	<text1 x="345" y="250" width="305" height="230">
+		<text x="0" y="0" r="255" g="255" b="255" a="255" font="letterica16"  complex_mode="1">esc_ecolog_pda_note_5</text>
+	</text1>
+
+	<btn_1 x="280" y="205" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_back</text>
+	</btn_1>
+
+	<btn_2 x="625" y="205" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_ui_out</text>
+	</btn_2>
+
+
+    </esc_pda_ecolog_ui>
+
+

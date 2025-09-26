@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+ 
+
+    <mod_startgame_ui>
+
+	<table x="300" y="205" width="400" height="400" stretch="1">
+		<texture x="0" y="0" width="1024" height="768">ui\actors_note\startgame_window</texture>
+	</table>
+
+	<name x="480" y="210" width="480" height="500" stretch="1" complex_mode="1">
+		<text x="0" y="0" r="255" g="0" b="0" a="255" font="graffiti22">mod_startgame_name</text>
+	</name>
+
+	<text1 x="325" y="240" width="345" height="240">
+		<text x="0" y="0" r="255" g="255" b="255" a="255" font="letterica16"  complex_mode="1">mod_startgame_text</text>
+	</text1>
+
+	<btn_1 x="440" y="605" width="108" height="24">
+	    <texture_e>ui\button_invisible</texture_e>
+		<texture_t>ui\button_invisible</texture_t>
+		<texture_h>ui\button_invisible</texture_h>
+	    <text x="0" y="0" r="0" g="0" b="0" a="250" font="letterica16" >mod_startgame_cont</text>
+	</btn_1>
+
+    </mod_startgame_ui>
+
+
