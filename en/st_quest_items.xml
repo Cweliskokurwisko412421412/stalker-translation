@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="esc_casseta_1_name">
+		<text>Cassette "45"</text>
+	</string>
+	<string id="esc_casseta_1_desc">
+		<text>Cassette with number "45"</text>
+	</string>
+	<string id="esc_casseta_2_name">
+		<text>Cassette "16"</text>
+	</string>
+	<string id="esc_casseta_2_desc">
+		<text>Cassette with number "16"</text>
+	</string>
+	<string id="esc_casseta_3_name">
+		<text>Cassette "19"</text>
+	</string>
+	<string id="esc_casseta_3_desc">
+		<text>Cassette with number "19"</text>
+	</string>
+	<string id="esc_casseta_4_name">
+		<text>Cassette "132"</text>
+	</string>
+	<string id="esc_casseta_4_desc">
+		<text>Cassette with number "132"</text>
+	</string>
+	<string id="esc_casseta_5_name">
+		<text>Cassette "68"</text>
+	</string>
+	<string id="esc_casseta_5_desc">
+		<text>Cassette with number "68"</text>
+	</string>
+	<string id="esc_casseta_6_name">
+		<text>Cassette "2"</text>
+	</string>
+	<string id="esc_casseta_6_desc">
+		<text>Cassette with number "2"</text>
+	</string>
+	<string id="esc_red_flower_name">
+		<text>Scarlet flower</text>
+	</string>
+	<string id="esc_red_flower_desc">
+		<text>Scarlet flowers in the zone appear extremely rarely. They appear in radioactive and rusty technique, paradoxically they themselves do not absorb this radiation. In a sense, they are a "panacea".</text>
+	</string>
+	<string id="esc_plants_name">
+		<text>A set of herbs</text>
+	</string>
+	<string id="esc_plants_desc">
+		<text>Several herbs, mushrooms and other things for a missionary.</text>
+	</string>
+	<string id="esc_panatseya_name">
+		<text>Panacea</text>
+	</string>
+	<string id="esc_panatseya_desc">
+		<text>Remedy for everything.</text>
+	</string>
+	<string id="esc_panatseya_device_name">
+		<text>Plush</text>
+	</string>
+	<string id="esc_panatseya_device_desc">
+		<text>Unknown device from Plush. Takes strange signals in different parts of the zone.</text>
+	</string>
+	<string id="esc_samogon_name">
+		<text>Moonshine</text>
+	</string>
+	<string id="esc_samogon_desc">
+		<text>Moonshine. Closed quite tightly.</text>
+	</string>
+	<string id="esc_pda_thief_name">
+		<text>PDA miserable</text>
+	</string>
+	<string id="esc_pda_thief_desc">
+		<text>Judging by the notes, the missionary fell ill with a "landfill ration." To create a medicine, the doctor from the farm needs herbs that are in the hogly cache, and the Scarlet Flower.</text>
+	</string>
+	<string id="esc_pda_ecolog_name">
+		<text>PDA scientist</text>
+	</string>
+	<string id="esc_pda_ecolog_desc">
+		<text>Incomprehensible notes. The CPC is engraved by Irididius and depicts a symbol of the laboratory of the same name.%C [255,0,255,0] \ n [can be used]</text>
+	</string>
+	<string id="esc_furry_bloknot_name">
+		<text>Notebook</text>
+	</string>
+	<string id="esc_furry_bloknot_desc">
+		<text>Notepad with interesting drawings.%C [255,0,255,0] \ n [can be used]</text>
+	</string>
+	<string id="esc_furry_planshet_name">
+		<text>Graphic tablet</text>
+	</string>
+	<string id="esc_furry_planshet_desc">
+		<text>Case with a graphic tablet with a whole set of periphery, including an adapter for the CCP. Unfortunately, you do not know how to draw yourself.</text>
+	</string>
+	<string id="esc_pda_corpse_house_name">
+		<text>CPC Condor</text>
+	</string>
+	<string id="esc_pda_corpse_house_desc">
+		<text>Last entry:%C [255,0,255.0] \ n "My friends are waiting ... I have to meet with them that night ... again ..." again ... "</text>
+	</string>
+	<string id="esc_der_key_house_name">
+		<text>Key</text>
+	</string>
+	<string id="esc_der_key_house_desc">
+		<text>Key. Presumably from the house in the village of Novichkov.</text>
+	</string>
+	<string id="esc_strange_book_name">
+		<text>Strange book</text>
+	</string>
+	<string id="esc_strange_book_desc">
+		<text>A book with various stories about supernatural and mythological creatures.</text>
+	</string>
+	<string id="esc_saphire_inac_name">
+		<text>"Sapphire" (inactive)</text>
+	</string>
+	<string id="esc_saphire_inac_desc">
+		<text>Blue artifact, called sapphire. Presumably adds endurance to the carrier.</text>
+	</string>
+	<string id="esc_rubin_inac_name">
+		<text>"Rubin" (inactive)</text>
+	</string>
+	<string id="esc_rubin_inac_desc">
+		<text>Red artifact called ruby. Presumably heals the carrier.</text>
+	</string>
+	<string id="mod_saphire_name">
+		<text>"Sapphire"</text>
+	</string>
+	<string id="mod_saphire_desc">
+		<text>Blue artifact, as if almost in zero gravity. Slightly increases the transferred weight of the owner, and also significantly increases his endurance.</text>
+	</string>
+	<string id="mod_rubin_name">
+		<text>"Ruby"</text>
+	</string>
+	<string id="mod_rubin_desc">
+		<text>Red artifact, which seems to pulsate. Significantly increases the survivability of the owner and accelerates the healing of wounds.</text>
+	</string>
+	<string id="esc_moonlight_strange_name">
+		<text>Strange "moonlight"</text>
+	</string>
+	<string id="esc_moonlight_strange_desc">
+		<text>The artifact, outwardly similar to the "moonlight", but its properties are unknown.</text>
+	</string>
+	<string id="esc_menu_pashalki_note_name">
+		<text>Strange note</text>
+	</string>
+	<string id="esc_menu_pashalki_note_desc">
+		<text>%C [255,0,255.0] I remember once in a restaurant. I looked at \ N %C [255,0,0,125,255] menu %C [255,0,255.0], and there, in addition to normal food, some strange points: \ N %C [255,0,0,125,255] “KILL”%C [255,0,255.0],%C [255,0,0,125,255] “CAT”%C [255,0,255.0] and some other ... \ n name, whether%C [255,0,125.2555] owner of the restaurant%C [255.0.255.0], Either \ n %C [255,0,125,255] chefs of %C [255,0,255.0] I do not remember for sure.</text>
+	</string>
+	<string id="esc_kontrik_note_name">
+		<text>A note of the unknown</text>
+	</string>
+	<string id="esc_kontrik_note_desc">
+		<text>%C [255,0,255.0] "Refrigerator in one of the cellars of the village. Code from the castle - 4145."</text>
+	</string>
+	<string id="esc_kontrik_note_1_name">
+		<text>A note from the refrigerator</text>
+	</string>
+	<string id="esc_kontrik_note_1_desc">
+		<text>%C [255,0,255,0] "We will meet in the sewage of the destroyed farm."</text>
+	</string>
+	<string id="esc_zavet_zapoved_1_name">
+		<text>The first commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_1_desc">
+		<text>%C [255,0,255.0] "... And the Lord was angry, seeing how humanity was mired in sin. People from His temples turned away, from His servants, from his old instructions. People opened the gates into new temples, and sewn up from these temples, stained the earth, soaked it with poison. \ n \ n saw a god God bewilder to see that they deserve the suffering with their embezzlement.</text>
+	</string>
+	<string id="esc_zavet_zapoved_2_name">
+		<text>The second commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_2_desc">
+		<text>%C [255,0,255.0] "The zone is not a place for disclosure and old. The zone is not subject to destruction. The zone is an eternal temple, a blow of the beach of God on the body of mankind. A trace of this will remain from the blow of this, and when the last judgment comes to which everything will be called up: both living and dead ... \ n \ n The zone will remain the only temple in which the atonement will be found at the reduction Sinners.</text>
+	</string>
+	<string id="esc_zavet_zapoved_3_name">
+		<text>The third commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_3_desc">
+		<text>%C [255,0,255.0] "Three times rejected, three times persecuted, three times devoted to people, but never devoted to the Lord - that was him, the word he was hearing, he saw the Epistle of God. One reinforced, surrounded by the casts. One came to the zone, but inspired many by himself. Their! ”He told him. And he plunged the world into suffering.”</text>
+	</string>
+	<string id="esc_zavet_zapoved_4_name">
+		<text>The fourth commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_4_desc">
+		<text>%C [255,0,255.0] "warned them with the metropolitan that everyone will come, convened by the devil at the feast. The first will be fanatics blinded by the will of the devil and take it for God's will. They will be followed by the Costacea, along the roads will pass through their own greed. The latter will be released. False Messiahs that declare the zone with a threat and wished to destroy it and said the Lord: \ n \ n "On the bunches of my anger, each of them deserves, trim at them, like a scourge."</text>
+	</string>
+	<string id="esc_zavet_zapoved_5_name">
+		<text>The fifth commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_5_desc">
+		<text>%C [255,0,255.0] "There are no values ​​of others other than the value of your faith, your fraternity and your suffering. There are no values ​​of others except the words of God who come to you from the lips of the Metropolitan. There are no values ​​of others, but the newly new, but the newfound! And he said: \ n \ N" Drive away from the fact that you call it with artifacts - Make them sacrifice to my altar. "\ n and plunged the world into suffering."</text>
+	</string>
+	<string id="esc_zavet_zapoved_6_name">
+		<text>The sixth commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_6_desc">
+		<text>%C [255,0,255.0] "You should become your brothers, you will become a support for the Metropolitan's teaching, but the main thing is to seek a support in your own suffering. Strive to divide it with your brothers, carry your suffering into the world. \ n \ n like your deed of God's deed, because it brought the zone as a gift and as a gift; Bring other people suffering, bring him exactly like the Lord, so that you are cursed and blessed by you: for he said: \ n \ n "I brought a common fate to you. Break it together, spill both tears and blood together. "\ N and plunged the world into suffering."</text>
+	</string>
+	<string id="esc_zavet_zapoved_7_name">
+		<text>The seventh commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_7_desc">
+		<text>%C [255,0,255.0] "called blessed, do not see the whim at all. The Lord sent a separate punishment, a terrible punishment for sins. Those who listened to the call of the zone, but not into the call of the Lord, are destined to follow this damned call. Their ears and their minds will no longer hear their minds. \ n \ n, only the metropolitan can return They, give them hope for them. False light is worse than darkness, and you are destined to extinguish it. "\ N and plunged the world into suffering."</text>
+	</string>
+	<string id="esc_zavet_zapoved_8_name">
+		<text>The eighth commandment of the Metropolitan</text>
+	</string>
+	<string id="esc_zavet_zapoved_8_desc">
+		<text>%C [255,0,255.0] "... So there is suffering? Your suffering is more than pain. Your suffering means more than atonement. Your suffering is a conscious opposition to the world, for the world is immersed in temptation and vice, the world is tempting to renounce suffering and live in sin, and the world suffers in sin, although this is hiding. Our sins, and only in suffering we bring ourselves to righteousness. Do not survive the suffering, of which you would be unworthy. "\ N and plunged the world into suffering."</text>
+	</string>
+	<string id="esc_quest_zippo_name">
+		<text>Lighter</text>
+	</string>
+	<string id="esc_quest_zippo_desc">
+		<text>Just a lighter. It seems new and complete.</text>
+	</string>
+	<string id="esc_kpp_art_name">
+		<text>Strange artifact</text>
+	</string>
+	<string id="esc_kpp_art_desc">
+		<text>Green artifact found on a checkpoint.</text>
+	</string>
+	<string id="lab_book_nach_name">
+		<text>Posts of the boss</text>
+	</string>
+	<string id="lab_book_nach_desc">
+		<text>Collection of records of the head of the department. Apparently, there are no several pages.</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

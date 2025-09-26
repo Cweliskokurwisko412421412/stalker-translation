@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+
+
+
+	<string id="esc_ecolog_pda_note_2">
+		<text>The Kvazar object is an intangible form of reasonable nature, first recorded after the incident in the zone of a split in reality at a depth of 480 meters under the sea level in the Karst formation "Head of Saturn". Outwardly, it does not manifest, but has a powerful psychocognitive effect on everyone who is in the radius of its "look" (conditional term). The nature of influence is the stretching, exposure and stimulation of suppressed impulses, destructive emotions and moral deviations of the subject.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_3">
+		<text>The object does not emit electromagnetic waves, does not absorb light and is not fixed on the chambers. The only way of its presence is behavioral changes in people nearby.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_5">
+		<text>At the moment, a working hypothesis is put forward: “Quasar” is not an independent mind in the usual sense, but an amplifier of sin, an energy resonator that enhances the lower impulses of the soul. This is not a creature, but a catalyst for moral decay. \ n possible explanations: \ n 1) a quantum-psychic entity that feeds on cognitive distortions. \ n 2) something that exists "on the other side of morality" that does not perceive good and evil, but enhancing the conflict between them. \ N 3) An illusory mirror that distorts the reflection of a person until he himself believes in the monster in him.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_6">
+		<text>1) the approach to the object should be accompanied by two observers with autonomous neural locking. \ n 2) prevent persons with psyche disorders, religious exaltation and a tendency to wine. \ N 3) In the case of verbal contact with the object, it is forbidden to respond - any reverse speech causes an increase in exposure.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_7">
+		<text>With each new session, it is more difficult for me to separate thoughts from the influence of the object. Sometimes, looking at the notes, I do not recognize my voice. He sounds ... more confident. Smarter. Colder. But he is not me. I think no. I hope not.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_41">
+		<text>Subject No. 6 (guard, age 41): \ n 4 minutes after approaching the chamber showed stable symptoms of paranoia, then an attack of verbal aggression. In the 9th minute, he admitted to the drown of his own brother in childhood. After 12 minutes, he tried to open, screaming: \ n "I thought, I forgot ... But it made me remember!"</text>
+	</string>
+	<string id="esc_ecolog_pda_note_42">
+		<text>Subject No. 12 (Assistant, age 28): \ n first demonstrated anxiety, then - a transobed state. She said in a voice that did not belong to her: \ n "In each of you I like mold. You rot, and I am your warmth." \ n after waking up she refused to speak, eyes were not focused.</text>
+	</string>
+	<string id="esc_ecolog_pda_note_43">
+		<text>The subject No. 19 (volunteer, monk-Jesuit): \ N showed pronounced sadistic inclinations, admitted the thoughts of violence against parishioners. After breaking the contact with the object, he cried continuously for 6 hours. Repeated contact caused convulsions and complete braking of speech. Neuroscaning revealed new neural ties in the temporal lobe.</text>
+	</string>
+	<string id="esc_panatseya_message">
+		<text>%C [255,255,125.0] PLUSH: %C [255,0,255,255] Man! Help out! I am seriously wounded, there is a syringe nearby, I can't reach ... He will put me on my feet ...</text>
+	</string>
+	<string id="esc_sidor_message">
+		<text>%C [255,255,125.0] Sidorovich: %C [255,0,255,255] BANDYUGAN, DUY to me. There is a conversation.</text>
+	</string>
+	<string id="esc_mind_main_task">
+		<text>It seems that I forgot about why I came here at all ... I will return to Sidor and ask him about the missionary. Or maybe the claw knows ...</text>
+	</string>
+	<string id="esc_after_sleep_mind">
+		<text>Yours ... what a strange dream ... And where is the dock ..? ... it was not a dream ..? What kind of garbage have I seen? Am I going crazy?</text>
+	</string>
+	<string id="esc_voenniy_anekdot_mind">
+		<text>But you heard about Neptune a story? No? Duck I'll tell you now ...</text>
+	</string>
+	<string id="esc_after_buhlo_mind">
+		<text>Oh ... we sat well. Surprisingly, I feel great. I should go to the colonel ...</text>
+	</string>
+	<string id="esc_door_zapiska_joke_2">
+		<text>3 - ... - 2 - ...</text>
+	</string>
+	<string id="esc_glava_1_end_warn">
+		<text>This is your last opportunity to complete additional tasks. Are you sure? There will be no way back.</text>
+	</string>
+	<string id="mod_message_note">
+		<text>Message</text>
+	</string>
+	<string id="st_save_startgame_mod">
+		<text>The beginning of the game</text>
+	</string>
+	<string id="mod_glava_1_name">
+		<text>Episode 1 - Prolog</text>
+	</string>
+	<string id="st_save_startgame_glava_1">
+		<text>Episode 1 - Prolog</text>
+	</string>
+	<string id="st_save_kpp_glava_1">
+		<text>Episode 1 - Dead PPP</text>
+	</string>
+	<string id="st_save_into_lab_glava_1">
+		<text>Episode 1 - in catacombs</text>
+	</string>
+	<string id="mod_glava_1_subs_yes">
+		<text>%C [255,0,255,0] Now you can talk with all gang participants.</text>
+	</string>
+	<string id="furry_choose_page">
+		<text>Choose a page</text>
+	</string>
+	<string id="esc_strange_sound_house">
+		<text>What kind of ..? Some strange noise from below.</text>
+	</string>
+	<string id="esc_freezer_dis_wtf">
+		<text>What? Where did he go?!</text>
+	</string>
+	<string id="esc_kontrik_ask_wtf">
+		<text>What ... what was it?</text>
+	</string>
+	<string id="esc_omg_dogs_novice">
+		<text>This? C-" Kill ... kill them!</text>
+	</string>
+	<string id="esc_mitropolit_message">
+		<text>%C [255,0,255,0] Now you can show the notes of Metropolitan Raguil.</text>
+	</string>
+	<string id="esc_panatseya_message_1">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255] I do not understand how to switch the fucking channel?!</text>
+	</string>
+	<string id="esc_panatseya_message_2">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255] P. .... One hundred ...... those to me! Mn .. ote .... it hurts ... pain ....!</text>
+	</string>
+	<string id="esc_panatseya_message_3">
+		<text>%C [255,255,125.0] PLUSHA device: %C [255,0,255,255] You went to the fuck, Iroquois!</text>
+	</string>
+	<string id="esc_panatseya_message_4">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255] Shut up, dried apricots!</text>
+	</string>
+	<string id="esc_panatseya_message_5">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255]*just interference*</text>
+	</string>
+	<string id="esc_panatseya_message_6">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255] die! Direct! Direct!</text>
+	</string>
+	<string id="esc_panatseya_message_7">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255] Is there really nHROREN? How so?</text>
+	</string>
+	<string id="esc_panatseya_message_8">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255]*just interference*</text>
+	</string>
+	<string id="esc_panatseya_message_real">
+		<text>%C [255,255,125.0] PLUSH device: %C [255,0,255,255] Meeting, as agreed, in the house opposite the pig farm. Do not be late, lead ... I hope you have not forgotten the code? "Recently, a lot of radioactive precipitation has fallen in the zone."</text>
+	</string>
+	<string id="mod_startgame_name">
+		<text>Fine</text>
+	</string>
+	<string id="mod_startgame_text">
+		<text>This is a project that will try to show a zone on behalf of different people. \ n initially the mod was supposed to have one whole story and switching between the heroes was supposed to be executed during the plot, but some technical difficulties prevented this. \ n this line will occur in separate episodes. All episodes will have a common plot, but they will be self -sufficient. \ n episodes will be released gradually. Let them not be so big, but they will be saturated. In any case, I will try to make them such. \ n as the episodes release, the past will probably be replenished with new content. \ N officially the mod applies only to AP-Pro and in the telegram of the developer channel https://t.me/scr1pthome. \ n \ n © Scr1pt & © Ink</text>
+	</string>
+	<string id="mod_startgame_cont">
+		<text>Continue</text>
+	</string>
+	<string id="mod_choose_glava_game">
+		<text>Select the episode</text>
+	</string>
+	<string id="mod_glava_1_page">
+		<text>1 - Prologue</text>
+	</string>
+	<string id="mod_glava_2_page">
+		<text>2 - ???</text>
+	</string>
+	<string id="mod_glava_3_page">
+		<text>3 - ???</text>
+	</string>
+	<string id="esc_sidor_pidoras">
+		<text>Sidor! It seems to me that you did not hear our last conversation! Since you don't understand the word, we will play in a bad way ...</text>
+	</string>
+	<string id="lab_army_man_minds">
+		<text>Something I don't like this place ...</text>
+	</string>
+	<string id="lab_zapiska_1_text">
+		<text>Newbie! I have a personal task for you! So to speak - a mess. \ n we have new equipment here not so long ago, just fresh. Your task is to delve into it! You are not afraid, it is not yet connected to the overall system - it should not be shandarairal. Well, if you climb into the right part. \ n ha! Kidding! You should have given you a protective suit. Everything will be fine, greens!</text>
+	</string>
+	<string id="lab_teleport_door_minds">
+		<text>I can't go ...</text>
+	</string>
+	<string id="mod_ui_out">
+		<text>Leave</text>
+	</string>
+	<string id="mod_ui_fly_glava_1">
+		<text>Fly</text>
+	</string>
+	<string id="mod_ui_back">
+		<text>Back</text>
+	</string>
+	<string id="mod_ui_furry_1_p">
+		<text>1 page</text>
+	</string>
+	<string id="mod_ui_furry_2_p">
+		<text>2 page</text>
+	</string>
+	<string id="mod_ui_furry_3_p">
+		<text>3 page</text>
+	</string>
+	<string id="mod_ui_furry_4_p">
+		<text>4 page</text>
+	</string>
+	<string id="mod_ui_furry_5_p">
+		<text>5 page</text>
+	</string>
+	<string id="mod_ui_podopit_1">
+		<text>Passing "1"</text>
+	</string>
+	<string id="mod_ui_podopit_2">
+		<text>Expising "2"</text>
+	</string>
+	<string id="mod_ui_podopit_3">
+		<text>Expising "3"</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_1">
+		<text>Introduction</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_2">
+		<text>Observations</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_3">
+		<text>Explust</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_4">
+		<text>Theory</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_5">
+		<text>Recommendations</text>
+	</string>
+	<string id="mod_ui_pda_ecolog_6">
+		<text>Personal remark</text>
+	</string>
+	<string id="mod_ui_casseta_1">
+		<text>Cassette "45"</text>
+	</string>
+	<string id="mod_ui_casseta_2">
+		<text>Cassette "16"</text>
+	</string>
+	<string id="mod_ui_casseta_3">
+		<text>Cassette "19"</text>
+	</string>
+	<string id="mod_ui_casseta_4">
+		<text>Cassette "132"</text>
+	</string>
+	<string id="mod_ui_casseta_5">
+		<text>Cassette "68"</text>
+	</string>
+	<string id="mod_ui_casseta_6">
+		<text>Cassette "2"</text>
+	</string>
+	<string id="lab_wtf_bro_how">
+		<text>%C [255,255,125.0] The owner of the zone: %C [255,0,255,255] How did you get there?</text>
+	</string>
+	<string id="lab_zapiska_nack_text">
+		<text>If you read this, it means that my decision is executed. \ n \ n I tried to convince myself for a long time that we have a choice. That all this is for the sake of science, for the sake of the future, for the sake of something more. But at some point you stop believing even your own excuses. \ n \ n we crossed the line. Not today, not yesterday - much earlier. We simply did not notice how they became part of something shapeless, inhuman, infinitely cold. \ n \ n I can no longer participate in this. Neither in silence, nor signatures, nor orders. \ n \ n forgive those who stayed. Some of them still believe that they are doing the right one. \ n \ n If someone once decides to figure it out, start with the archives in the third quarter. Everything began there. \ n \ n "Silence is also a choice."</text>
+	</string>
+	<string id="mod_ui_lab_nach_choose">
+		<text>Select the record</text>
+	</string>
+	<string id="mod_ui_laba_out_glava_1">
+		<text>Continue</text>
+	</string>
+	<string id="esc_laba_glava_1_end_warn">
+		<text>Are you sure you want to leave the catacombs? There will be no way back.</text>
+	</string>
+	<string id="mod_ui_lab_nach_0">
+		<text>Introduction</text>
+	</string>
+	<string id="mod_ui_lab_nach_1">
+		<text>Logistics</text>
+	</string>
+	<string id="mod_ui_lab_nach_2">
+		<text>Explust</text>
+	</string>
+	<string id="mod_ui_lab_nach_3">
+		<text>Victims</text>
+	</string>
+	<string id="mod_ui_lab_nach_4">
+		<text>Staff</text>
+	</string>
+	<string id="mod_ui_lab_nach_5">
+		<text>Malfunctions</text>
+	</string>
+	<string id="mod_ui_lab_nach_6">
+		<text>Third -party</text>
+	</string>
+	<string id="mod_ui_lab_nach_7">
+		<text>Ethics</text>
+	</string>
+	<string id="mod_ui_lab_nach_8">
+		<text>Psychology</text>
+	</string>
+	<string id="lab_zapiska_nach_1_text">
+		<text>This report summarizes the intermediate results of research in the framework of the Observation-12 project. Information on the emerging logistics difficulties, instability in the behavior of experimental, the level of losses among subjects, as well as changes in the composition of personnel, technical failures and assessing the moral state of the collective are included. Data on the intervention of external structures and a brief analysis of the impact of experimental procedures on the course of the project are also given. \ n sash, collect everything and attach here!</text>
+	</string>
+	<string id="lab_zapiska_nach_3_text">
+		<text>The underground railway line connecting the main complex with external distribution points, failed at the 11th week of the project. The reasons are collapses in old tunnels and suspicions of sabotage. This led to a delay in the delivery of key components for up to 19 days. Some samples had to be removed from local reserves, which reduced the accuracy of experiments.</text>
+	</string>
+	<string id="lab_zapiska_nach_4_text">
+		<text>Since the launch of the project, there is a high degree of instability among experimental. Psychosomatic disorders, refusal to cooperate are manifested, and in several cases, self -overlap. Attempts to stabilize using standard tools have shown a short -term effect. The protocols were rewritten with the strengthening of physical control.</text>
+	</string>
+	<string id="lab_zapiska_nach_5_text">
+		<text>At the time of compiling the report, 49 deaths were confirmed, including 44 experimental and 5 lower -level employees. 90% of the subjects were previously convicted of particularly serious crimes and voluntarily chose to participate in the program instead of the death penalty. Formally, all the documents were signed, but the actual awareness of the participants remains in question.</text>
+	</string>
+	<string id="lab_zapiska_nach_6_text">
+		<text>Over the past 3 months, 7 unauthorized departures of employees with 3-4 levels of tolerance have been recorded. In informal reports, hallucinations, nightmares and an inexplicable feeling of "pressure" in the research sectors are mentioned. Two employees after leaving the complex were hospitalized with acute psychoses.</text>
+	</string>
+	<string id="lab_zapiska_nach_7_text">
+		<text>Regular power outages in the sector B led to the failure of several surveillance cameras and automatic shut -off mechanisms. On June 14, the passionate of the experimental is recorded into the administrative zone, which ended with the death of the laboratory assistant ***. After the incident, additional levels of physical protection were established.</text>
+	</string>
+	<string id="lab_zapiska_nach_8_text">
+		<text>Nobody expected the intervention of third -party interference. They agreed on some conditions, which, for some reasons, will be disclosed. I had to allocate a room for them. We requested a code castle. We must not forget to transfer to them that the code is 941523.</text>
+	</string>
+	<string id="lab_zapiska_nach_9_text">
+		<text>During the internal audit, deviations from the approved protocols regarding the duration of the impact and the volume of applied agents were revealed. The commission recorded at least four cases of conscious exceeding the limits. The investigation was temporarily suspended by order of a higher project curator.</text>
+	</string>
+	<string id="lab_zapiska_nach_10_text">
+		<text>The level of anxiety among the staff is growing rapidly. In conversations and personal diaries, numerous references to phrases like: “It has gone too far”, “We do not control the situation” and “They begin to understand”. The psychological service can no longer cope with the load - an external rotation of specialists is required.</text>
+	</string>
+	<string id="lab_quasar_message">
+		<text>What ... go.</text>
+	</string>
+	<string id="glava_1_end_name">
+		<text>The worst thing for a person is to realize that he is crazy.</text>
+	</string>
+	<string id="glava_2_end_name">
+		<text>It is even worse to understand that you cannot stop it.</text>
+	</string>
+
+
+
+
+
+
+
+
+
+
+
+	<string id="st_save_startgame_mod_wz">
+		<text>Squad "Quasar"</text>
+	</string>
+	<string id="st_save_startgame_mod_der">
+		<text>Corbena History</text>
+	</string>
+	<string id="start_wz_mind_1">
+		<text>What is such a reality? No one can say for sure, because everyone sees the world in their own way.</text>
+	</string>
+	<string id="start_wz_mind_12">
+		<text>That's why everyone has their own perception of reality.</text>
+	</string>
+	<string id="start_wz_mind_2">
+		<text>At the same time, at the other end of the zone ...</text>
+	</string>
+	<string id="wz_first_start_1">
+		<text>... Base, reception!</text>
+	</string>
+	<string id="wz_first_start_2">
+		<text>*Interference*</text>
+	</string>
+	<string id="wz_first_start_3">
+		<text>I repeat: base, reception!</text>
+	</string>
+	<string id="wz_first_start_4">
+		<text>Purchase ...</text>
+	</string>
+	<string id="wz_first_start_5">
+		<text>Fifth, you are at the entrance!</text>
+	</string>
+	<string id="tip_take_zapiska_lab">
+		<text>%C [255,255,125.0] Collect entries ($ dollar Action_use $ $)</text>
+	</string>
+	<string id="radio_on">
+		<text>%C [255,255,125.0] Turn on radio ($ ACTION_USE $ $)</text>
+	</string>
+	<string id="tip_take_nach_book">
+		<text>%C [255,255,125.0] Pick the records ($ dollar asses_use $ $)</text>
+	</string>
+	<string id="tip_magnitofon">
+		<text>%C [255,255,125.0] Turn on a tape recorder ($ dollar affion_use $ $)</text>
+	</string>
+	<string id="tip_stuk_dver">
+		<text>%C [255,255,125.0] Show ($ dollar affion_use $ $)</text>
+	</string>
+	<string id="tip_kpp_art">
+		<text>%C [255,255,125.0] Take a strange artifact ($ dollar affion_use $ $)</text>
+	</string>
+	<string id="tip_zapiska_joke_2">
+		<text>%C [255,255,125.0] Read the note ($ dollar assness_use $ $)</text>
+	</string>
+	<string id="tip_lab_door">
+		<text>%C [255,255,125.0] Open the door ($ dollar action_use $ $)</text>
+	</string>
+	<string id="tip_flower_red">
+		<text>%C [255,255,125.0] Tear off a flower ($ ACTION_USE $ $)</text>
+	</string>
+	<string id="tip_lab_trubi">
+		<text>%C [255,255,125.0] Example ($ dollar Action_use $ $)</text>
+	</string>
+	<string id="tip_luk_out">
+		<text>%C [255,255,125.0] Remove the hatch ($ $ Action_use $ $)</text>
+	</string>
+	<string id="tip_check_secret_quest">
+		<text>%C [255,255,125.0] Check the cache ($ dollar affion_use $ $)</text>
+	</string>
+	<string id="radio_off">
+		<text>%C [255,255,125.0] Turn off the radio ($ dollar action_use $ $)</text>
+	</string>
+	<string id="wz_spy_dialog_1">
+		<text>Tell me, well, here the fuck is this Herrovin, if there is one hell here but us except us?</text>
+	</string>
+	<string id="wz_spy_dialog_2">
+		<text>Do you think I know? Let's pick it, "programmer", fucking.</text>
+	</string>
+	<string id="wz_spy_dialog_3">
+		<text>I swear, someday I will reveal your throat for the "programmer". Fucked already, seriously.</text>
+	</string>
+	<string id="wz_spy_dialog_4">
+		<text>Gee-gy. Do you think why am I still telling you this at any opportunity?</text>
+	</string>
+	<string id="wz_spy_dialog_5">
+		<text>I also need a sidekick ...</text>
+	</string>
+	<string id="wz_spy_dialog_6">
+		<text>All-all, not no. How long will you twist this piece of iron?</text>
+	</string>
+	<string id="wz_spy_dialog_7">
+		<text>Wait a minute ... you need to configure it so that everything is jamming except our walkie -talkies.</text>
+	</string>
+	<string id="bad_tool_der">
+		<text>%C [255,255,125.0] TOLECTION in too poor condition</text>
+	</string>
+	<string id="der_kanistra_tip">
+		<text>%C [255,255,125.0] Take the canister ($ dollar affion_use $ $)</text>
+	</string>
+	<string id="der_axe_tip">
+		<text>%C [255,255,125.0] It seems that this hammer is in a decent state. \ n Take a hammer ($ $ Action_use $ $)</text>
+	</string>
+	<string id="take_benzin_tip">
+		<text>%C [255,255,125.0] It seems that fuel is still left here. \ n dial gasoline ($ $ Action_use $ $)</text>
+	</string>
+	<string id="no_benzin_tip">
+		<text>%C [255,255,125.0] Fuel ended</text>
+	</string>
+	<string id="der_sub_bout_stranger_1">
+		<text>What, fucking, was it? Am I going crazy?</text>
+	</string>
+	<string id="der_sub_bout_car">
+		<text>M-Mat.</text>
+	</string>
+
+
+
+
+
+
+
+	<string id="quicksave">
+		<text>Fast conservation</text>
+	</string>
+	<string id="actor_inventory_box_use">
+		<text>%C [255,255,125.0] Open a personal box ($ $ Action_use $ $)</text>
+	</string>
+	<string id="cant_walk">
+		<text>You are too exhausted to move</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>You are too overloaded to move</text>
+	</string>
+	<string id="car_character_use">
+		<text>%C [255,255,125.0] Open the door ($ dollar action_use $ $)</text>
+	</string>
+	<string id="character_use">
+		<text>%C [255,255,125.0] Speak ($ ​​dollar action_use $ $)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>%C [255,255,125.0] Search the corpse ($ dollar ass_use $ $)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>The task is completed:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>The task is failed:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Subject obtained:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Money was received:</text>
+	</string>
+	<string id="general_new_task">
+		<text>New task:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Lost object:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Lost money:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Sugity canceled:</text>
+	</string>
+	<string id="general_update_task">
+		<text>The task is updated:</text>
+	</string>
+	<string id="gun_jammed">
+		<text>The weapon jammed. Need to recharge.</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>%C [255,255,125.0] Select the box ($ $ Action_use $ $)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>%C [255,255,125.0] Raise the item ($ $ Action_use $ $)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>Sleep</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>You cannot sleep! You have dangerous bleeding and a high level of irradiation of the body. Use medicines or consult a doctor.</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>You cannot sleep! You have dangerous bleeding. Use medicines or consult a doctor.</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>You cannot sleep! You have a high level of irradiation of the body. Use medicines or consult a doctor.</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>Sleep ($ $ Action_use $ $)</text>
+	</string>
+	<string id="st_autosave">
+		<text>An autosocialization ...</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>Now you can get weapons.</text>
+	</string>
+	<string id="st_codelock">
+		<text>Coded Castle ($ Action_use $ $)</text>
+	</string>
+	<string id="st_game_over">
+		<text>Life is the most valuable thing we have ...</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Click ($ $ Action_JUMP $ $) to go to the main menu</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Pause</text>
+	</string>
+	<string id="st_game_saved">
+		<text>The game is saved</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>A critical level of psi radiation. Leave the danger zone immediately.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Dangerous level of radiation. Protection is required for the passage.</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>%C [255,255,125.0] DISCOUT THE CHANGE ($ dollar Action_use $ $)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>guide</text>
+	</string>
+	<string id="st_tip">
+		<text>Message</text>
+	</string>
+	<string id="tip_door_close">
+		<text>%C [255,255,125,0] Close the door ($ dollar affion_use $ $)</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>%C [255,255,125.0] The door is locked</text>
+	</string>
+	<string id="tip_door_open">
+		<text>%C [255,255,125.0] Open the door ($ dollar action_use $ $)</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>The zone recently occurred.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>The coordinates of the previously found cache were obtained</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>A cache was found</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>The coordinates of the cache were obtained</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>%C [255,255,125.0] Loading is completed</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

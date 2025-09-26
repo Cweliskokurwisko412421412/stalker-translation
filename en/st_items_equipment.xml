@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Anti -radiation drug</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>The drug of the Mexamine radio protection action, widespread in the zone. When used causes narrowing of peripheral blood vessels and oxygen starvation, which in this case is a means of preventing and treatment of radiation disease. Well tolerated by the overwhelming majority of people; In some cases, light nausea, dizziness, pain, less often vomiting are possible.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Bandage</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Aseptic bandage to stop bleeding and prevent infection into the wound. With ordinary bleeding, it allows you to bandage the wound, with arterial - pull the artery.</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Army binoculars with adjustable (up to 7.5 diopters) multiplicity. Allows you to examine the terrain and buildings in detail from a large distance.</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>Binoculars</text>
+	</string>
+	<string id="st_bread">
+		<text>Bread</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>It is not known who manages to bake the loaves on the territory of the zone, or how they are dragged through the perimeter. However, this bread is not infected, not radioactive, fresh enough and quite edible. In any case, none of the stalkers has yet complained.</text>
+	</string>
+	<string id="st_conserva">
+		<text>Canned food "Breakfast Tourist"</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Presumably, canned food with an army of the army food warehouse, molested by stalkers; It is not possible to establish exactly possible due to the lack of any label. The main thing is that the expiration date seems to have not yet expired.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Detector "Response"</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>An obsolete model of an abnormal activity detector. Reacts with a sound signal to the hit of abnormal particles into a special camera when approaching anomalies. In addition, it can register the presence of artifacts and measure the distance to the nearest of them - the distance to the artifact is determined by the frequency of the supplied sound signal. The search mode for artifacts is turned on by raising the antenna cover on the front panel of the device. Due to the simplicity of the design, only the most common artifacts are able to find.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Detector "Bear"</text>
+	</string>
+	<string id="st_detector3">
+		<text>Detector «Veles»</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>New generation detector-scanner used by scientists. Thanks to the three advanced registration cameras, the location of the artifact relative to the detector is displayed on a special screen. It is able to fix the radiation and presence of anomalies. The search mode of artifacts is turned on by raising the indicator-score on the front side of the device; In this mode, it is able to detect all artifacts known to science.</text>
+	</string>
+	<string id="st_detector4">
+		<text>Prototype detector «Svarog»</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>The prototype of the scanner of abnormal zones of expanded functionality. Added a recognition program for static zones of abnormal activity that are available in the database; At the same time, the possibility of detecting artifacts is preserved. The location of abnormal zones and artifacts relative to the detector are displayed on a special screen. The program for searching for artifacts, included when raising the indicator-note on the front side of the device, is improved; Theoretically, this allows us to discover anomalous formations that are not yet known to science.</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>Lanter with an mount on the head. It will come in handy for a stalker, whom the night found on the road; On the other hand, it can attract someone's undesirable attention.</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>Flashlight</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>Anabiotic</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>Antidote</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>The drug "Antitoxicant IP2" is a complex of antidotes: metoclopramide, pyridoxine, thiamine, riboxia and others. Introduces substances that can decompose protein poisons, as well as the absorbents of synthetic poisons. It is not particularly popular, since most stalkers rely more on gas mask and overalls. It has a long action.</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>"Oat flakes"</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>"Barvinok"</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Vikasol is a synthetic analogue of vitamin K. The main action is to increase blood coagulation. It is in demand among stalkers, since it allows the body to quickly scarred wounds. It has a long action.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>Chien-blockade</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>A narcotic drug that blocks avalanche nerve impulses. An interesting effect is interesting: after taking the drug, there is a short-term disappearance of any emotions. The zone is used to counteract anomalous fields of increased psi-active; Outside of its limits I did not find. It has a long action.</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Radioprotector</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Energy drink "Stalker"</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>It is often used by stalkers in multi -day campaigns, when there is no way to stop and relax. Contains easily absorbed carbohydrates, as well as drugs that cause adrenaline emission into the blood.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Talk at least you are with me, the guitar is seven -string! ..</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Guitar</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Sausage "Dietary"</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Often, for lack of the best, this sausage - a mixture of chicken and soy substitute - becomes breakfast, dinner and dinner of a stalker. Due to the large number of preservatives, it does not deteriorate for a long time.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Patch</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Army first -aid kit</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Specialized medical kit for first aid for injuries on the battlefield. The set includes means to accelerate blood coagulation based on “menadion”, painkillers, antibiotics and immunity stimulants; In addition, there is a simple surgical set for extracting fragments and bullets. Standard army first -aid kit; Less commonly found in the equipment of "Dolgovtsev".</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Universal medical set of one -time use. Allows you to cope with injuries of various types and degree of complexity: injuries, soft tissue bruises, thermal and chemical burns, various kinds of poisoning. It is very popular among stalkers.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Scientific first -aid kit</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>A medical set developed specifically for researchers who work in the zone. Contains funds both for healing mechanical injuries, and to prevent the development of radiation disease. Unlike other sets, you can find Vikasol, Batilol and C-Naftizin in this.</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>No saved data.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>CCP</text>
+	</string>
+	<string id="st_vodka">
+		<text>Vodka "Cossacks"</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Vodka production of GSC. It is well drunk, significantly reduces the effect of radiation on the body, although it should not be abused.</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Anomalous activity detector of the past generation. It is equipped with a locator of abnormal formations and LED display to display the direction to the artifact, and is able not only to detect artifacts, but also to determine the distances to them. The search mode for artifacts is turned on by raising the antenna cover on the front side of the device. Unfortunately, a somewhat outdated list of detected artifacts is sewn into the device tightly at the hardware level.</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>An experimental drug developed for research groups operating in the zone. Tetradotoxin, known as the “zombie powder”, which is part of the formula, causes a complete paralysis of the central nervous system; Presumably, this can provide survival outside the shelter during the release. The drug was not tested in the field and did not go through clinical trials, which casts doubt on its effectiveness and makes you think about possible side effects.</text>
+	</string>
+	<string id="st_bolt">
+		<text>Bolt</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>The main component is an artificially created steroid, in the chemical composition similar to testosterone. It is used by stalkers in long transitions to increase the threshold of muscle fatigue. Helps to significantly increase the transferred weight. Long -acting drug.</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>The Indralin-B190 radioprotector was part of the personal first-aid kits of the nuclear power plant workers. Appeared in the zone as a replacement of the excessive toxic cystamine of hydrochloride (RS1). Reduces the effect of gamma radiation on the tissues of a living organism. This drug is advisable to use preventively, before irradiation, since it does not have an instant effect. It has a long action.</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>Harmonica</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>For lovers of blues and prison romance.</text>
+	</string>
+	<string id="st_epinefrin_name">
+		<text>Epinephrine</text>
+	</string>
+	<string id="st_epinefrin_desc">
+		<text>The drug greatly increases endurance by some time.</text>
+	</string>
+	<string id="st_morphin_name">
+		<text>Morphine</text>
+	</string>
+	<string id="st_morphin_desc">
+		<text>The drug greatly increases metabolism for some time.</text>
+	</string>
+	<string id="st_strike_name">
+		<text>"Strike"</text>
+	</string>
+	<string id="st_strike_desc">
+		<text>The drug restores endurance and health as quickly as possible.</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

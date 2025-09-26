@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>The artifact is several hollow formations of organic nature interconnected. Selects a gaseous substance that can neutralize radioactive particles in the human body; No harmful effects of this substance were detected. In view of high efficiency, it is in great demand.</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>"Bubble"</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>It is a reddish formation from compressed and petrified residues of plants, soil and animal remains. It has the ability to partially neutralize chemicals harmful to humans. Radioactive.</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>"Blood of stone"</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>The artifact occurs in abnormal zones under the influence of high temperatures. Actively absorbs excess heat from the space around him, while remaining cool to the touch. Radioactive.</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>The artifact is a stone close in its characteristics to granite. It occurs inside the gravitational fields of enormous intensity. It is able to fully or partially protect the owner's mind from psi. Radioactive.</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>"Stone flower"</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>"Crystal"</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>It is known that this artifact includes electrostatic elements, but in what conditions it is formed, science is not yet known. Among the inhabitants and guests of the zone, the ability to exert a tonic effect on the human body is appreciated. With too long effects, it depleted the body. Radioactive.</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>"Battery"</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>It was previously considered a rubbish, devoid of any useful properties. However, some time ago it turned out that with constant contact with the human body, this artifact has a positive stimulating effect on the nervous system. Radioactive.</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>"Pacifier"</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Much in this artifact remains a mystery. However, it was reliably established that the radiation that occurs during the pulsation of the thickening of the “mother's beads” makes blood in open wounds very quickly curtails. Radioactive.</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>"Momns beads"</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>Artifact of electrostatic nature. Demonstrates an amazing ability to absorb electric charges and their subsequent dispersion. It is able to protect the human body from exposure to electric currents of high strength and high voltage. Radioactive.</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>"Flash"</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>This artifact of electrostatic nature demonstrates the ability to resonance under the influence of psi waves. Over time, stalkers learned to adjust the “moonlight” in such a way that it resonates in a phase with the main source of radiation, thereby completely or largely neutralizing psi-exposure. Radioactive.</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>"Moonlight"</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>A representative of the family of electrostatic artifacts, called for his brightness. It has the ability to smooth out changes in the electric field. Radioactive.</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>"Sparkler"</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>This artifact externally really resembles an organ of vision. With injuries, it accelerates metabolic processes, which contributes to the early healing of the wounds. In addition, among experienced stalkers there is a belief that the “eye” is able to bring good luck. Radioactive.</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>"Eye"</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>It is formed in areas of increased thermal activity. It is characterized by intense infrared radiation, under the influence of which the process of curtailing blood in open wounds is accelerated. Due to the very rarity of this artifact, its cost is extremely high. Radioactive.</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>"Flame"</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Despite the name, which completely reflects the nature of this artifact, the “fire ball” can easily be held in your hands without fear of burns. It is appreciated for the ability to maintain a constant temperature of about +24 degrees Celsius in a small radius around itself, regardless of environmental conditions. Radioactive.</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>"Fire ball"</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>A rather rare artifact formed in the zones of strong chemical pollution. It is very appreciated for the ability to “spur” the body so that in a matter of minutes it restores after injuries of any severity. Scientists disseminate information about the effect of the artifact on the genetic material of the owner; However, there is no confirmation of this yet. Radioactive.</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>"Kolobok"</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>"Firefly"</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>The artifact is formed in places of multiple interaction of gravitational fields. It generates around itself the sphere of directed gravitational field. Reduces the weight of the contents of the carrier's backpack is much more effective than other artifacts of this kind; In this regard, it is in great demand among stalkers. Radioactive.</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>"Goldfish"</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>The artifact is formed with prolonged gravitational effects on metal -containing substances. Able to maintain a small anti -gravity field around itself. Many stalkers use it to significantly reduce the weight of their backpack. Radioactive.</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>«Gravi»</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>Externally, the artifact is similar to the "bun"; There is an opinion that this is a “bun” that has fallen into a powerful electric field. It is able to sharply increase the muscle tone of the media. Radioactive.</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>«Snowflake»</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>The artifact of the gravitational nature, which has the ability to actively attract and absorb radioactive particles, thereby reducing the irradiation of the body. Widespread in the zone; Outside of its borders, although secretly, it is used in the treatment of acute radiation disease.</text>
+	</string>
+	<string id="st_af_medusa_name">
+		<text>"Jellyfish"</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>Artifact of organic nature. It consists of deformed animal tissues. When it enters the chemical pollution zone, it begins to “pull out” the chemicals from the air, converting them into a thick viscous mass. Radioactive.</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>“Lomot meat”</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>A luminous artifact that can generate a gravitational field around itself, which locally reduces the effect of attraction. It is widely used by stalkers to reduce the weight of the cargo transferred in the backpack. Radioactive.</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>"Night Star"</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>Organic artifact with unique properties. In an unknown way, it increases the total speed of restoration of the body after injuries of any nature, while not accelerating the accumulation of toxins. Due to the pleasant appearance, it is of particular interest to collectors. Radioactive.</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>"Soul"</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>A bizarre artifact arising in places of increased gravitational activity. It is a kind of sponge that absorbs radioactive elements. Equally successfully protects its carrier both from the effects of induced radiation, and from radioactive particles that have already entered the body.</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>"Testure"</text>
+	</string>
+	<string id="st_compass">
+		<text>"Compass"</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>A rare artifact - the last time it was found many months ago. It has the ability to show gaps in abnormal fields. They say that with his help you can pass by the most difficult anomalies without the slightest risk, but very few people know how to handle it.</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>"Oasis Heart"</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>Artifact from the center of the legendary oasis. Apparently, it is a crystallized plant that adopted the property inherent in the oasis to a beneficial effect on the body as a whole. Extremely radioactive, unlike the oasis itself.</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>“Svetlyak” works with fields inaccessible to science, accelerating the regeneration of tissues and organs of living creatures, as well as normalizing metabolic processes. He is able to literally in front of his eyes to put a person with heavy injuries. Unfortunately, this artifact is extremely rare. Radioactive.</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

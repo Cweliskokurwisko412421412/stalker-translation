@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>Anarchists of the zone. They profess the idea that the zone is a reserve of unlimited freedom for everyone, therefore, the laws, rules and conventions of the external world here lose strength. Their motto is: "Do what you want, just do not bother others." They are fighting against attempts to take control of the zone, as well as against the mercenary clan. Equipped mainly by small arms production of the former USSR and Russia.</text>
+	</string>
+	<string id="team_1_name">
+		<text>Group "Freedom" (free stalkers)</text>
+	</string>
+	<string id="team_2_desc">
+		<text>Seekers of adventures and thugs from around the world, not abyssing any, even the most dirty, work. The motto is logical and predictable: "Money does not smell." As long as artifacts pay well for artifacts, mercenaries will fight for control over their deposits. Equipped mainly by rifle weapons of Western production.</text>
+	</string>
+	<string id="team_2_name">
+		<text>Group "Mercenaries" (thugs)</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

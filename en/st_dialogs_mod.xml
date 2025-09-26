@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="esc_trader_hello_dialog">
+		<text>What are you?</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_0">
+		<text>%C [255,255,125.0] You asked to approach you when I rest.</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_1">
+		<text>Yes. So, look: you, and a couple more boys pits a green in the village of Green. They are already waiting for you and aware of everything. Do not brand it and do not rage especially with trunks! This greens itself will cross in any way when she sees you. They should not interfere. Your task with the bunker toad to meet and scare it. Let this dick pay for the "roof". Beat pieces of 10 per day. And yes, the old toad will understand that we will not kill him, but if he fucked, then we need to scare him, yeah?</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_2">
+		<text>So sharply will we dump our eggs?</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_3">
+		<text>I see no reason not to do this. Here, any person in the group costs a dozen such greenery as in the village, if not more expensive. Even Senka. Although he is a drunk, but when sober, he shoots S-Suke, more precisely, the arrow of Voroshilovsky. Oh yes, the sour wanted to see you. There he is behind you on the couch.</text>
+	</string>
+	<string id="esc_bandit_story_start_dialog_4">
+		<text>No problems. I went.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_0">
+		<text>Brother, do you need help?</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_1">
+		<text>Yes, listen. In short, this is a tape recorder here and cassettes, broken truth. I would like to get some normal cassettes. If you find, drag me. I will pay for each. If what, you can listen to their contents yourself.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_2">
+		<text>Cassettes? It would be better if he raised his ass and took up the deed, instead of sitting here and listening to the cassettes.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_3">
+		<text>Drop it. You also need to rest.</text>
+	</string>
+	<string id="esc_bandit_cassets_dialog_start_4">
+		<text>Okay, if anything falls - I will bring.</text>
+	</string>
+	<string id="esc_casseta_1_done">
+		<text>Cassette with number "45"</text>
+	</string>
+	<string id="esc_casseta_2_done">
+		<text>Cassette with number "16"</text>
+	</string>
+	<string id="esc_casseta_3_done">
+		<text>Cassette with number "19"</text>
+	</string>
+	<string id="esc_casseta_4_done">
+		<text>Cassette with number "132"</text>
+	</string>
+	<string id="esc_casseta_5_done">
+		<text>Cassette with number "68"</text>
+	</string>
+	<string id="esc_casseta_6_done">
+		<text>Cassette with number "2"</text>
+	</string>
+	<string id="esc_cassets_start_found_1">
+		<text>I found some cassette ...</text>
+	</string>
+	<string id="esc_cassets_start_found_2">
+		<text>Well, show it.</text>
+	</string>
+	<string id="esc_casseta_no">
+		<text>Forget.</text>
+	</string>
+	<string id="esc_bandit_go_to_derev_0">
+		<text>%C [255,255,125.0] I am ready. Let's go.</text>
+	</string>
+	<string id="esc_bandit_in_derev_start_0">
+		<text>%C [255,255,125.0] So?</text>
+	</string>
+	<string id="esc_bandit_in_derev_start_1">
+		<text>We pointedly pass through the village. Not really shawl, just go to the bunker. Negotiations on you.</text>
+	</string>
+	<string id="esc_bandit_in_derev_start_2">
+		<text>Understood.</text>
+	</string>
+	<string id="esc_bandit_end_peregovor_0">
+		<text>%C [255,255,125.0] I finished.</text>
+	</string>
+	<string id="esc_bandit_end_peregovor_1">
+		<text>Fine. We will stay here in the village. Follow, let's say. And you Cheshi on the ATP and tell me what and how.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_good_0">
+		<text>%C [255,255,125.0] Torgash agreed to pay. 10, as expected.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_good_1">
+		<text>Chu-oo-ok! Go to the chaban, he stumbled upon some garbage and was looking for you.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_0">
+		<text>%C [255,255,125.0] Diplomacy ... I came out not very successful.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_1">
+		<text>Didn't understand.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_2">
+		<text>The old toad refused to pay the appointed amount. He feels that we will not touch him, threw off the price of up to 6 thousand.</text>
+	</string>
+	<string id="esc_bandit_leader_dialog_1_bad_3">
+		<text>You are a crap negotiator, a jamb after you. Here's what: Kaban found something and wanted you to help him.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_0">
+		<text>%C [255,255,125.0] Well, Sidor, old toad, how is life?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_1">
+		<text>Well, until your herd has been poured.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_2">
+		<text>You offend.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_3">
+		<text>What do you need?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_4">
+		<text>So, such a topic ... We will be this, we will roof it, yeah? And you have to pay for the roof.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_5">
+		<text>So I thought ... Did you come to shake money from me and greenery? Well, you and goats.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_6">
+		<text>Are we goats? Have you seen your prices? Torgash of the cherov. I can be offended.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_67">
+		<text>How many?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_677">
+		<text>10 thousand per day.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_6666">
+		<text>Okay, knowing you, sick bastards, I better agree.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_7">
+		<text>Come on without this, I came to negotiate a non-normal one.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_7777">
+		<text>Many. 8 - End.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_8">
+		<text>But-no! Think about greenery in the village. Do you want to be left without customers? Do you understand what I'm talking about?</text>
+	</string>
+	<string id="esc_sidor_start_dialog_88">
+		<text>Okay ... 10 so 10 pieces. Just go already.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_9">
+		<text>You won't pay - just kill you.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_99">
+		<text>The gut is thin from you to kill me. You know very well what will go for it. And for threats I lower the board to 6 pieces.</text>
+	</string>
+	<string id="esc_sidor_start_dialog_6677">
+		<text>That's good. Tomorrow guys will come for money.</text>
+	</string>
+	<string id="esc_bandit_electra_hello_0">
+		<text>%C [255,255,125,0] Want?</text>
+	</string>
+	<string id="esc_bandit_electra_hello_1">
+		<text>Yes. Remember I found that black garbage, which glows blue and "buzzes"?</text>
+	</string>
+	<string id="esc_bandit_electra_hello_2">
+		<text>Well, yes.</text>
+	</string>
+	<string id="esc_bandit_electra_hello_3">
+		<text>In short, as I understand it, this is some kind of "box". There is something inside. I have an idea how to open it, but I need your help.</text>
+	</string>
+	<string id="esc_bandit_electra_hello_4">
+		<text>Come on, lead. I wonder what is the nonsense.</text>
+	</string>
+	<string id="esc_bandit_electra_cont_0">
+		<text>%C [255,255,125,0] well?</text>
+	</string>
+	<string id="esc_bandit_electra_cont_1">
+		<text>Wait a minute ... I open ... go a little.</text>
+	</string>
+	<string id="esc_bandit_electra_cont_2">
+		<text>Fine.</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_0">
+		<text>...</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_1">
+		<text>Are you ok?!</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_2">
+		<text>C-s-due... Ay, fucking! Create...</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_3">
+		<text>Can you go?</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_4">
+		<text>Yes ... like yes ... how it hurts.</text>
+	</string>
+	<string id="esc_bandit_electra_shoked_5">
+		<text>Come on, let's go back. The main thing that survived.</text>
+	</string>
+	<string id="esc_bandit_electra_end_0">
+		<text>%C [255,255,125,0] Is everything good?</text>
+	</string>
+	<string id="esc_bandit_electra_end_1">
+		<text>Yes ... I have it ... I need to move away from this a bit. Let's talk later, huh?</text>
+	</string>
+	<string id="esc_bandit_electra_end_2">
+		<text>Fine.</text>
+	</string>
+	<string id="esc_trader_job_start_0">
+		<text>%C [255,255,125.0] called?</text>
+	</string>
+	<string id="esc_trader_job_start_1">
+		<text>And hello to you. Do you want to cut the grandmas?</text>
+	</string>
+	<string id="esc_trader_job_start_2">
+		<text>Why do you offer it to me, and not someone from the village?</text>
+	</string>
+	<string id="esc_trader_job_start_3">
+		<text>These idiots are afraid of these idiots. And stalkers from the farm no longer go here. They have their own bargaining, the whole business is destroyed by a bitch.</text>
+	</string>
+	<string id="esc_trader_job_start_4">
+		<text>Hmm ... okay, I'll think about your assumption.</text>
+	</string>
+	<string id="esc_trader_about_dolg_0">
+		<text>Listen, Sidorych, do you accidentally know where the missionary is now?</text>
+	</string>
+	<string id="esc_trader_about_dolg_1">
+		<text>I have no idea.</text>
+	</string>
+	<string id="esc_kogot_job_start_0">
+		<text>%C [255,255,125.0] Claw, do you know where the missionary is?</text>
+	</string>
+	<string id="esc_kogot_job_start_1">
+		<text>Maybe I know. But where did you get that I will tell you?</text>
+	</string>
+	<string id="esc_kogot_job_start_2">
+		<text>Maybe we will agree? Help with what?</text>
+	</string>
+	<string id="esc_kogot_job_start_3">
+		<text>I strained me with money. I'll tell you for 10 thousand. And with this work I give you: here a couple of stalkers left the caches to check their own, but did not return. I saw where they went about, but I can't leave the camp myself. I also can't send greens from the village. You will find them and pay 10 thousand - I'll tell you where to look for the one you need.</text>
+	</string>
+	<string id="esc_kogot_job_start_4">
+		<text>La-a-Avo. Give a label for your poor.</text>
+	</string>
+	<string id="esc_novice_killer_okak_0">
+		<text>%C [255,255,125.0] Wouldn't you go to check the caches?</text>
+	</string>
+	<string id="esc_novice_killer_okak_1">
+		<text>T-you who?! What do you need?!</text>
+	</string>
+	<string id="esc_novice_killer_okak_2">
+		<text>The claw sent me for you, greens. What happened?</text>
+	</string>
+	<string id="esc_novice_killer_okak_3">
+		<text>He ... Kabani killed him!</text>
+	</string>
+	<string id="esc_novice_killer_okak_4">
+		<text>Something is not very similar. There is no one nearby.</text>
+	</string>
+	<string id="esc_novice_killer_okak_5">
+		<text>They ... ran away ...</text>
+	</string>
+	<string id="esc_novice_killer_okak_6">
+		<text>Yes? Are you sure of that?</text>
+	</string>
+	<string id="esc_novice_killer_okak_7">
+		<text>We went to take my caches ... He said that this was his caches ... And then the dogs attacked and bit him, and then I scared them off ...</text>
+	</string>
+	<string id="esc_novice_killer_okak_8">
+		<text>First, wild boars, now dogs ... I see this hole in his head. So tell me that he was filling him up.</text>
+	</string>
+	<string id="esc_novice_killer_okak_9">
+		<text>I ... I ... why ... how so ...</text>
+	</string>
+	<string id="esc_novice_killer_okak_10">
+		<text>Well good to whine. Cheshi to the claw. He will deal with you.</text>
+	</string>
+	<string id="esc_novice_killer_okak_11">
+		<text>This is not me ... True ... please ...</text>
+	</string>
+	<string id="esc_novice_killer_okak_12">
+		<text>Go, until you lie next to him.</text>
+	</string>
+	<string id="esc_kogot_after_novice_0">
+		<text>%C [255,255,125.0] A strange situation happened there. The boy killed his friend. Says the mutants attacked. Then he said that his friend wanted to appropriate his caches. Understand yourself in this matter.</text>
+	</string>
+	<string id="esc_kogot_after_novice_1">
+		<text>I doubt that he could kill his friend ... After all, from childhood they have known and have always been "do not spill water."</text>
+	</string>
+	<string id="esc_kogot_after_novice_2">
+		<text>Claw, you are longer than me in the zone. You should know how everything happens here.</text>
+	</string>
+	<string id="esc_kogot_after_novice_3">
+		<text>Okay, yes ... you're right, probably. You will have another 10 thousand with you, and then I will tell you where the person you are looking for.</text>
+	</string>
+	<string id="esc_kogot_has_money_0">
+		<text>%C [255,255,125.0] Here's the money.</text>
+	</string>
+	<string id="esc_kogot_has_money_1">
+		<text>So listen. Your stalker is on the farm. As far as I know, every night he leaves the base to one grave. You can find him there.</text>
+	</string>
+	<string id="esc_actor_thief_start_0">
+		<text>Clean you need here, rat bandit?</text>
+	</string>
+	<string id="esc_actor_thief_start_1">
+		<text>Well, fucking right on the head ... I need a missionary. You are stalkers, and sometimes you behave worse than bandits.</text>
+	</string>
+	<string id="esc_actor_thief_start_2">
+		<text>It's not for you to judge me, bitch. Why the hell do you need a missionary?</text>
+	</string>
+	<string id="esc_actor_thief_start_3">
+		<text>And you should not fuck you.</text>
+	</string>
+	<string id="esc_actor_thief_start_4">
+		<text>He owes me money. That's all.</text>
+	</string>
+	<string id="esc_actor_thief_start_5">
+		<text>Debts ... then listen here. The missionary picked up the "landfill". He is being laid down at the base in an extremely dick state.</text>
+	</string>
+	<string id="esc_actor_thief_start_6">
+		<text>I will not let this bastard die until he pays the debt ... I can do something?</text>
+	</string>
+	<string id="esc_actor_thief_start_7">
+		<text>Actually ... you can. You saw a bubble above the embankment? So: under the nearest trailer east from the bubble, I left a bag with herbs. And you also need to find a "scarlet flower". They get out of rusty technology. One such I recently saw on a fallen diesel locomotive, which is located in the east of the railway. From these things you can make serum.</text>
+	</string>
+	<string id="esc_actor_thief_start_8">
+		<text>Okay, I'm going. Wait.</text>
+	</string>
+	<string id="esc_panatseya_dialog_0">
+		<text>Have you picked it up?</text>
+	</string>
+	<string id="esc_panatseya_dialog_1">
+		<text>*Inject the syringe to the stalker*</text>
+	</string>
+	<string id="esc_panatseya_dialog_2">
+		<text>Now, wait a bit.</text>
+	</string>
+	<string id="esc_panatseya_dialog_3">
+		<text>Fu-uh ... thank you ... True, I am very grateful ...</text>
+	</string>
+	<string id="esc_panatseya_dialog_4">
+		<text>What happened?</text>
+	</string>
+	<string id="esc_panatseya_dialog_5">
+		<text>One stalker shot me. He left me to die, but you came and saved me ...</text>
+	</string>
+	<string id="esc_panatseya_dialog_6">
+		<text>Why does he need it?</text>
+	</string>
+	<string id="esc_panatseya_dialog_7">
+		<text>Don't know. Uh ... you see this garbage? *The stalker shows an incomprehensible device that is remotely similar to the PDA*. She from time to time catches strange signals in this house. Specifically in it. I tried to walk around the cordon, but there was no nifig. Listen, I'll go to the base and treat. I can't repay you for your help yet. Meet me later and I will pay you, yeah?</text>
+	</string>
+	<string id="esc_panatseya_dialog_8">
+		<text>Okay. Right.</text>
+	</string>
+	<string id="esc_panatseya_dialog_9">
+		<text>Hmm ... I have an idea. Although I could not find the places where signals appear, this does not mean that they are not. Can you look for them? Then I will pay with you and for the salvation and for the unraveling of this secret at a time.</text>
+	</string>
+	<string id="esc_panatseya_dialog_10">
+		<text>I'll try, come on.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_0">
+		<text>%C [255,255,125.0] I need inward.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_1">
+		<text>Who are you?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_2">
+		<text>Let go. I am on behalf of the miserable. I took the grass.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_21">
+		<text>He talked about you, yes. Come.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_3">
+		<text>Let go. I brought herbs for a missionary.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_31">
+		<text>Oh how ... how do you know?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_32">
+		<text>I know that's it. I need your "sick".</text>
+	</string>
+	<string id="esc_guard_hello_dialog_33">
+		<text>No. I will not let you go. Prove that you can trust you.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_34">
+		<text>I helped plush in a destroyed house opposite the farm.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_35">
+		<text>So it was you? Okay, you can pass.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_4">
+		<text>And how?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_41">
+		<text>You probably heard that in the northern checkpoint some garbage divorced and everyone goes to the landfill now only through the tunnel west?</text>
+	</string>
+	<string id="esc_guard_hello_dialog_42">
+		<text>Suppose.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_43">
+		<text>On the checkpoint this is my collectible deck of cards. I left her there even before the checkpoint became dangerous. If you bring them, then I will miss you.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_44">
+		<text>But do not you go a fuck with such requests? I'm trying to save your ", and you send me to death.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_45">
+		<text>Okay ... you're right. And about the cards I lied. Okay, then it's simpler. I left a backpack with moonshine in a tunnel under the embankment. Just bring it. This is nearby.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_46">
+		<text>If there is no moonshine, a funnel of Herov, I will shoot a skull to your skull.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_done_0">
+		<text>%C [255,255,125.0] BEY. And let me go already.</text>
+	</string>
+	<string id="esc_guard_hello_dialog_done_1">
+		<text>Walks.</text>
+	</string>
+	<string id="esc_thief_why_grass_0">
+		<text>Why did you hide the grass, and not wear it with you?</text>
+	</string>
+	<string id="esc_thief_why_grass_1">
+		<text>Duc "your" boys go to stalkers bother. You will understand them - they will take them yet.</text>
+	</string>
+	<string id="esc_doctor_hello_0">
+		<text>%C [255,255,125.0] dock, I suppose? You seem to need it.</text>
+	</string>
+	<string id="esc_doctor_hello_1">
+		<text>Yes. Thank you. It remains only to wait ...</text>
+	</string>
+	<string id="esc_doctor_hello_2">
+		<text>Long?</text>
+	</string>
+	<string id="esc_doctor_hello_3">
+		<text>A few hours. As I understand it, do you need this stalker? You can lie down there. I will inform you when he wakes up.</text>
+	</string>
+	<string id="esc_doctor_hello_4">
+		<text>To him.</text>
+	</string>
+	<string id="esc_lead_af_sleep_0">
+		<text>%C [255,255,125.0] What happened here?</text>
+	</string>
+	<string id="esc_lead_af_sleep_1">
+		<text>He killed the doctor and left while everyone was asleep.</text>
+	</string>
+	<string id="esc_lead_af_sleep_2">
+		<text>How? Where?</text>
+	</string>
+	<string id="esc_lead_af_sleep_3">
+		<text>I have no idea. The rest also know nothing.</text>
+	</string>
+	<string id="esc_lead_af_sleep_4">
+		<text>Bitch...</text>
+	</string>
+	<string id="esc_thief_secret_0">
+		<text>Ps-s ...</text>
+	</string>
+	<string id="esc_thief_secret_1">
+		<text>What?</text>
+	</string>
+	<string id="esc_thief_secret_2">
+		<text>I saw where the missionary went. Only nobody, I ask you.</text>
+	</string>
+	<string id="esc_thief_secret_3">
+		<text>Why is it?</text>
+	</string>
+	<string id="esc_thief_secret_4">
+		<text>He killed Doca. If they find him, they will also kill him. But you need him alive, right?</text>
+	</string>
+	<string id="esc_thief_secret_5">
+		<text>Right. Where did he go?</text>
+	</string>
+	<string id="esc_thief_secret_6">
+		<text>He jumped into the bubble.</text>
+	</string>
+	<string id="esc_thief_secret_7">
+		<text>Above the embankment? Thank you.</text>
+	</string>
+	<string id="esc_army_guard_hello_0">
+		<text>% c [255,255,255,05] San.</text>
+	</string>
+	<string id="esc_army_guard_hello_1">
+		<text>Do you have something important?</text>
+	</string>
+	<string id="esc_army_guard_hello_2">
+		<text>Yes. I need a colonel.</text>
+	</string>
+	<string id="esc_army_guard_hello_3">
+		<text>Walks.</text>
+	</string>
+	<string id="esc_army_guard_hello_4">
+		<text>Thank you.</text>
+	</string>
+	<string id="esc_army_leader_hello_0">
+		<text>%C [255,255,125,0] have not seen each other for a long time.</text>
+	</string>
+	<string id="esc_army_leader_hello_1">
+		<text>That's for sure.</text>
+	</string>
+	<string id="esc_army_leader_hello_2">
+		<text>How is life?</text>
+	</string>
+	<string id="esc_army_leader_hello_3">
+		<text>You didn't come to find out about my affairs. What do you need?</text>
+	</string>
+	<string id="esc_army_leader_hello_4">
+		<text>I need to get to the laboratory "Irididius".</text>
+	</string>
+	<string id="esc_army_leader_hello_5">
+		<text>You want what you wanted! Hmm ... we, in fact, were going to send a detachment there. You, damn it, are very on time.</text>
+	</string>
+	<string id="esc_army_leader_hello_6">
+		<text>Seriously? Take me with you.</text>
+	</string>
+	<string id="esc_army_leader_hello_7">
+		<text>An-no. I can't, I'm sorry. You are not a soldier. You are an outsider.</text>
+	</string>
+	<string id="esc_army_leader_hello_8">
+		<text>And what am I, in your army, damn it?</text>
+	</string>
+	<string id="esc_army_leader_hello_9">
+		<text>Well, why. I can actually organize you a "ticket", but not for it.</text>
+	</string>
+	<string id="esc_army_leader_hello_10">
+		<text>I recognize you ... and what do you need?</text>
+	</string>
+	<string id="esc_army_leader_hello_11">
+		<text>You see, the guys on the checkpoint have "unfinished" things here. They will fly only when they finish them.</text>
+	</string>
+	<string id="esc_army_leader_hello_12">
+		<text>I understand ... Speak who needs help there.</text>
+	</string>
+	<string id="esc_army_leader_hello_13">
+		<text>Here you have the list. You will help them - I will accept you in the detachment.</text>
+	</string>
+	<string id="esc_leader_army_completed_0">
+		<text>%C [255,255,125.0] It seems that everything ...</text>
+	</string>
+	<string id="esc_leader_army_completed_1">
+		<text>Yes. You really helped everyone. Listen, don't you want to sit with the guys? Chat in front of the flight.</text>
+	</string>
+	<string id="esc_leader_army_completed_2">
+		<text>That ... good.</text>
+	</string>
+	<string id="esc_army_final_polk_0">
+		<text>%C [255,255,125.0] Strong garbage, however. Surprisingly, my head does not even hurt.</text>
+	</string>
+	<string id="esc_army_final_polk_1">
+		<text>There is almost no hangover from this rubbish. The guys are already making the last preparations there. Come on, go to them and fly.</text>
+	</string>
+	<string id="esc_army_final_polk_2">
+		<text>So for sure!</text>
+	</string>
+	<string id="esc_army_final_fly_0">
+		<text>%C [255,255,125.0] something ... We sat well.</text>
+	</string>
+	<string id="esc_army_final_fly_1">
+		<text>Yeah, that's for sure. Come on, climb inside. We will finish cooking and fly out.</text>
+	</string>
+	<string id="esc_army_final_fly_2">
+		<text>Ug.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_0">
+		<text>Hey, what are you doing?</text>
+	</string>
+	<string id="esc_buy_about_blocknot_1">
+		<text>What do you care?</text>
+	</string>
+	<string id="esc_buy_about_blocknot_2">
+		<text>I know what kind of notebook this is. Uh ... Listen, don't you want to sell it? I'll give you 20 thousand and ... a good detector! How do you look at this?</text>
+	</string>
+	<string id="esc_buy_about_blocknot_3">
+		<text>Money will not be superfluous. Yes, and the detector will come in handy. Let's.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_4">
+		<text>No, I myself liked the notebook. Sorry.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_cont_0">
+		<text>I thought so ... Take a notebook.</text>
+	</string>
+	<string id="esc_buy_about_blocknot_cont_1">
+		<text>Thank you. As I said, take a detector, still I am looking for artifacts badly, and there is little money. For the sake of this, it is not a pity.</text>
+	</string>
+	<string id="esc_stalker_furry_start_0">
+		<text>%C [255,0,128,0] what is so sad?</text>
+	</string>
+	<string id="esc_stalker_furry_start_1">
+		<text>A? Yes, I lost my graphic tablet somewhere. Mmmm ... I like to draw. Uh ... can you find it? Please. He is very dear to me. I will give you something interesting in return! The tablet is somewhere on the southern part of the cordon, I did not go further than the railway.</text>
+	</string>
+	<string id="esc_stalker_furry_cont_0">
+		<text>Take away, artist.</text>
+	</string>
+	<string id="esc_stalker_furry_cont_1">
+		<text>You found him! Thank you! Here is my old notebook. This is since the time when I drew on paper ... I no longer need it, I have copies of the drawings.</text>
+	</string>
+	<string id="esc_bandit_8_just_0">
+		<text>Tell me what interesting?</text>
+	</string>
+	<string id="esc_bandit_8_just_1">
+		<text>In short, I found some kind of key recently, but I can't understand what it is from. Throwing, you know, it's a pity. You never know come in handy. Gee. And so there was no interesting nifiga lately. That's my leg except that he turned it up. It still hurts, bastard.</text>
+	</string>
+	<string id="esc_actor_predhistory_0">
+		<text>You, by chance, were not on the northern path two weeks ago? I was then in the Watch, I saw you. Only without a bandage.</text>
+	</string>
+	<string id="esc_actor_predhistory_1">
+		<text>Was. I recognized you too. Then you dragged the wounded stalker on yourself. Respect.</text>
+	</string>
+	<string id="esc_actor_predhistory_2">
+		<text>Strange. Then you did not shoot, and now you are not shooting. For bandyuk - the behavior is strange. Tell me what kind of story you have?</text>
+	</string>
+	<string id="esc_actor_predhistory_3">
+		<text>Not everyone who is in a leather scumbag. I myself used to go in shape. VVshnik, Kharkov. For many years. Until I got into the ears.</text>
+	</string>
+	<string id="esc_actor_predhistory_4">
+		<text>Yeah, and now you are hiding among those whom you yourself used to catch?</text>
+	</string>
+	<string id="esc_actor_predhistory_5">
+		<text>Not everything is so simple. There was one raid. Normal stripping. Only then it turned out - not everything was according to the charter. The command threw it, dumped everything on me. Like, the "initiative on the spot." Although the orders were clear.</text>
+	</string>
+	<string id="esc_actor_predhistory_6">
+		<text>Familiar. There is only one in the papers, on the ground - completely different.</text>
+	</string>
+	<string id="esc_actor_predhistory_7">
+		<text>So I remained extreme. On the lip, then under the tribunal. But I left. Through the checkpoint, to the zone. It is better to become a ghost here than to rot for what you did not.</text>
+	</string>
+	<string id="esc_actor_predhistory_8">
+		<text>Why to the bandits? Could “freedom” or to ordinary stalkers.</text>
+	</string>
+	<string id="esc_actor_predhistory_9">
+		<text>I tried it. Nobody needs a former warrior with a spoiled story. In "duty" - immediately check, almost with exposure. And in the gang - accepted. Silently. Your rules, dirt, yes. But you can live. They don't ask who you were here. Just look so that you do not give it up.</text>
+	</string>
+	<string id="esc_actor_predhistory_10">
+		<text>And how is it to be on the other side?</text>
+	</string>
+	<string id="esc_actor_predhistory_11">
+		<text>I'm not on the side. I am between. Neither here nor here. I just live. There is no one to pay more than myself except myself. Debts ... precisely because of one such I am here ...</text>
+	</string>
+	<string id="esc_actor_predhistory_12">
+		<text>You could take me off on the trail then. Why didn't you?</text>
+	</string>
+	<string id="esc_actor_predhistory_13">
+		<text>Because you dragged yours. You are not an enemy to me. I also had such in the unit. Not sold.</text>
+	</string>
+	<string id="esc_actor_predhistory_14">
+		<text>I see ... you ... look at both. The zone is worse than the tribunal.</text>
+	</string>
+	<string id="esc_actor_predhistory_15">
+		<text>That's for sure...</text>
+	</string>
+	<string id="esc_bandit_1_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_1_about_1">
+		<text>Eh ... sometimes I remember - well, I was bad. Before the zone, I was spinning in the brigade, in Orekhovo. There were heavy guys. Real office.</text>
+	</string>
+	<string id="esc_bandit_1_about_2">
+		<text>Op ... So you are from the organized crime group? Not just a gopnik from a gateway?</text>
+	</string>
+	<string id="esc_bandit_1_about_3">
+		<text>No, I say - a specific topic. Grits, roofs, machine guns in the trunk. We even had his own, from the Urals.</text>
+	</string>
+	<string id="esc_bandit_1_about_4">
+		<text>And what did you do? Did you really shoot? Or more show -off?</text>
+	</string>	
+	<string id="esc_bandit_1_about_5">
+		<text>They shot. And not Ponaroshka. The business was divided, the points were squeezed, the boys were put on the bazaars. There was one case - the Georgian clan climbed onto our car wash ... In the morning, three of them were in the trunk near the garages. No question.</text>
+	</string>	
+	<string id="esc_bandit_1_about_6">
+		<text>And garbage? It seems like in the nineties they sting all ...</text>
+	</string>	
+	<string id="esc_bandit_1_about_7">
+		<text>We are not suckers. They had their own in the department. One major personally released us by call. The main thing was not to go into politics. And so - freedom, grandmas, trunks. Even with Chechens, a couple of times on the arrows crossed.</text>
+	</string>	
+	<string id="esc_bandit_1_about_8">
+		<text>Not a damn thing for yourself ... And what has you become with a brigade?</text>
+	</string>	
+	<string id="esc_bandit_1_about_9">
+		<text>Schookach started. A month later, the six were taken, three were laid, the "looking" - they found in the forest in a barrel. I miraculously dumped. Through Belarus. And then - a zone. Here, oddly enough, calmer. There is a barrel, there is work, and no one shoots in the back ... Until you jerk yourself.</text>
+	</string>
+	<string id="esc_bandit_1_about_10">
+		<text>Listen ... And you, it turns out, is not just a bandit. You are one of those who survived. They respect us.</text>
+	</string>
+	<string id="esc_bandit_1_about_11">
+		<text>Yes, I respect the drum. I'm here to live. The rest is dust.</text>
+	</string>
+	<string id="esc_bandit_1_about_12">
+		<text>And right. After all, there is also its own organized crime group - only instead of bazaars artifacts, instead of shooters - caches. All according to concepts, only others.</text>
+	</string>
+	<string id="esc_bandit_2_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_2_about_1">
+		<text>Hey, Inc ... But before my life was sweet. To all this shitty zone.</text>
+	</string>
+	<string id="esc_bandit_2_about_2">
+		<text>She don't go. Everyone here is the same - former thieves in law, just like a template. What did you hunt?</text>
+	</string>
+	<string id="esc_bandit_2_about_3">
+		<text>I was a pickpocket. Profi. In the subway, at stations, in the markets. Gold, mobile phones, wallets - everything went into business.</text>
+	</string>
+	<string id="esc_bandit_2_about_4">
+		<text>Just like in a movie, right? Come on, tell me how exactly someone was cleaned.</text>
+	</string>
+	<string id="esc_bandit_2_about_5">
+		<text>There was a case in Yerevan, do you know such a market? There one fat huckster walked, a chain on his neck - like a bull. I have been passing it for a week. Then - Bach, in the crush at the stall under the noise - and my chain. I didn't even pick it up.</text>
+	</string>
+	<string id="esc_bandit_2_about_6">
+		<text>And if you picked?</text>
+	</string>
+	<string id="esc_bandit_2_about_7">
+		<text>Then the plan "b". I had a partner, Vaska. He would have distracted him, such as "Uncle, no light?" And I - FUUT - and in the crowd. There is no longer to find.</text>
+	</string>
+	<string id="esc_bandit_2_about_8">
+		<text>Famously. Why did you go to the zone? Are the pockets ended?</text>
+	</string>
+	<string id="esc_bandit_2_about_9">
+		<text>The cops were taken to Vaska, and I felt that the cover was nearby. A pair of acquaintances in the pre -trial detention center has already rotted. Here is either a prison or a cemetery. And the zone - although she is eating, but honest in his own way.</text>
+	</string>
+	<string id="esc_bandit_2_about_10">
+		<text>Yeah ... here at least everything is simple: either you, or you. Without judges, without pieces of paper.</text>
+	</string>
+	<string id="esc_bandit_2_about_11">
+		<text>Yeah. And the chains are different here - you will hang an artifact in the neck, and it is fonet so that then it glows from your ears ...</text>
+	</string>
+	<string id="esc_bandit_2_about_12">
+		<text>Well, you, damn it, a philosopher! Come on, for a former life. And so that in the zone the bullets are bypassed by us.</text>
+	</string>
+	<string id="esc_bandit_2_about_13">
+		<text>He said well. Let's.</text>
+	</string>
+	<string id="esc_bandit_3_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_3_about_1">
+		<text>Eh ... there were times. I was engaged in business to the zone ... serious. Not like now - to run with warriors on the bushes. The real gop-stop was, on a grand scale!</text>
+	</string>
+	<string id="esc_bandit_3_about_2">
+		<text>Oh well? Are you serious? Where, in Rostov, or what?</text>
+	</string>
+	<string id="esc_bandit_3_about_3">
+		<text>In the suburbs, mainly. Deaf routes, you know ... where the lanterns do not burn and there are fewer cops than zombies in a red forest.</text>
+	</string>
+	<string id="esc_bandit_3_about_4">
+		<text>And what did they stop on the road?</text>
+	</string>
+	<string id="esc_bandit_3_about_5">
+		<text>Well, how. We put the car across, I go out with a kogoshka - "Good evening, documents, wallet, life ..." - and all according to the standard. Once a trucker, a fool, climbed into a glove compartment - I thought the barrel was pulling. I had to shoot at the wheels. And then he jumped out of the cabin himself, wet pants, can you imagine?</text>
+	</string>
+	<string id="esc_bandit_3_about_6">
+		<text>Ha! Beautiful. Didn't they rob the girls?</text>
+	</string>
+	<string id="esc_bandit_3_about_7">
+		<text>Women were not touched. We had a rule. Loot, wheelbarrows, equipment - yes. But without dirt. We are not animals, Inc.</text>
+	</string>
+	<string id="esc_bandit_3_about_8">
+		<text>I respect. And garbage?</text>
+	</string>
+	<string id="esc_bandit_3_about_9">
+		<text>It was more difficult with them. Once I almost got caught. They drove behind us through a forest belt, I am a jam - gas to the floor, a stump on a bend - a boom! The car is in a ditch, and I and Sanych in the bushes. Two days later they walked to the station.</text>
+	</string>
+	<string id="esc_bandit_3_about_10">
+		<text>Why did you go to the zone?</text>
+	</string>
+	<string id="esc_bandit_3_about_11">
+		<text>Here ... easier. No debts, no laws. Its own truth. Or you - or you. Everything is honest.</text>
+	</string>
+	<string id="esc_bandit_3_about_12">
+		<text>In kind. Here you even know what you are dying for ...</text>
+	</string>
+	<string id="esc_bandit_4_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_4_about_1">
+		<text>E-e ...</text>
+	</string>
+	<string id="esc_bandit_4_about_2">
+		<text>Well, what ... you used to be with grandmothers before, no? What did you go to the zone?</text>
+	</string>
+	<string id="esc_bandit_4_about_3">
+		<text>It was a matter ... money, communications, movement. Everything is like people. Until they threw their own.</text>
+	</string>
+	<string id="esc_bandit_4_about_4">
+		<text>Op. Throw - how is it?</text>
+	</string>
+	<string id="esc_bandit_4_about_5">
+		<text>I was in the same topic. They drove the consumer goods, in some places iron, in some places - not iron. Across the border. They worked quietly, on their channels. And then - they put me in the load of "superfluous" in one walk. I did not know. There are not rags - there are trunks, and not simple, but army. With optics. They press on the border. I - eight shines. And the rest are like through the ground.</text>
+	</string>
+	<string id="esc_bandit_4_about_6">
+		<text>Stop, why did you even have been in the know, what are you taking?</text>
+	</string>
+	<string id="esc_bandit_4_about_7">
+		<text>Exactly. They gave me an invoice, said: "Rutin, as always." And I am a fool, believed. And whoever put it - I still do not know. Only one of his then sharply changed the car, bought the house and merged with ends.</text>
+	</string>
+	<string id="esc_bandit_4_about_8">
+		<text>And what, sat down?</text>
+	</string>
+	<string id="esc_bandit_4_about_9">
+		<text>A year at a pre -trial detention center, then - misunderstandings went on the case. The lawyer is muddy, the witnesses are gone. In short, they released the "drawback". But all of their own already buried me. Orders - zero, trust - minus. Corguses whisper, as they see a rat. I understood - either to fall down or fall.</text>
+	</string>
+	<string id="esc_bandit_4_about_10">
+		<text>And here, then?</text>
+	</string>
+	<string id="esc_bandit_4_about_11">
+		<text>Where else? Here - as if from a clean sheet. Everyone has their own dirt, but no one climbs. The main thing is that the hands are intact and the machine does not fall.</text>
+	</string>
+	<string id="esc_bandit_4_about_12">
+		<text>Fucking story, brother. And if you meet the one who set it up?</text>
+	</string>
+	<string id="esc_bandit_4_about_13">
+		<text>I will find. It doesn't matter where - on the Great Earth or here, in anomalies. I have an account with him. And I can wait.</text>
+	</string>
+	<string id="esc_bandit_5_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_5_about_1">
+		<text>I do not like to remember it ...</text>
+	</string>
+	<string id="esc_bandit_5_about_2">
+		<text>Hey ... You didn't seem to be with us from the very beginning. They said you were a stalker. This is true?</text>
+	</string>
+	<string id="esc_bandit_5_about_3">
+		<text>Was. Two years with a tail. He worked quietly: artifacts, habar, hunting. Without heroism, without show -offs. Until the shit happened, which turned everything upside down.</text>
+	</string>
+	<string id="esc_bandit_5_about_4">
+		<text>What kind of shit? Someone leaked?</text>
+	</string>
+	<string id="esc_bandit_5_about_5">
+		<text>Partner ... Sasha. Together with him, they started with the "southern hills". Everything is together. Anomalies, creatures, even once with bandits clashed - got out. And that day ... just stupidly came out. We went into the forest for an artifact. I went first, I look - "Electra" on the side. I am bypassing, he is behind me. Only I took a step - the "meat grinder" worked under the roots. I jumped to the side - survived. He did not have time. He was torn in a second.</text>
+	</string>
+	<string id="esc_bandit_5_about_6">
+		<text>Happens. The zone is eating on schedule. But what does an outcast have to do with it?</text>
+	</string>
+	<string id="esc_bandit_5_about_7">
+		<text>And despite the fact that then three more crossed with our group. One of them then began to whisper to the other, they say, I specifically set up Sasha - so as not to share the habar. Like, I knew about the trap. And to prove the opposite how? Who is looking for the truth in the zone?</text>
+	</string>
+	<string id="esc_bandit_5_about_8">
+		<text>And what, did everyone turn out at once?</text>
+	</string>
+	<string id="esc_bandit_5_about_9">
+		<text>All. Even those with whom he divided bonfires and caught bullets. Someone whispered in the back, someone in open. One even shot in the back, missed. I understood then - I have no more place among them. No friends, no trust. One option remained - to those who do not care, who you were.</text>
+	</string>
+	<string id="esc_bandit_5_about_10">
+		<text>That is, to the bandits.</text>
+	</string>
+	<string id="esc_bandit_5_about_11">
+		<text>Yeah. Then no one asked where I came from and what I did. Only the result is important here: Khabar brought - well done. Failed the Dolgovtsy - handsome. Everything is simple. Without hypocrisy.</text>
+	</string>
+	<string id="esc_bandit_5_about_12">
+		<text>I understand ... You know, it happens, someone in a gang is greedy, someone is stupid, and you ... by hopelessness. The zone of such is slowly.</text>
+	</string>
+	<string id="esc_bandit_5_about_13">
+		<text>But honestly. I'm not pretending to be here.</text>
+	</string>
+	<string id="esc_bandit_5_about_14">
+		<text>If what - you are not alone now. They do not live in the zone for a long time.</text>
+	</string>
+	<string id="esc_bandit_5_about_15">
+		<text>I already understood. Thank you.</text>
+	</string>
+	<string id="esc_bandit_6_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_6_about_1">
+		<text>Do you definitely want to know?</text>
+	</string>
+	<string id="esc_bandit_6_about_2">
+		<text>You are not one of those who immediately went to the gang. It can be seen that I did not come here by grandmas. Tell me?</text>
+	</string>
+	<string id="esc_bandit_6_about_3">
+		<text>This is not for the ears. But you are normal. Okay, listen.</text>
+	</string>
+	<string id="esc_bandit_6_about_4">
+		<text>Let's.</text>
+	</string>
+	<string id="esc_bandit_6_about_5">
+		<text>I had a man. Young woman. Lena. Clean, bright ... I even tied it with a movement for her - I worked as a loader, lived on a removable one, saved up for a wedding.</text>
+	</string>
+	<string id="esc_bandit_6_about_6">
+		<text>And what happened?</text>
+	</string>
+	<string id="esc_bandit_6_about_7">
+		<text>One bastard. The son of a local businessman. I'm used to it that everything is possible. Got drunk. I saw her in the evening at the stop. I took it. Then - raped ... and killed. The body was found two days later in a forest belt.</text>
+	</string>
+	<string id="esc_bandit_6_about_8">
+		<text>Your mother ...</text>
+	</string>
+	<string id="esc_bandit_6_about_9">
+		<text>The court was. Dad decided everything. Lawyer, cop, linden examination. "There was not enough evidence." He was not even taken into custody. He laughed in the courtroom. He looked at me right. Then I realized - there is no law. There are only you and the barrel.</text>
+	</string>
+	<string id="esc_bandit_6_about_10">
+		<text>Are you his?</text>
+	</string>
+	<string id="esc_bandit_6_about_11">
+		<text>Yes. After two weeks. I caught at the cottage. At first I just wanted to in the chest - quickly. But then ... it did not work. I let him feel. How is it to be helpless. How it is to pray, but they don't hear you. I did what I wanted. And then - burned the house. With ends.</text>
+	</string>
+	<string id="esc_bandit_6_about_12">
+		<text>Have you been looking for you?</text>
+	</string>
+	<string id="esc_bandit_6_about_13">
+		<text>Not long. The cameras burned, evidence too. But I knew that sooner or later it would pop up. So he left. To the zone. Here no one will say "you can't." Here you can truly disappear.</text>
+	</string>
+	<string id="esc_bandit_6_about_14">
+		<text>Listen ... I thought you were just silent. And you ... you are a man. Real.</text>
+	</string>
+	<string id="esc_bandit_6_about_15">
+		<text>I was there with her, with her. And here ... Here I just live. Every day - without a name and without memory.</text>
+	</string>
+	<string id="esc_bandit_6_about_16">
+		<text>Will we have a drink for her?</text>
+	</string>
+	<string id="esc_bandit_6_about_17">
+		<text>For her.</text>
+	</string>
+	<string id="esc_bandit_7_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_7_about_1">
+		<text>About yourself?</text>
+	</string>
+	<string id="esc_bandit_7_about_2">
+		<text>Well, yes. You definitely not cleaned the cop before? You have so ... neat habits. What did you do to the zone?</text>
+	</string>
+	<string id="esc_bandit_7_about_3">
+		<text>The housekeeper was. From an apartment to an apartment - like a watch. He climbed at night when the residents are at work. Quickly, quietly, without show -offs.</text>
+	</string>
+	<string id="esc_bandit_7_about_4">
+		<text>Ha, serious? How in the cinema - amushes, gloves, thieves romance?</text>
+	</string>
+	<string id="esc_bandit_7_about_5">
+		<text>Like that. Until one day I went ... not there.</text>
+	</string>
+	<string id="esc_bandit_7_about_6">
+		<text>Come on, lay out. What kind of apartment?</text>
+	</string>
+	<string id="esc_bandit_7_about_7">
+		<text>The area is elite, a lot of money. They brought it to one hut - supposedly a family on vacation, all the chicks -bumps. He went up to the third, hacked the castle - like a clock. I go - dark, silence. I think: "Now I will collect and dump everything." And there - not empty.</text>
+	</string>
+	<string id="esc_bandit_7_about_8">
+		<text>Who was?</text>
+	</string>
+	<string id="esc_bandit_7_about_9">
+		<text>Man. One. He sits in a chair opposite the TV ... and looks. Does not move. And then I realized: he is dead. Eyes are open, face with a purple tint. On the floor - blood and syringes. I got up, as if dug.</text>
+	</string>
+	<string id="esc_bandit_7_about_10">
+		<text>Yo-mine ... you got into whose hut you climbed?</text>
+	</string>
+	<string id="esc_bandit_7_about_11">
+		<text>It turned out - this is the hole of some huckster, who has divisions with serious people. Someone was already ahead of him, sewn. And I - climbed the cameras as "the one who was the last."</text>
+	</string>
+	<string id="esc_bandit_7_about_12">
+		<text>And garbage?</text>
+	</string>
+	<string id="esc_bandit_7_about_13">
+		<text>They came in a day. The neighbors heard “suspicious noise” - yeah, as if I turned on the vacuum cleaner. I managed to get away, but both the cops and his "friends" began to look for me. The city has become cramped. One path remained - to the zone. And here, oddly enough, calmer.</text>
+	</string>
+	<string id="esc_bandit_7_about_14">
+		<text>So it's not a zone ate you - you yourself fled to my mouth.</text>
+	</string>
+	<string id="esc_bandit_7_about_15">
+		<text>Right. Only in the mouth, where everyone has a knife, you even know where the blow to wait from.</text>
+	</string>
+	<string id="esc_bandit_7_about_16">
+		<text>Well, brother, you have a movie life. And now - you sniff with us on the holes and you are waiting for a warrior ...</text>
+	</string>
+	<string id="esc_bandit_7_about_17">
+		<text>Better here. Here, if you die, then honestly. Not for the jamb of a stranger, but for his own.</text>
+	</string>
+	<string id="esc_bandit_8_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_8_about_1">
+		<text>Never fall into debt. Even if it seems that "proven people." Especially then.</text>
+	</string>
+	<string id="esc_bandit_8_about_2">
+		<text>Not from a good life, people are in the zone - and so it is clear. Well, tell me. To whom and for what have you owed?</text>
+	</string>
+	<string id="esc_bandit_8_about_3">
+		<text>Then I had "my people." Connections, a scheme with smuggling - equipment, spare parts, sometimes weapons. Everything went clearly until one party went into the pipe.</text>
+	</string>
+	<string id="esc_bandit_8_about_4">
+		<text>Hijacked?</text>
+	</string>
+	<string id="esc_bandit_8_about_5">
+		<text>Worse. One of ours decided to quickly cut the dough and leaked the load with the other side. And what would you think? The party was purchased with the money of brigade authority. Debt is forty thousand with greenery. And I'm extreme. On the papers - everything is on me.</text>
+	</string>
+	<string id="esc_bandit_8_about_6">
+		<text>Yes, they should have bury you.</text>
+	</string>
+	<string id="esc_bandit_8_about_7">
+		<text>Almost. They immediately handed me "hello" - they burned the car, broke my nose to my wife, and hinted: "either grandmas or horizontal plane." Options - zero. I sold everything that was. Hut, wheelbarrow, equipment. There were ten pieces left. And they were waiting.</text>
+	</string>
+	<string id="esc_bandit_8_about_8">
+		<text>And you dumped?</text>
+	</string>
+	<string id="esc_bandit_8_about_9">
+		<text>On the night of the train, through the conductor - towards the south. Then - checkpoint. Fake docks. And then - only the zone. Then they will not be poked. They themselves are afraid. The zone is the only place where even those like them are not the main ones.</text>
+	</string>
+	<string id="esc_bandit_8_about_10">
+		<text>And if they find? Everything happens right there.</text>
+	</string>
+	<string id="esc_bandit_8_about_11">
+		<text>They will find it - I will not leave. I have already become different here. There is only one duty - to survive. And he is at everyone.</text>
+	</string>
+	<string id="esc_bandit_8_about_12">
+		<text>Listen ... And I thought you were just an old double bass. And you have a story in a book.</text>
+	</string>
+	<string id="esc_bandit_8_about_13">
+		<text>Only this book will not end. Either a bullet, or a mutant, or an anomaly ... but definitely not a debt receipt ...</text>
+	</string>
+	<string id="esc_bandit_9_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_9_about_1">
+		<text>...</text>
+	</string>
+	<string id="esc_bandit_9_about_2">
+		<text>You were not always here. Who brought you to the gang? Well, you are like those who are once rummaging.</text>
+	</string>
+	<string id="esc_bandit_9_about_3">
+		<text>I didn't drag me here ... Friends called me. From the camp yet. We rolled stages together. Then to the will - and in the zone. “There is a job, there will be a hack, your weapon, live - I don't want to,” they said.</text>
+	</string>
+	<string id="esc_bandit_9_about_4">
+		<text>And what was it normal?</text>
+	</string>
+	<string id="esc_bandit_9_about_5">
+		<text>At first - yes. Seven of us were. We went to warehouses, shot stalkers, shared honestly. Without a substitution. Your brotherhood, understand?</text>
+	</string>
+	<string id="esc_bandit_9_about_6">
+		<text>And where did they all go?</text>
+	</string>
+	<string id="esc_bandit_9_about_7">
+		<text>The zone, brother, cannot be deceived. One flew into the anomaly, did not notice the "fluff" in the fog. \ n the second snorkes tore - at the agricultural industry. We came late then. \ n the third freak, climbed into the laboratory. Myself. Found him a couple of days later. Without a face.</text>
+	</string>
+	<string id="esc_bandit_9_about_8">
+		<text>And the rest?</text>
+	</string>
+	<string id="esc_bandit_9_about_9">
+		<text>The other warriors were removed. There was an old argument-they once cut someone from them. They were waiting. They set up through the left cache. I stayed. The latter ... \ n sometimes I think - maybe I should have been the first ...</text>
+	</string>
+	<string id="esc_bandit_9_about_10">
+		<text>Come on ... maybe you're just tenacious.</text>
+	</string>
+	<string id="esc_bandit_9_about_11">
+		<text>Or just did not reach his mistake. Bye. But you know what? I remember everything for them. And while I am alive, they have not disappeared. Let the dirt go through my hands, but the memory is pure</text>
+	</string>
+	<string id="esc_bandit_9_about_12">
+		<text>You are not just meat. You are the memory of the gang. Respect.</text>
+	</string>
+	<string id="esc_bandit_10_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_bandit_10_about_1">
+		<text>Why did this interest you my past?</text>
+	</string>
+	<string id="esc_bandit_10_about_2">
+		<text>Some kind of ... intelligence is slipping. Where did you dig before?</text>
+	</string>
+	<string id="esc_bandit_10_about_3">
+		<text>Yes, I don't understand how everything went somersault. After all, initially in general - a techie. He repaired electronics, worked with a connection. The curious was ... before the mania. I wanted to know everything: how it works, what is inside, why is there a tower, where does the signal come from ...</text>
+	</string>
+	<string id="esc_bandit_10_about_4">
+		<text>And why, for this, you were given a residence permit in the zone?</text>
+	</string>
+	<string id="esc_bandit_10_about_5">
+		<text>Not immediately. Once I climbed into one archive ... for the sake of interest. He took out the old military protocol - about one failure in the antenna under the ground. Too many questions appeared. He began to poke his nose, dig, who does not have to call ...</text>
+	</string>
+	<string id="esc_bandit_10_about_6">
+		<text>And who came to visit the first?</text>
+	</string>
+	<string id="esc_bandit_10_about_7">
+		<text>People without shoulder straps, without names. Once a conversation. The second is a threat. On the third - my girlfriend disappeared. As if it did not exist. Documents - clean. Photo - no. The neighbors say: "There has never been such."</text>
+	</string>
+	<string id="esc_bandit_10_about_8">
+		<text>Horror. Well?</text>
+	</string>
+	<string id="esc_bandit_10_about_9">
+		<text>Well, I realized that if I stay, I would disappear with all the data. He ran away. After a couple of acquaintances, he went into the zone. Here, you know, your rules. Here for curiosity - a bullet, and not stripping from the inside.</text>
+	</string>
+	<string id="esc_bandit_10_about_10">
+		<text>And how did the bandits accept you?</text>
+	</string>
+	<string id="esc_bandit_10_about_11">
+		<text>They brought the old walkie -talkie - "Try to repair." Repeated. Then the generator. Then - "Can you hack the duty cache?" They realized that it was useful. Left. Well, I stayed.</text>
+	</string>
+	<string id="esc_bandit_10_about_12">
+		<text>So, then. I wanted to know everything - now you live where no one knows if you will live until the morning.</text>
+	</string>
+	<string id="esc_bandit_10_about_13">
+		<text>And then everything is honest. Who shoots is the enemy. And on the Great Earth, enemies are in ties and with clean hands. I prefer a mutant than a protocol.</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_0">
+		<text>%C [255,0,128,0] Fuck, did you kill your friend?</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_1">
+		<text>It was not me ...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_2">
+		<text>Well, it starts again ...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_3">
+		<text>No, please listen! When we went to that place, my head fell sharply ... And then ... I seemed to stop controlling myself ...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_4">
+		<text>Yeah. You began to control the thirst for profit.</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_5">
+		<text>No! Please go to that place again. Look around the body ... I'm telling the truth ...</text>
+	</string>
+	<string id="esc_novice_d_new_dialog_6">
+		<text>Okay, okay, let's go.</text>
+	</string>
+	<string id="esc_novice_der_house_0">
+		<text>%C [255,0,128,0] What are you rubbing here?</text>
+	</string>
+	<string id="esc_novice_der_house_1">
+		<text>Yes, I, damn it, lost the key somewhere from home. And I have one thing there is one important thing for me ...</text>
+	</string>
+	<string id="esc_novice_der_house_2">
+		<text>The key, you say, lost? Perhaps I even know where your key is.</text>
+	</string>
+	<string id="esc_novice_der_house_3">
+		<text>Is it true?! Bring the key, please! I will give you something interesting in return. Found only recently. And ... uh ... there is little money.</text>
+	</string>
+	<string id="esc_novice_der_house_4">
+		<text>Okay, wait.</text>
+	</string>
+	<string id="esc_bandit_8_key_0">
+		<text>Brother, I remember you mentioned some key. Can you lend it?</text>
+	</string>
+	<string id="esc_bandit_8_key_1">
+		<text>There was such a thing. Do you know what he opens?</text>
+	</string>
+	<string id="esc_bandit_8_key_2">
+		<text>There is one option. If there is something there, I will share with you.</text>
+	</string>
+	<string id="esc_bandit_8_key_3">
+		<text>Hm. Lada, goes.</text>
+	</string>
+	<string id="esc_stalker_derev_book_0">
+		<text>Here is your book. From somewhere in the house a zombie appeared.</text>
+	</string>
+	<string id="esc_stalker_derev_book_1">
+		<text>Zombie? Strange ... And the door disappeared ... Book ... yes ... \ n you don't think ... this is a memory for me. She is dear to me. \ n reward ... I somehow found two strange artifacts. Uh ... Their joke is that they do not work when they are at one person. Therefore, you should give one of them to someone. I don't want to leave them, to be honest. I don't like something. Or maybe I'm just ... in vain I bring a panic.</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_0">
+		<text>Keep your share.</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_1">
+		<text>Opa-op. What is there?</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_2">
+		<text>Take the "sapphire".</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_3">
+		<text>Take Rubin.</text>
+	</string>
+	<string id="esc_bandit_8_dialog_key_end_4">
+		<text>Naman. After all, he knew that the key would come in handy.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_0">
+		<text>... Remember? .. It was ... Kon ... Dor ... said ... "We do not throw our own."</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_1">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_2">
+		<text>And how the psi smelled ... how the head began to crack ... - He ... He did not even look back.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_3">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_4">
+		<text>You shouted ... I, too ... not in words, but with a gut. And he ...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_5">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_6">
+		<text>He saw ... He could ... take away ... Block ... Kada ... he was with him. I ... Her himself ... gave him in the agricultural industry ... he was scared ... he ...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_7">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_8">
+		<text>Well we are not immediately ... we still walked ... fell ... walked ... and he? .. He left ... the connection cut off ... the radio was silent ...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_9">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_10">
+		<text>And we stayed. First fog in my head ... Then - failure. And then - silence. Inside. Always.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_11">
+		<text>...</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_12">
+		<text>... Now he is like a background in a fog. Like a noise in the head ... If the heart was beating ... I would ... hate him.</text>
+	</string>
+	<string id="esc_zombie_scene_dialog_13">
+		<text>I'm sorry...</text>
+	</string>
+	<string id="esc_freedom_atp_hello_0">
+		<text>%C [255,0,128,0] That's who I did not expect to see. "Hai".</text>
+	</string>
+	<string id="esc_freedom_atp_hello_1">
+		<text>Dude, I see you are chasing here and forth. Legs do not hurt? No? Well, great. In general, we have one problem. "Ours" cut. And literally!</text>
+	</string>
+	<string id="esc_freedom_atp_hello_2">
+		<text>I do not catch up. What do you want from me?</text>
+	</string>
+	<string id="esc_freedom_atp_hello_3">
+		<text>I want to offer to offer. If interested, our eldest is already waiting for you. He will tell you more and how. Decent payment - be sure.</text>
+	</string>
+	<string id="esc_freedom_atp_hello_4">
+		<text>Okay, I'm going. Just give the mark.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_0">
+		<text>Well, hello. "Your" said that you have some business.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_1">
+		<text>Yes, I have. Do you know what "Snuff" is?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_21">
+		<text>Yes.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_31">
+		<text>Fine. So: someone in the zone, or beyond, is not particularly important, appeared a “fetish” on “Snuff” with “Svobodovites”. Understand?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_22">
+		<text>No.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_32">
+		<text>This is a video on which the killings of people are captured. Often with particular cruelty - depends on how much they will pay. Such materials are most often made with the aim of selling. To order. Someone began to order "Snuff" with "Svobodovites". You see, yes?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_4">
+		<text>Understand. And you obviously are not happy with such a situation, right? And what do you propose?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_5">
+		<text>It will go to the customer ... problematic. However, we have infa about a person who is engaged in the sale of ready -made materials.</text>
+	</string>
+	<string id="esc_freedom_lead_hello_6">
+		<text>Do you want to go to the customer through an intermediary? Do not think that he has enough means to maintain his anonymity?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_7">
+		<text>It is probably so, but I think it is worth trying. If you agree, I will write to the seller and give you the coordinates of the meeting. You meet him, interrogate and report, is it? None of us can, because we are the "freedom". Everyone is terribly tense, on the nerves. I'm afraid they will not resist and kill the customer on the spot, but we do not need it. This will only frighten off the customer and force the couriers to use ... well, for example, security. \ n so what?</text>
+	</string>
+	<string id="esc_freedom_lead_hello_8">
+		<text>Come on, I'll try to solve your problem.</text>
+	</string>
+	<string id="esc_snaff_trader_0">
+		<text>I had to meet with you and rub out the "snuff"?</text>
+	</string>
+	<string id="esc_snaff_trader_1">
+		<text>Well, you or not you - I don't know. But I sell this. So, "Svobodovsky" costs 75 thousand with a simple murder. With torment 125 thousand. What will you take?</text>
+	</string>
+	<string id="esc_snaff_trader_2">
+		<text>With torment ... show in practice how it looks?</text>
+	</string>
+	<string id="esc_snaff_trader_3">
+		<text>Eh? What?</text>
+	</string>
+	<string id="esc_snaff_trader_4">
+		<text>*Beat*</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_0">
+		<text>Ah! Bitch!</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_1">
+		<text>Now in order. Who is the supplier? Who is the customer?</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_2">
+		<text>I don't know anything! I swear mom, I do not know the same!</text>
+	</string>
+	<string id="esc_snaff_trader_hitted_3">
+		<text>Then in a bad way ... *Shoot *</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_0">
+		<text>Enough ... fucking ... I'll die now ...</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_1">
+		<text>It doesn't bother me. Speak who is the customer.</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_2">
+		<text>Okay ... S-Suka ... how painful ... \ n the customer is one of the highest ranks of "debt". Not very surprising, right? I don't know who exactly, I swear! He communicates only through trusted intermediaries, who, even under hard torture, will not give out his personality. The video itself is shot specially hired people. Like outside the zone. They pay them - they do the work, write everything down and give them to the customer. The customer sells this to the one who wants. \ n this "long-wing" customer most often sells it to someone from his own. Who else needs the suffering of "freedom"? Well ... occasionally, someone is not out of "debt" also orders such videos. Then people like me come into business ... We do not participate with filming. We only bring the material to the buyer and sell. \ n everything! I told everything that I knew ... Now give me a first -aid kit! Otherwise I will die fucking ...</text>
+	</string>
+	<string id="esc_snaff_trader_wounded_3">
+		<text>There is a road to you there. Although ... I can make you feel relieved.</text>
+	</string>
+	<string id="esc_snaff_trader_end_0">
+		<text>Well ... The customer is someone from the "debt", like most buyers. The video itself is shot specially hired people. It seems to me what I learned is more than obvious.</text>
+	</string>
+	<string id="esc_snaff_trader_end_1">
+		<text>We needed to make sure. Since the "debtsy" began to do this - we will not stand aside either. They will understand, bitches, what happens if you harm our Freedom brother.</text>
+	</string>
+	<string id="esc_snaff_trader_end_2">
+		<text>I guess.</text>
+	</string>
+	<string id="esc_snaff_trader_end_3">
+		<text>Without dirt. Well ... almost. Our people need to release steam, and now a full -fledged reason has appeared. Keep - for the info. We will sit here a little and dump. Good luck, man.</text>
+	</string>
+	<string id="esc_freedom_leader_about_0">
+		<text>Tell about yourself.</text>
+	</string>
+	<string id="esc_freedom_leader_about_1">
+		<text>There was time, I was not just in freedom ... I kept it in the zone. The group led - "Hansa" were called. Have you heard?</text>
+	</string>
+	<string id="esc_freedom_leader_about_2">
+		<text>"Hansa"? No, I don't remember what. Although wait ... there was something in the northern parts, at the barrier, seem?</text>
+	</string>
+	<string id="esc_freedom_leader_about_3">
+		<text>Right. We started there. With a dozen good fighters, discipline, freedom, ideas ... But over time we grew up. They renamed themselves - they became a "legion".</text>
+	</string>
+	<string id="esc_freedom_leader_about_4">
+		<text>Ha! "Legion" - sounds solid. The army is straight. What was it with you?</text>
+	</string>
+	<string id="esc_freedom_leader_about_5">
+		<text>Not a zone, so people. They began to crush us. Monoliths, hires, mutants ... Then still betrayal from the inside. One warrior, like his own, and sold everyone to a pure sky. We went out for the cleaning. Of the thirty, four survived us.</text>
+	</string>
+	<string id="esc_freedom_leader_about_6">
+		<text>Tin ... familiar. We somehow also had a rustle with a rat traitor. After that, trust is a rare product.</text>
+	</string>
+	<string id="esc_freedom_leader_about_7">
+		<text>Now we are all here. Only Chevron remained, but the call sign ... Well, except that the girl began to go with us in walkers. If you want to know why - ask her yourself. He wants - tells ... \ n so, what am I talking about? Ah yes ... \ n, but the memory lives. Sometimes dreams, as we kept on amber Patrols ... How the first artifact with ATP was pulled out.</text>
+	</string>
+	<string id="esc_freedom_leader_about_8">
+		<text>Respect to you. Not for the idea - for memory. Not everyone can pass so much and stay a person. \ n their own here is not abandoned if it is really their own. Tested by time, understand? Even if earlier they stood on different sides.</text>
+	</string>
+	<string id="esc_freedom_leader_about_9">
+		<text>Thank you. Looks like the zone really equals everyone in their own way.</text>
+	</string>
+	<string id="esc_freedom_girl_about_0">
+		<text>Listen, how did you get into "freedom" at all? The girl in the zone is a rarity.</text>
+	</string>
+	<string id="esc_freedom_girl_about_1">
+		<text>A long story. I used to be just a stalker. Artifacts dragged, hid from chimera. I lived quietly.</text>
+	</string>
+	<string id="esc_freedom_girl_about_2">
+		<text>Well, yes ... until the first ambush, as usual. So?</text>
+	</string>
+	<string id="esc_freedom_girl_about_3">
+		<text>So. I got into trouble under the agricultural industry. Some kind of creature, creeping ... I then thought it was the end. Blood, panic, everything is like in a fog. And then - Bach -bah! - Queue, roar, and they stand at me. "Legion".</text>
+	</string>
+	<string id="esc_freedom_girl_about_4">
+		<text>"Legion"? I heard that there used to be a whole detachment, a straight family.</text>
+	</string>
+	<string id="esc_freedom_girl_about_5">
+		<text>Family is a good word. They pulled me out, processed the wound, dragged me to the base. I didn't even know who they were. They did not wear an emblem, behaved simply. But discipline was - felt.</text>
+	</string>
+	<string id="esc_freedom_girl_about_6">
+		<text>So the "legion" dragged you to "Freedom"?</text>
+	</string>
+	<string id="esc_freedom_girl_about_7">
+		<text>Not that dragged. They just said: "Choose-do you want to go back to the swamp, or do you want someone to cover you in the back?" \ n I chose. Then she entered into freedom and often walked with the “Legon”. With them I felt safe. Do not command, but they will cover it. Always.</text>
+	</string>
+	<string id="esc_freedom_girl_about_8">
+		<text>I think the right choice. In the zone, in truth, not those who shoot steeper survive, but those who have someone to rely on. Although this is a rarity. So that there is real friendship straight.</text>
+	</string>
+	<string id="esc_freedom_girl_about_9">
+		<text>Exactly. I may not be from the Legion, but with my soul - with them. And if anyone says bad about them, hesitate.</text>
+	</string>
+	<string id="esc_freedom_girl_about_10">
+		<text>Convincingly ... okay, see you. For some reason, it seems to me that we will see each other. And do not look at my strip - you can rely on me too.</text>	
+	</string>
+	<string id="esc_freedom_girl_about_11">
+		<text>The zone is not about color. There are also enough bastards among "their". She is about who remained nearby when it all started for real.</text>	
+	</string>
+	<string id="esc_bandit_electra_about_0">
+		<text>Well, there are thoughts about what the garbage was with the "Electro"?</text>
+	</string>
+	<string id="esc_bandit_electra_about_1">
+		<text>Yes, in general, I think everything is so clear. In this box, the energy of this same "Electra" was somehow imprisoned. But who and how imprisoned her there is a question, of course, good ...</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_0">
+		<text>%C [255,0,128,0] What do you tell you interesting?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_1">
+		<text>Uh ... Well, you heard about the fact that some artifacts can be combined with each other or various garbage in anomalies to receive new, more steep arts? Tre ... Drantz ... how is it there, a bad ... transmutation, in!</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_21">
+		<text>Heard.</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_31">
+		<text>Gee-gee ... Where? I just invented it. You either fuck, or you are fucking. Hu. Okay, I didn't want to tell about that. It somehow fled that some strange art was on this bridge. Moreover, the art is such that it can be seen without a detector, figure out?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_22">
+		<text>I did not hear.</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_32">
+		<text>Well, right. I just came up with it. Okay, I didn't want to tell about that. It somehow fled that some strange art was on this bridge. Moreover, the art is such that it can be seen without a detector, figure out?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_4">
+		<text>After all, you fled, right? Why then do you tell me this?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_5">
+		<text>Well ... I didn't see the art anymore, but ... he looked so real ... Can you inspect that place?</text>
+	</string>
+	<string id="esc_bandit_strange_art_hello_6">
+		<text>Okay, I can look.</text>
+	</string>
+	<string id="esc_bandit_strange_art_out_0">
+		<text>Hold it. This garbage teleported me all over the cordon!</text>
+	</string>
+	<string id="esc_bandit_strange_art_out_1">
+		<text>Really? Interesting. For this shnyag, they can give a dohren money. That's what is rich in.</text>
+	</string>
+	<string id="esc_bandit_strange_art_backing_0">
+		<text>Brother, are you all right?</text>
+	</string>
+	<string id="esc_bandit_strange_art_backing_1">
+		<text>Fucking ... yes ... it seems ... the rib hurts ... fell ...</text>
+	</string>
+	<string id="esc_bandit_strange_art_backing_2">
+		<text>Come on, I will help you get to ATP.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_0">
+		<text>What are the thoughts of what happened?</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_1">
+		<text>Zvizdets is full - these are the same!</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_2">
+		<text>Did you get rid of Art?</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_3">
+		<text>Yes. He left me along the cordon, but then let go. I thought: "Well, his fucking" and decided to bury away from sin. He dug a small hole and only threw it - immediately teleported here on a tree. It was lucky that he was not planted on him, so - a couple of scratches. From this tree fell and, apparently, the fuck broke his rib.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_4">
+		<text>Hmm. Than the zone does not joke.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_5">
+		<text>The greed of Fraer almost ruined. It was worth guessing that if art teleported you, then I would be.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_6">
+		<text>Maybe. Okay, good luck. Right.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_7">
+		<text>Yeah, thanks. And for finding me and saved me too - thank you so much, brother. I will have to.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_8">
+		<text>Forget - everything is fine.</text>
+	</string>
+	<string id="esc_bandit_strange_art_end_9">
+		<text>As you say.</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_0">
+		<text>%C [255,0,128,0] What is so sour?</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_1">
+		<text>Brother, I have a problem here. Will you help?</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_2">
+		<text>What is the problem?</text>
+	</string>
+	<string id="esc_dollzhnik_take_quest_3">
+		<text>The kid is one grandmother sticking out to me. Interests are dripping, it's time to pick up. We added to the Golden Fish artifact. This person should be in the tunnel under the bridge. Drive away, huh? I don't feel very good.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_0">
+		<text>Well, hello.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_1">
+		<text>Who are you? I am waiting for another person.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_2">
+		<text>I am instead of him. Come here art.</text>
+	</string>
+	<string id="esc_dollzhnik_hello_3">
+		<text>Uh ... Damn ... you see ... I lost my backpack. Not far here. There are no cartridges, damn it. And there seemed to be the wild boars. Take it yourself, huh?</text>
+	</string>
+	<string id="esc_dollzhnik_hello_4">
+		<text>Hm.</text>
+	</string>
+	<string id="esc_dollzhnik_end_good_0">
+		<text>Here is your pebble.</text>
+	</string>
+	<string id="esc_dollzhnik_end_good_1">
+		<text>Chic. Here is your reward.</text>
+	</string>
+	<string id="esc_dollzhnik_end_bad_0">
+		<text>He ran away, bitch. He also arranged an ambush.</text>
+	</string>
+	<string id="esc_dollzhnik_end_bad_1">
+		<text>Here is an asshole, fucking ... Okay, I will survive. Not scary.</text>
+	</string>
+	<string id="esc_novice_end_conrik_0">
+		<text>Strange garbage, in general. He stood in that place, and then darkened in his eyes. I woke up next to the pig farm, and in front of me a stalker. I can't explain why, but I froze in horror. The stalker evaporated ... Then fate brought me to some kind of ... sewer near the house opposite the pig farm. There was a controller.</text>
+	</string>
+	<string id="esc_novice_end_conrik_1">
+		<text>Hmm, well, horror. So, the controller made me kill my friend ... Now you believe me?</text>
+	</string>
+	<string id="esc_novice_end_conrik_2">
+		<text>I believe. Yes. By the way, I found these two notes. Look.</text>
+	</string>
+	<string id="esc_novice_end_conrik_3">
+		<text>What? Your hands are empty.</text>
+	</string>
+	<string id="esc_novice_end_conrik_4">
+		<text>What..? Where is she ... M-mother ... apparently, he completely started his head. I'll go.</text>
+	</string>
+	<string id="esc_trader_quest_first_0">
+		<text>%C [255,0,128,0] I agree to work on you.</text>
+	</string>
+	<string id="esc_trader_quest_first_1">
+		<text>We have a "scum" here. I saw, I think. He should help with some measurements, or not measurements ... I did not go into details. Needing accompany.</text>
+	</string>
+	<string id="esc_trader_quest_first_2">
+		<text>Fine.</text>
+	</string>
+	<string id="esc_ecolog_dialog_0">
+		<text>Do you need this security?</text>
+	</string>
+	<string id="esc_ecolog_dialog_1">
+		<text>Yes. Lord, finally. Will you help?</text>
+	</string>
+	<string id="esc_ecolog_dialog_2">
+		<text>I will help. Tell me even more specifically what is needed.</text>
+	</string>
+	<string id="esc_ecolog_dialog_3">
+		<text>"What -ch" ... just be near and shoot mutants or someone else. Nothing difficult. Then I will throw money, if everything goes smoothly.</text>
+	</string>
+	<string id="esc_ecolog_dialog_4">
+		<text>Okay, let's go.</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_0">
+		<text>The scientist is gone ...</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_1">
+		<text>He died?</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_2">
+		<text>Yes ... or not ... he stood with his scanner and simply disappeared. As it failed through the ground.</text>
+	</string>
+	<string id="esc_ecolog_dissapeared_3">
+		<text>What is happening ... Everything through the ass recently ... Okay, here you are for the time spent.</text>
+	</string>
+	<string id="esc_trader_quest_novice_0">
+		<text>%C [255,0,128,0] What else to help?</text>
+	</string>
+	<string id="esc_trader_quest_novice_1">
+		<text>Here is a novelty to tonne to the tonne around the checkpoint. Stairs behind him and bring to the tree.</text>
+	</string>
+	<string id="esc_novice_quest_loh_0">
+		<text>Are you going to the zone? Sidor asked you to pick you up?</text>
+	</string>
+	<string id="esc_novice_quest_loh_1">
+		<text>Yes! Here it is ... The zone ... I straighten me from emotions! I want to look at all her miracles faster!</text>
+	</string>
+	<string id="esc_novice_quest_loh_2">
+		<text>Okay, romantic, let's go.</text>
+	</string>
+	<string id="esc_novice_quest_what_is_it_0">
+		<text>What got up?</text>
+	</string>
+	<string id="esc_novice_quest_what_is_it_1">
+		<text>What is it? Here is on earth.</text>
+	</string>
+	<string id="esc_novice_quest_what_is_it_2">
+		<text>This...</text>
+	</string>
+	<string id="esc_novice_quest_out_0">
+		<text>Everything is fine. Let's go.</text>
+	</string>
+	<string id="esc_novice_quest_out_1">
+		<text>N-no! I changed my mind! Here ... here is too dangerous! I'm going back!</text>
+	</string>
+	<string id="esc_novice_quest_out_2">
+		<text>Nifiga.</text>
+	</string>
+	<string id="esc_novice_end_trader_0">
+		<text>Your newcomer was scared of a boar and decided to dump.</text>
+	</string>
+	<string id="esc_novice_end_trader_1">
+		<text>You look what is being done ... If earlier the most weak -shaped did not reach the piece of iron and left the zone, then this one did not even reach the village! What is happening ...</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_0">
+		<text>Who are you? Why are you sitting with a zombie? Why did you forget here? Fuck this area overwhelmed?</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_1">
+		<text>Call me raguil. And what about the zombie? They do not touch me. I am them too. If you have not noticed, they do not come out of here. This area was closed, because there is ku-u-uch insects: cockroaches, spider. Hehe ... they, you know, are poisonous, radioactive, sores tolerate ... \ n I'm here ... I'm just sitting. "Bakars" collect and read.</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_2">
+		<text>"Bakar"?</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_3">
+		<text>Yes. Scriptures sent from above. Commandments, if you like. They are written by a certain metropolitan who is connected with the Lord. The records say that the zone was sent to humanity for its sins ... These papers were very interested in me. I would like to meet with the Metropolitan ... Here - read. Perhaps you will be tightened too. I think this is not the only record. I wish you to look at them all ... oh ...</text>
+	</string>
+	<string id="esc_underground_stranger_dialog_4">
+		<text>Well...</text>
+	</string>
+	<string id="esc_mitropolit_dialog_0">
+		<text>Who are you?</text>
+	</string>
+	<string id="esc_mitropolit_dialog_1">
+		<text>I ... Metropolitan ... You are not ready to accept the truth of God ... Take my last entry and plunge into suffering!</text>
+	</string>
+	<string id="esc_mitropolit_dialog_2">
+		<text>Hey where are you?</text>
+	</string>
+	<string id="esc_zapoved_1_done">
+		<text>The first commandment.</text>
+	</string>
+	<string id="esc_zapoved_3_done">
+		<text>The third commandment.</text>
+	</string>
+	<string id="esc_zapoved_4_done">
+		<text>The fourth commandment.</text>
+	</string>
+	<string id="esc_zapoved_5_done">
+		<text>The fifth commandment.</text>
+	</string>
+	<string id="esc_zapoved_6_done">
+		<text>The sixth commandment.</text>
+	</string>
+	<string id="esc_zapoved_7_done">
+		<text>Seventh commandment.</text>
+	</string>
+	<string id="esc_zapoved_8_done">
+		<text>The eighth commandment.</text>
+	</string>
+	<string id="esc_zapovedi_start_found_1">
+		<text>I found some commandment ...</text>
+	</string>
+	<string id="esc_zapovedi_start_found_2">
+		<text>Well, show it.</text>
+	</string>
+	<string id="esc_zapoved_no">
+		<text>Forget.</text>
+	</string>
+	<string id="esc_raguil_end_0">
+		<text>You have already studied all the commandments. Do you want to pick them up? They do not need them.</text>
+	</string>
+	<string id="esc_raguil_end_1">
+		<text>Yes, come on.</text>
+	</string>
+	<string id="esc_merc_guard_dialog_0">
+		<text>What do you need?</text>
+	</string>
+	<string id="esc_merc_guard_dialog_1">
+		<text>Uh ... "Recently, a lot of radioactive precipitation has fallen in the zone."</text>
+	</string>
+	<string id="esc_merc_guard_dialog_2">
+		<text>Clearly, walk.</text>
+	</string>
+	<string id="esc_merc_guard_dialog_3">
+		<text>Where is your main one?</text>
+	</string>
+	<string id="esc_merc_guard_dialog_4">
+		<text>Right behind my back.</text>
+	</string>
+	<string id="esc_merc_guard_dialog_5">
+		<text>Fine.</text>
+	</string>
+	<string id="esc_mercs_final_dialog_0">
+		<text>Well, hello.</text>
+	</string>
+	<string id="esc_mercs_final_dialog_1">
+		<text>Well? Where?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_2">
+		<text>Where what?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_3">
+		<text>Do not make me a fool. Where is he?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_4">
+		<text>Where ... who?</text>
+	</string>
+	<string id="esc_mercs_final_dialog_5">
+		<text>Falcon...</text>
+	</string>
+	<string id="esc_mercs_final_dialog_6">
+		<text>What?</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_0">
+		<text>Your device caught the negotiations of hires with a kind of "pig". Not sure if it was a nickname or an insult.</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_1">
+		<text>Mercenaries? Nichrome to yourself. Why did they forget here?</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_2">
+		<text>I don't know ... I could not find out. I was dispersed and cut down.</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_3">
+		<text>Eh! Cherovo. So, and where did they go, you also do not know?</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_4">
+		<text>No. Surprisingly, they did not touch my things. Apparently, their "business" is very profitable. It is a pity that now we are now unlikely to ever find out what they were doing here.</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_5">
+		<text>Yes ... okay, for the trouble you have earned a reward. Here:</text>
+	</string>
+	<string id="esc_panatseya_final_dialog_6">
+		<text>Thank you. And ... don't catch a bullet with a stomach, yeah?</text>
+	</string>
+	<string id="esc_army_1_quest_start_0">
+		<text>Do you need help?</text>
+	</string>
+	<string id="esc_army_1_quest_start_1">
+		<text>Yes. You see ... You probably saw a minefield at the checkpoint. And also a fallen tree in the east. There should be a backpack, and in it my gun. Do not ask how he was there ... just ... can you get it? Please. Get out through mines. I can't. Just ... uh ... I can't.</text>
+	</string>
+	<string id="esc_army_2_quest_start_0">
+		<text>Can I help?</text>
+	</string>
+	<string id="esc_army_2_quest_start_1">
+		<text>I lost a lighter somewhere. Damn, the whole checkpoint rummaged, but I can't find it! I just bought it recently, oh ...</text>
+	</string>
+	<string id="esc_army_3_quest_start_0">
+		<text>Help?</text>
+	</string>
+	<string id="esc_army_3_quest_start_1">
+		<text>Yes. My friend dumped somewhere. He began to hear the voices, began to yell and simply escaped from the checkpoint. I can't leave the checkpoint, but this guy also needs to be found. None of the headquarters of the ass will even scratch his searches. He says something about the elevator, it seems. I think he is there.</text>
+	</string>
+	<string id="esc_army_1_helped_0">
+		<text>Take away.</text>
+	</string>
+	<string id="esc_army_1_helped_1">
+		<text>Thank you. It is important to me. Is it true.</text>
+	</string>
+	<string id="esc_army_2_helped_0">
+		<text>Here - hold. Could you light cigarettes on a bonfire?</text>
+	</string>
+	<string id="esc_army_2_helped_1">
+		<text>Thank you. I could not. A matter of principle, understand? Finally I will smoke ...</text>
+	</string>
+	<string id="esc_army_3_helped_0">
+		<text>He returned the loss.</text>
+	</string>
+	<string id="esc_army_3_helped_1">
+		<text>Yes, he already told me. The voices in his head shut up. Hope...</text>
+	</string>
+	<string id="esc_army_lost_hello_0">
+		<text>And here is a loss.</text>
+	</string>
+	<string id="esc_army_lost_hello_1">
+		<text>You ... how did you pass by this monster?</text>
+	</string>
+	<string id="esc_army_lost_hello_2">
+		<text>What monsters?</text>
+	</string>
+	<string id="esc_army_losted_saved_0">
+		<text>The bitch is dead.</text>
+	</string>
+	<string id="esc_army_losted_saved_1">
+		<text>You ... thank you ... you saved my life ... I really are grateful to you ...</text>
+	</string>
+	<string id="esc_army_losted_saved_2">
+		<text>Come on, poor fellow.</text>
+	</string>
+	<string id="esc_trader_final_dialog_xd_0">
+		<text>You somehow mentioned that the merchant from the farm bothers you.</text>
+	</string>
+	<string id="esc_trader_final_dialog_xd_1">
+		<text>Yes. I have almost prepared the soil to undermine his business. I will contact you how everything will be ready.</text>
+	</string>
+	<string id="esc_trader_final_dialog_xd_2">
+		<text>Fine. I'll go rest.</text>
+	</string>
+	<string id="esc_kogot_killed_trader_0">
+		<text>Where sidor?</text>
+	</string>
+	<string id="esc_kogot_killed_trader_1">
+		<text>Dead. A few hours ago I heard a shot in the bunker. When I came in, there is no one inside. Only the body of the merchant. We carried it and buried it. Sorry, of course. Sidor, although he was greedy, was his toad. He was in the zone for so long that he could not even believe that he was not there.</text>
+	</string>
+	<string id="lab_thing_dialog_0">
+		<text>You are so close ...</text>
+	</string>
+	<string id="lab_thing_dialog_1">
+		<text>Your mother ... again you!</text>
+	</string>
+	<string id="lab_thing_dialog_2">
+		<text>Don't stop. Go to your goal. You are on the right track.</text>
+	</string>
+	<string id="lab_thing_dialog_3">
+		<text>What?! Who are you?!</text>
+	</string>
+	<string id="lab_thing_doors_dialog_0">
+		<text>And where are you going?</text>
+	</string>
+	<string id="lab_thing_doors_dialog_1">
+		<text>You again! Who are you?!</text>
+	</string>
+	<string id="lab_thing_doors_dialog_2">
+		<text>Everything has its time, Inc. You want to get there, right? You need to get to the laboratory.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_3">
+		<text>How do you know that?</text>
+	</string>
+	<string id="lab_thing_doors_dialog_4">
+		<text>Everything has its time ... Now it is only important that I can help you with this. You just need to find the code from these doors. Personnel recording are scattered for all catacombs. Perhaps you can find the code in them? Well, the truth is useful to you by the notebook of the boss. I hope you already have it.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_5">
+		<text>Your mother ...</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_0">
+		<text>Ta-a-ak.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_1">
+		<text>What are you doing?</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_2">
+		<text>Back off. Just give me a little time.</text>
+	</string>
+	<string id="lab_thing_doors_dialog_end_3">
+		<text>Uh ... okay?</text>
+	</string>
+	<string id="lbx_ecolog_dialog_0">
+		<text>What did you do?! Who are you?! Do you even understand what you have done?!</text>
+	</string>
+	<string id="lbx_ecolog_dialog_1">
+		<text>Run.</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_0">
+		<text>Hah ... Ha-ha ... ha ...</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_1">
+		<text>Now you will not run away, bastards.</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_2">
+		<text>Ha ...</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_3">
+		<text>Laugh while you can.</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_4">
+		<text>Ha-Ha-ha ...</text>
+	</string>
+	<string id="lbx_dolg_1_dialog_5">
+		<text>*Beat*</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_0">
+		<text>Ha-ha ...</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_1">
+		<text>Few?! And you also laugh, bitch?! Why did you kill her?! Answer!</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_2">
+		<text>Ha ...</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_3">
+		<text>Speak, scum! What did she do to you?! She was a child! A child, bitch!</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_4">
+		<text>Ahaha...</text>
+	</string>
+	<string id="lbx_dolg_2_dialog_5">
+		<text>S-Suka ... *Shoot *</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_0">
+		<text>M ... ha ha ...</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_1">
+		<text>What?! What ..?</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_2">
+		<text>Ha ... ha ... ha ...</text>
+	</string>
+	<string id="lbx_dolg_3_dialog_3">
+		<text>When are you already fucking, you will die?!</text>
+	</string>
+	<string id="lbx_ecolog_end_dialog_0">
+		<text>Stand ... don't do it! You can't even imagine what to do!</text>
+	</string>
+	<string id="lbx_ecolog_end_dialog_1">
+		<text>Your mother, close! Until I killed you either.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_0">
+		<text>A miserable sight ...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_1">
+		<text>What? Again you ... Why are you pursuing me?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_2">
+		<text>You didn't understand anything, right?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_3">
+		<text>No?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_4">
+		<text>These laboratory assistants ... the military in the catacombs ... Doctor ... you really don't understand what he did?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_5">
+		<text>What?! What, fuck, laboratory assistants?! And you killed Doc and the military!</text>
+	</string>
+	<string id="lbx_start_thing_dialog_6">
+		<text>And if you remember?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_7">
+		<text>What..?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_8">
+		<text>Oh ... you yourself killed them. Remember.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_9">
+		<text>I ... this is not ... cannot be ...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_10">
+		<text>Yes-ah ... True, it can be ... unexpected.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_11">
+		<text>...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_12">
+		<text>In general, now all this is no longer particularly important. The main thing is that your hatred has released me.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_13">
+		<text>Wait ... that means ..?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_14">
+		<text>Yes. There has never been any missionary. You never had a sister who allegedly died of his hands. These memories are my hands.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_15">
+		<text>But ... who was on the farm? Who did the dock treat?</text>
+	</string>
+	<string id="lbx_start_thing_dialog_16">
+		<text>Everything is simple - Doc treated another stalker. All your conversations about the missionary were actually about another stalker. It's just that in your head they were preserved as if they were just about him.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_17">
+		<text>I ... God ...</text>
+	</string>
+	<string id="lbx_start_thing_dialog_18">
+		<text>As I said, now all this is not so important. I am free. Almost. You need to get rid of my "conductor". Do not be afraid - I will do everything quickly.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_19">
+		<text>Do you want to kill me? Dick you!</text>
+	</string>
+	<string id="lbx_start_thing_dialog_20">
+		<text>Decided to pable? Okay ... You will only delay the inevitable - no more.</text>
+	</string>
+	<string id="lbx_start_thing_dialog_21">
+		<text>Now we will find out.</text>
+	</string>
+	<string id="lbx_end_thing_dialog_0">
+		<text>It is useless ... how sorry you are ...</text>
+	</string>
+	<string id="lbx_end_thing_dialog_1">
+		<text>What are you fucking, such?! What do you need?! Drive away from me!</text>
+	</string>
+	<string id="lbx_end_thing_dialog_2">
+		<text>Your life does not change. From year to year, the same thing. You burn your life for useless activities.</text>
+	</string>
+	<string id="lbx_end_thing_dialog_3">
+		<text>What? What are you talking about? Your mother, leave me alone!</text>
+	</string>
+	<string id="lbx_end_thing_dialog_4">
+		<text>Welcome to hell. In real hell ... oh yes. Check the game folder.</text>
+	</string>
+	<string id="lbx_end_thing_dialog_5">
+		<text>What?!</text>
+	</string>
+</string_table>
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

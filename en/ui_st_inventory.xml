@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="not_enough_money_actor">
+		<text>You do not have enough money</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>The character does not have enough money</text>
+	</string>
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	<string id="st_activate_artefact">
+		<text>Activate an artifact</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>Attach a grenade launcher to</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>Attach the sight to</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>Attach the muffler K.</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Price</text>
+	</string>
+	<string id="st_community">
+		<text>Group:</text>
+	</string>
+	<string id="st_condition">
+		<text>State</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>Disconnect the grenade launcher</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>Disconnect the sight</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>Disconnect the muffler</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>put on a suit</text>
+	</string>
+	<string id="st_drop">
+		<text>throw it away</text>
+	</string>
+	<string id="st_drop_all">
+		<text>throw everything away</text>
+	</string>
+	<string id="st_eat">
+		<text>Eat</text>
+	</string>
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>Hang on the belt</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>Remove in a backpack</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>Move to the slot</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>The merchant is not interested in such items.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>The item is too poor for sale.</text>
+	</string>
+	<string id="st_play">
+		<text>lose</text>
+	</string>
+	<string id="st_sell_item">
+		<text>Sell ​​the item</text>
+	</string>
+	<string id="st_ui_armor_static">
+		<text>The condition of the armor</text>
+	</string>
+	<string id="st_ui_main_sensor">
+		<text>Radiation infection</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>Remove the costume</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>discharge</text>
+	</string>
+	<string id="st_use">
+		<text>use</text>
+	</string>
+	<string id="st_weight">
+		<text>Weight</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>EMC. store</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Accuracy</text>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<text>Buy basic cartridges for a pistol (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Buy cartridges for a rifle (w)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Healing of wounds</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Cancellation</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>It is impossible to buy weapons</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Limit on the quantity</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Damage</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Starting (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Exit</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Buy a rifle sub -barrel (D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Buy grenades for undergenter (e)</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Convenience</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Now</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Rang. health</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Heavy</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Buy the last acquired set</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Previous (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Money</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Necessary</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Not enough money</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_outfit_additional_weight">
+		<text>A transferred weight</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Thermal protection</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Gauge</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Armor</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Radio protection</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Electric protection</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Psi protection</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Shock of the blow</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Rang. strength</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Set 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Set 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Set 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radiation</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Restriction on the rank</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>The pace of fire</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Clean (c)</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Automatic machines</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Saturation</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Buy an optical sight for a rifle (s)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Sell ​​all things from a backpack (x)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Guns</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Buy a muffler for a gun (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Buy a muffler for a rifle (f)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Sniper</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Time</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Already there</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Online services S.T.A.L.K.E.R. Inaccessible.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>It is impossible to connect with the master server</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Protection:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Starting</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>The acquired set is saved as</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Total weight:</text>
+	</string>
+	<string id="st_drink">
+		<text>drink</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Restoring forces</text>
+	</string>
+	<string id="st_ui_bleeding_sensor">
+		<text>Bleeding</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Max. weight</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>Health state</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>Ammunition</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>Action time</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>sec.</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>Allows you to survive the release</text>
+	</string>
+	<string id="st_undress_helmet">
+		<text>Remove the helmet</text>
+	</string>
+	<string id="st_dress_helmet">
+		<text>put on a helmet</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

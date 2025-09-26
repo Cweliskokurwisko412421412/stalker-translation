@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="st_zat_b55_name">
+		<text>Anomaly "Claw"</text>
+	</string>
+	<string id="st_zat_b100_name">
+		<text>Anomaly "Iron Forest"</text>
+	</string>
+	<string id="st_zat_b104_name">
+		<text>Sawmill</text>
+	</string>
+	<string id="st_zat_b38_name">
+		<text>Circle Higher Education</text>
+	</string>
+	<string id="st_zat_b40_name">
+		<text>Waste processing station</text>
+	</string>
+	<string id="st_zat_b56_name">
+		<text>Anomaly "Circus"</text>
+	</string>
+	<string id="st_zat_b5_name">
+		<text>Forestry</text>
+	</string>
+	<string id="st_zat_a2_name">
+		<text>"Skadovsk"</text>
+	</string>
+	<string id="st_zat_b20_name">
+		<text>A burnt farm</text>
+	</string>
+	<string id="st_zat_b53_name">
+		<text>Anomaly "boiler"</text>
+	</string>
+	<string id="st_zat_b101_name">
+		<text>Top</text>
+	</string>
+	<string id="st_zat_b106_name">
+		<text>"Emerald"</text>
+	</string>
+	<string id="st_zat_b7_name">
+		<text>Shevchenko</text>
+	</string>
+	<string id="st_zat_b14_name">
+		<text>Earthy</text>
+	</string>
+	<string id="st_zat_b52_name">
+		<text>Port cranes</text>
+	</string>
+	<string id="st_zat_b39_name">
+		<text>Anomaly "Sosnodub"</text>
+	</string>
+	<string id="st_zat_b33_name">
+		<text>Refueling</text>
+	</string>
+	<string id="st_zat_b18_name">
+		<text>Old barge</text>
+	</string>
+	<string id="st_zat_b54_name">
+		<text>Anomaly "Rubts"</text>
+	</string>
+	<string id="st_zat_b12_name">
+		<text>Bridge to them. Preobrazhensky</text>
+	</string>
+	<string id="st_zat_b28_name">
+		<text>Southern plateau</text>
+	</string>
+	<string id="st_zat_b103_name">
+		<text>The workshop of the substation</text>
+	</string>
+	<string id="st_jup_b1_name">
+		<text>Ash anomaly</text>
+	</string>
+	<string id="st_jup_b46_name">
+		<text>Gradually</text>
+	</string>
+	<string id="st_jup_b202_name">
+		<text>Half -house</text>
+	</string>
+	<string id="st_jup_b211_name">
+		<text>Anomaly “smooth”</text>
+	</string>
+	<string id="st_jup_b200_name">
+		<text>Cement plant</text>
+	</string>
+	<string id="st_jup_b19_name">
+		<text>Diggers</text>
+	</string>
+	<string id="st_jup_a6_name">
+		<text>“Yanov”</text>
+	</string>
+	<string id="st_jup_b25_name">
+		<text>Candy</text>
+	</string>
+	<string id="st_jup_b6_name">
+		<text>Bunker of scientists</text>
+	</string>
+	<string id="st_jup_b205_name">
+		<text>RUSSK "Volkhov"</text>
+	</string>
+	<string id="st_jup_b206_name">
+		<text>Anomalous grove</text>
+	</string>
+	<string id="st_jup_b32_name">
+		<text>Parking</text>
+	</string>
+	<string id="st_jup_a10_name">
+		<text>Gearbox</text>
+	</string>
+	<string id="st_jup_b209_name">
+		<text>Anomaly "Bitum"</text>
+	</string>
+	<string id="st_jup_b208_name">
+		<text>Eastern tunnel</text>
+	</string>
+	<string id="st_jup_a12_name">
+		<text>Container warehouse</text>
+	</string>
+	<string id="st_jup_b212_name">
+		<text>Ventilation complex</text>
+	</string>
+	<string id="st_jup_b9_name">
+		<text>Helicopter sites</text>
+	</string>
+	<string id="st_jup_b201_name">
+		<text>Anomaly "Concrete Bath"</text>
+	</string>
+	<string id="st_jup_a9_name">
+		<text>Plant "Jupiter"</text>
+	</string>
+	<string id="st_pri_a28_name">
+		<text>Cinema "Prometheus"</text>
+	</string>
+	<string id="st_pri_b36_name">
+		<text>River port</text>
+	</string>
+	<string id="st_pri_b303_name">
+		<text>Old KBO</text>
+	</string>
+	<string id="st_pri_b301_name">
+		<text>School</text>
+	</string>
+	<string id="st_pri_a17_name">
+		<text>Hospital</text>
+	</string>
+	<string id="st_pri_b306_name">
+		<text>KBO "Jubilee"</text>
+	</string>
+	<string id="st_pri_a16_name">
+		<text>Laundry</text>
+	</string>
+	<string id="st_pri_a25_name">
+		<text>Kindergarten</text>
+	</string>
+	<string id="st_pri_b35_name">
+		<text>Hostel</text>
+	</string>
+	<string id="st_pri_a21_name">
+		<text>Gastronomic</text>
+	</string>
+	<string id="st_pri_b304_name">
+		<text>Department store</text>
+	</string>
+	<string id="st_pri_a18_name">
+		<text>Book Shop</text>
+	</string>
+	<string id="st_pri_b307_name">
+		<text>Anomaly "Volcano"</text>
+	</string>
+	<string id="st_pri_b302_name">
+		<text>Anomaly "Loza"</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

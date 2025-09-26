@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="esc_save_panatseya_name">
+		<text>There is a signal: save a stalker</text>
+	</string>
+	<string id="esc_save_panatseya_desc">
+		<text>I got SOS from a stalker on a farm ... I need to hurry and help him ...</text>
+	</string>
+	<string id="esc_find_sig_panatseya_name">
+		<text>Signal is: Find signals on the cordon</text>
+	</string>
+	<string id="esc_find_sig_panatseya_desc">
+		<text>Plyush gave me a certain device. He said that it takes some signals all over the cordon. It is worth dealing with this ... you need to look for places where he can take something interesting.</text>
+	</string>
+	<string id="esc_start_mod_quest_name">
+		<text>Good start: talk to ash</text>
+	</string>
+	<string id="esc_start_mod_quest_desc">
+		<text>We finally arrived at the cordon. I rested a little, I need to go and talk with ash, discuss the further plan.</text>
+	</string>
+	<string id="esc_start_mod_go_derev_name">
+		<text>Good start: go to the village with a root</text>
+	</string>
+	<string id="esc_start_mod_go_derev_desc">
+		<text>Ashes wants to get Sidor's money. You need to go to the village and knock out money from it "by the roof."</text>
+	</string>
+	<string id="esc_start_mod_wait_to_bunk_name">
+		<text>Good start: talk to the root</text>
+	</string>
+	<string id="esc_start_mod_wait_to_bunk_desc">
+		<text>We are in the village. We need to talk with the root.</text>
+	</string>
+	<string id="esc_start_mod_walk_to_sidor_name">
+		<text>Good start: talk to Sidorovich</text>
+	</string>
+	<string id="esc_start_mod_walk_to_sidor_desc">
+		<text>In the village, newcomers are afraid of us. And right. Nefig of this greenery from this from underfoot. You need to knock out money from Sidor. This old dick knows how to work with his tongue, you must be more accurate in negotiations.</text>
+	</string>
+	<string id="esc_start_mod_speak_band_name">
+		<text>Good start: talk to the root</text>
+	</string>
+	<string id="esc_start_mod_speak_band_desc">
+		<text>The negotiations are over. You need to communicate the root.</text>
+	</string>
+	<string id="esc_start_mod_speak_lead_name">
+		<text>Good start: return to the ashes</text>
+	</string>
+	<string id="esc_start_mod_speak_lead_desc">
+		<text>It is necessary to inform Pepla about the results of negotiations.</text>
+	</string>
+	<string id="esc_bandit_electra_name">
+		<text>Electro: Talk to the shepherd</text>
+	</string>
+	<string id="esc_bandit_electra_desc">
+		<text>Chaban wants to tell me something. Most likely about that flawless thing.</text>
+	</string>
+	<string id="esc_bandit_ele_go_to_name">
+		<text>Electro: follow the bandit</text>
+	</string>
+	<string id="esc_bandit_ele_go_to_desc">
+		<text>The chaban seems to have understood how to open his garbage. You need to follow him.</text>
+	</string>
+	<string id="esc_bandit_ele_wait_name">
+		<text>Electro: wait</text>
+	</string>
+	<string id="esc_bandit_ele_wait_desc">
+		<text>Just wait. Are you a fool?</text>
+	</string>
+	<string id="esc_bandit_ele_back_name">
+		<text>Electro: Pass the shepherd to the fire</text>
+	</string>
+	<string id="esc_bandit_ele_back_desc">
+		<text>The shepherd was shocked. Apparently, part of the Electra anomaly was closed in this thing. Your mother ... he flew very much. Well, at least survived.</text>
+	</string>
+	<string id="esc_back_to_sidor_main_name">
+		<text>Sudden work: talk with Sidorovich</text>
+	</string>
+	<string id="esc_back_to_sidor_main_desc">
+		<text>Sidorovich wants to offer me a job. Why would I? You need to be careful.</text>
+	</string>
+	<string id="esc_out_bunk_name">
+		<text>Sudden work: Leave the bunker</text>
+	</string>
+	<string id="esc_out_bunk_desc">
+		<text>I listened to Sidorovich. You need to leave the bunker.</text>
+	</string>
+	<string id="esc_speak_ab_mis_name">
+		<text>Debts: find out about the missionary</text>
+	</string>
+	<string id="esc_speak_ab_mis_desc">
+		<text>I suddenly remembered that I had come to the cordon to find a missionary. You need to try Sidorovich or Claw in the village.</text>
+	</string>
+	<string id="esc_find_kogot_balbesi_name">
+		<text>Losses: Find newcomers from the village</text>
+	</string>
+	<string id="esc_find_kogot_balbesi_desc">
+		<text>Claw asked to find newcomers who left the village. They are not far away.</text>
+	</string>
+	<string id="esc_kogot_back_name">
+		<text>Losses: Return to claw</text>
+	</string>
+	<string id="esc_kogot_back_desc">
+		<text>Beginners are found. True, only one. He killed his friend. Hmm. Well, okay, you need to inform the claw.</text>
+	</string>
+	<string id="esc_bring_money_kogot_name">
+		<text>Payment: Pay claw 10 thousand</text>
+	</string>
+	<string id="esc_bring_money_kogot_desc">
+		<text>Claw will tell you about the missionary if I pay him 10 thousand money. Need to bring them them.</text>
+	</string>
+	<string id="esc_check_grave_name">
+		<text>Debts: check the grave at night</text>
+	</string>
+	<string id="esc_check_grave_desc">
+		<text>Claw gave a tip to the grave, where every night in the interval from 22:00 to 3:00 there may be a missionary. You need to catch it at this time.</text>
+	</string>
+	<string id="esc_kill_thief_name">
+		<text>Debts: kill and search a stalker</text>
+	</string>
+	<string id="esc_kill_thief_desc">
+		<text>It is necessary to kill and inspect the stalker.</text>
+	</string>
+	<string id="esc_find_trava_name">
+		<text>Herbalist: Find grass in a cache</text>
+	</string>
+	<string id="esc_find_trava_desc">
+		<text>The missionary is sick with "landfill smallpox". You need to collect grass for medicine.</text>
+	</string>
+	<string id="esc_find_flower_name">
+		<text>Herbalist: find a scarlet flower</text>
+	</string>
+	<string id="esc_find_flower_desc">
+		<text>The missionary is sick with "landfill smallpox". You need to collect a scarlet flower for the medicine.</text>
+	</string>
+	<string id="esc_go_to_guard_hello_name">
+		<text>Herbalist: talk to the guard</text>
+	</string>
+	<string id="esc_go_to_guard_hello_desc">
+		<text>I collected everything for the medicine for the missionary. They need to be attributed to the pig farm.</text>
+	</string>
+	<string id="esc_check_guard_secret_name">
+		<text>Herbalist: search the security cache</text>
+	</string>
+	<string id="esc_check_guard_secret_desc">
+		<text>The guard does not want to let me go ... I need to find him a booze. Helpen Herov, bitch. Okay, this is not very far away. I'm running away.</text>
+	</string>
+	<string id="esc_back_guard_alco_name">
+		<text>Herbalist: bring moonshine to the guard</text>
+	</string>
+	<string id="esc_back_guard_alco_desc">
+		<text>The moonshine took. Can spit it? This guard annoys me.</text>
+	</string>
+	<string id="esc_go_to_doc_name">
+		<text>Herbalist: transfer the grass to the doctor</text>
+	</string>
+	<string id="esc_go_to_doc_desc">
+		<text>I went to the farm. Now you need to transfer the grass to the doctor.</text>
+	</string>
+	<string id="esc_go_sleep_name">
+		<text>Herbalist: take a nap</text>
+	</string>
+	<string id="esc_go_sleep_desc">
+		<text>You need to relax and wait until the missionary wakes up.</text>
+	</string>
+	<string id="esc_speak_leader_svin_name">
+		<text>Escape: talk to the sleeve</text>
+	</string>
+	<string id="esc_speak_leader_svin_desc">
+		<text>What was it? Did I dream of that? We need to talk with the sleeve.</text>
+	</string>
+	<string id="esc_find_missioner_name">
+		<text>Escape: Find a missionary</text>
+	</string>
+	<string id="esc_find_missioner_desc">
+		<text>The missionary fled ... bitch ... I will find him, whatever it costs me. This bastard will pay ...</text>
+	</string>
+	<string id="esc_jump_to_puzir_name">
+		<text>Escape: jump into the bubble above the bridge</text>
+	</string>
+	<string id="esc_jump_to_puzir_desc">
+		<text>The miserable suggested that the missionary jumped into the bubble above the bridge. I am behind him.</text>
+	</string>
+	<string id="esc_go_to_voenniy_name">
+		<text>Catacombs: talk to the military</text>
+	</string>
+	<string id="esc_go_to_voenniy_desc">
+		<text>In the PDA of a certain scientist, a laboratory is mentioned. What ... Apparently you have to ask for help from old friends.</text>
+	</string>
+	<string id="esc_army_leader_hello_name">
+		<text>Catacombs: Talk to Colonel</text>
+	</string>
+	<string id="esc_army_leader_hello_desc">
+		<text>Old friends accepted me warmly. Maybe. I hope we agree with the colonel.</text>
+	</string>
+	<string id="esc_final_wait_mod_quest_name">
+		<text>Catacombs: Help the military</text>
+	</string>
+	<string id="esc_final_wait_mod_quest_desc">
+		<text>The colonel agreed to take me to the laboratory. But you need to help three military from the advance.</text>
+	</string>
+	<string id="esc_final_helped_army_name">
+		<text>Funny night: talk to the colonel</text>
+	</string>
+	<string id="esc_final_helped_army_desc">
+		<text>I helped everyone on a checkpoint. We need to talk to the colonel.</text>
+	</string>
+	<string id="esc_go_to_drunk_name">
+		<text>Funny night: drink for a bonfire</text>
+	</string>
+	<string id="esc_go_to_drunk_desc">
+		<text>Before the operation, the military want to drink together. I would like to join them.</text>
+	</string>
+	<string id="esc_back_to_polk_name">
+		<text>Funny night: Return to the Colonel</text>
+	</string>
+	<string id="esc_back_to_polk_desc">
+		<text>The booze went ... not bad. I feel great. We need to talk to the colonel.</text>
+	</string>
+	<string id="esc_talk_ab_drunk_army_name">
+		<text>Funny night: talk to the military</text>
+	</string>
+	<string id="esc_talk_ab_drunk_army_desc">
+		<text>You need to talk with the guys and find out if they are ready to fly.</text>
+	</string>
+	<string id="esc_army_go_to_heli_name">
+		<text>Funny night: sit in a helicopter</text>
+	</string>
+	<string id="esc_army_go_to_heli_desc">
+		<text>Everyone is ready. You need to go into a helicopter and fly out with everyone.</text>
+	</string>
+	<string id="esc_find_planshet_name">
+		<text>Sweet and fluffy: find a tablet</text>
+	</string>
+	<string id="esc_find_planshet_desc">
+		<text>The stalker tape asked to find his graphic tablet and promised something interesting to me in return ... Where is it, damn it? The tape says that the tablet is somewhere in the southern part of the cordon. It makes no sense to look for the railway to the north.</text>
+	</string>
+	<string id="esc_back_planshet_name">
+		<text>Sweet and fluffy: Return the tablet</text>
+	</string>
+	<string id="esc_back_planshet_desc">
+		<text>I found a tablet. It is necessary to return its tape.</text>
+	</string>
+	<string id="esc_check_strange_house_sound_name">
+		<text>Old friends: check the noise</text>
+	</string>
+	<string id="esc_check_strange_house_sound_desc">
+		<text>After the door was opened, I heard some strange noise on the lower floor ... I need to check what is there.</text>
+	</string>
+	<string id="esc_stalker_zombies_scene_name">
+		<text>Old friends: check the camp at night</text>
+	</string>
+	<string id="esc_stalker_zombies_scene_desc">
+		<text>In the PDA of the corpse, a certain camp is indicated, where he should meet "old friends." It is worth checking this place at night.</text>
+	</string>
+	<string id="esc_strange_house_find_key_name">
+		<text>Tuk-knuck: talk with bright</text>
+	</string>
+	<string id="esc_strange_house_find_key_desc">
+		<text>Svetly said he found the key. And the newcomer in the village lost the key ... The puzzle in the head is folding, right?</text>
+	</string>
+	<string id="esc_open_derev_house_name">
+		<text>Tuk-knuck: open the door in the village</text>
+	</string>
+	<string id="esc_open_derev_house_desc">
+		<text>I have the key. You need to open the door in the village.</text>
+	</string>
+	<string id="esc_check_derev_house_name">
+		<text>TUK-NEK: to inspect the house</text>
+	</string>
+	<string id="esc_check_derev_house_desc">
+		<text>I'm inside. The door slammed shut behind me and does not open ... Okay, I need to inspect the house.</text>
+	</string>
+	<string id="esc_back_book_novice_name">
+		<text>Tuk-knuck: give the book to a beginner</text>
+	</string>
+	<string id="esc_back_book_novice_desc">
+		<text>The house had a strange book. It is necessary to return her to a newcomer</text>
+	</string>
+	<string id="esc_back_bandit_8_key_name">
+		<text>Tuk-knuck: give a bright one of the artifacts</text>
+	</string>
+	<string id="esc_back_bandit_8_key_desc">
+		<text>The newcomer gave two artifacts as a reward - Rubin and sapphire. Together they, alas, are just trinkets. It is necessary to give a bright one of the art so that they show their properties. Anyway, he promised him a share.</text>
+	</string>
+	<string id="esc_talk_with_freedom_lead_name">
+		<text>Dead Anarchist: Meet the leader of the Svobodov detachment</text>
+	</string>
+	<string id="esc_talk_with_freedom_lead_desc">
+		<text>Freedom on the cordon? Something interesting. They seem to have a job for which they promised a good payment ...</text>
+	</string>
+	<string id="esc_meet_snaff_trader_name">
+		<text>Dead Anarchist: Meet the Seller "Snuff"</text>
+	</string>
+	<string id="esc_meet_snaff_trader_desc">
+		<text>Someone orders "Snuff" with "Svobodovites". You need to meet with the seller and try to go to the customer through him.</text>
+	</string>
+	<string id="esc_kill_trader_snaff_name">
+		<text>Dead Anarchist: Kill the Party</text>
+	</string>
+	<string id="esc_kill_trader_snaff_desc">
+		<text>The bastard is associated with the entire trade in "Snuff". It needs to be killed.</text>
+	</string>
+	<string id="esc_back_to_freedom_lead_name">
+		<text>Dead Anarchist: Return to Sopov</text>
+	</string>
+	<string id="esc_back_to_freedom_lead_desc">
+		<text>It is necessary to convey to Sopov everything that I learned from the seller of "Snuff".</text>
+	</string>
+	<string id="esc_check_strange_art_most_name">
+		<text>The color of blue eyes: inspect the place of glow</text>
+	</string>
+	<string id="esc_check_strange_art_most_desc">
+		<text>It is necessary to inspect the place where the dried one saw a glow at night.</text>
+	</string>
+	<string id="esc_back_art_back_most_name">
+		<text>Color of blue eyes: give the artifact to the dried</text>
+	</string>
+	<string id="esc_back_art_back_most_desc">
+		<text>What was it? Did you teleport the artifact? It is necessary to show it to the dried.</text>
+	</string>
+	<string id="esc_find_art_bandit_atp_name">
+		<text>Color of blue eyes: Find dried</text>
+	</string>
+	<string id="esc_find_art_bandit_atp_desc">
+		<text>The dried is gone. The artifact teleported him ... Bitch, it was obvious ... you need to find it.</text>
+	</string>
+	<string id="esc_speak_with_bandit_atp_art_name">
+		<text>Color of blue eyes: talk dried</text>
+	</string>
+	<string id="esc_speak_with_bandit_atp_art_desc">
+		<text>The dried is saved. We need to discuss what happened to him.</text>
+	</string>
+	<string id="esc_meet_bandit_dolzhnik_name">
+		<text>You have debt: meet the debtor</text>
+	</string>
+	<string id="esc_meet_bandit_dolzhnik_desc">
+		<text>Some stalker owed his brother. We must go and pick up the goldfish artifact.</text>
+	</string>
+	<string id="esc_check_dolzhnik_tainik_name">
+		<text>You have a debt: check the debtor's cache</text>
+	</string>
+	<string id="esc_check_dolzhnik_tainik_desc">
+		<text>I feel that this hell has planned something. But what?</text>
+	</string>
+	<string id="esc_kill_zasada_mercs_name">
+		<text>You have debt: kill mercenaries</text>
+	</string>
+	<string id="esc_kill_zasada_mercs_desc">
+		<text>You need to kill mercenaries.</text>
+	</string>
+	<string id="esc_check_bandit_dolzhnik_place_name">
+		<text>You have debt: check the debtor</text>
+	</string>
+	<string id="esc_check_bandit_dolzhnik_place_desc">
+		<text>This asshole ambushed. As I understand it, it was not intended for me. You need to check if the pumpkin is in place.</text>
+	</string>
+	<string id="esc_take_golden_fish_dolzhnik_name">
+		<text>You have debt: to search the body of the debtor</text>
+	</string>
+	<string id="esc_take_golden_fish_dolzhnik_desc">
+		<text>It seems to me that the pumpkin is deceiving me. I killed him. You need to search the body.</text>
+	</string>
+	<string id="esc_back_to_bandit_dolg_name">
+		<text>You have debt: return to the bandit</text>
+	</string>
+	<string id="esc_back_to_bandit_dolg_desc">
+		<text>You need to return to the brother and talk about what happened.</text>
+	</string>
+	<string id="esc_check_noviced_contrik_place_name">
+		<text>Cerebusion: check the place where the newcomers were</text>
+	</string>
+	<string id="esc_check_noviced_contrik_place_desc">
+		<text>The newcomer asked to inspect the place where he killed his friend.</text>
+	</string>	
+	<string id="esc_check_freezer_name">
+		<text>Brainness: Find a refrigerator</text>
+	</string>
+	<string id="esc_check_freezer_desc">
+		<text>What was it? I had a note in my backpack ... It seems that the continuation in the refrigerator in one of the cellars of the village of Novichkov. The code from the castle is 4145.</text>
+	</string>	
+	<string id="esc_check_underground_contrik_name">
+		<text>Brainness: to inspect the dungeon</text>
+	</string>
+	<string id="esc_check_underground_contrik_desc">
+		<text>The note says a certain meeting in the dungeon near the destroyed farm ... you need to go there.</text>
+	</string>	
+	<string id="esc_back_to_novice_contrik_name">
+		<text>Brainstorm: Return to the beginner</text>
+	</string>
+	<string id="esc_back_to_novice_contrik_desc">
+		<text>It was all the tricks of the controller ... it was worth guessing. But ... how could he control my consciousness and the consciousness of that beginner from such a distance? Not particularly clear ...</text>
+	</string>
+	<string id="esc_talk_with_scientist_name">
+		<text>Oh no, measurements!: Talk to the scientist</text>
+	</string>
+	<string id="esc_talk_with_scientist_desc">
+		<text>I decided to work on Sidorovich. The first task is to protect the scientist while he makes some measurements or like that.</text>
+	</string>
+	<string id="esc_wait_scientist_name">
+		<text>Oh no, measurements!: Protect the scientist</text>
+	</string>
+	<string id="esc_wait_scientist_desc">
+		<text>I decided to work on Sidorovich. The first task is to protect the scientist while he makes some measurements or like that.</text>
+	</string>
+	<string id="esc_scientist_out_sidor_name">
+		<text>Oh yes, no measurement?: Tell Sidorovich about what happened</text>
+	</string>
+	<string id="esc_scientist_out_sidor_desc">
+		<text>The scientist is gone ... We need to tell Sidorovich about this.</text>
+	</string>
+	<string id="esc_meet_the_novice_name">
+		<text>Fresh blood: meet a beginner</text>
+	</string>
+	<string id="esc_meet_the_novice_desc">
+		<text>A newcomer came to the zone. You need to meet it and spend it to the village.</text>
+	</string>
+	<string id="esc_follow_novice_sidor_name">
+		<text>Fresh blood: to spend a newcomer to the village</text>
+	</string>
+	<string id="esc_follow_novice_sidor_desc">
+		<text>A newcomer came to the zone. It is necessary to spend to the village.</text>
+	</string>
+	<string id="esc_kill_dogs_name">
+		<text>Fresh blood: Kill dogs</text>
+	</string>
+	<string id="esc_kill_dogs_desc">
+		<text>Chiens came across on the way. We need to kill them.</text>
+	</string>
+	<string id="esc_wtf_novice_sidor_name">
+		<text>Fresh blood: talk to a newcomer</text>
+	</string>
+	<string id="esc_wtf_novice_sidor_desc">
+		<text>The beginner got up and considers something. You need to find out what he saw there.</text>
+	</string>
+	<string id="esc_kill_boar_novice_name">
+		<text>Fresh Blood: Kill the Boar</text>
+	</string>
+	<string id="esc_kill_boar_novice_desc">
+		<text>Suddenly a boar appeared. You need to kill him.</text>
+	</string>
+	<string id="esc_speak_novice_end_name">
+		<text>Fresh blood: talk to a newcomer</text>
+	</string>
+	<string id="esc_speak_novice_end_desc">
+		<text>The wild boar is dead. We are already near the village. You need to bring a beginner to her.</text>
+	</string>
+	<string id="esc_back_to_sidor_novice_name">
+		<text>Fresh blood: tell Sidorovich about the situation</text>
+	</string>
+	<string id="esc_back_to_sidor_novice_desc">
+		<text>The newcomer just escaped! Frightened the boar! And how many ambitions there were ... There are no words - only emotions. You need to tell Sidorovich.</text>
+	</string>
+	<string id="esc_check_underground_strange_name">
+		<text>Here people e ...: inspect the basement</text>
+	</string>
+	<string id="esc_check_underground_strange_desc">
+		<text>I made my way through the barricades in the basement of the village of Novichkov. You need to inspect it.</text>
+	</string>
+	<string id="esc_meet_mercs_name">
+		<text>Signal is: meet unknown</text>
+	</string>
+	<string id="esc_meet_mercs_desc">
+		<text>I caught some signal. It seems that someone just came to the house opposite the farm. In the same place where I found Plush. You need to meet them.</text>
+	</string>
+	<string id="esc_speak_mercs_lead_name">
+		<text>There is a signal: talk to the leader of the mercenaries</text>
+	</string>
+	<string id="esc_speak_mercs_lead_desc">
+		<text>I came to the mercenaries. You need to find out what they are doing here.</text>
+	</string>
+	<string id="esc_back_to_panatseya_final_name">
+		<text>Signal is: Return to Plush</text>
+	</string>
+	<string id="esc_back_to_panatseya_final_desc">
+		<text>I was cut down. Things are in place, which is surprising. It is a pity that now I do not know what they are plotting.</text>
+	</string>
+	<string id="esc_find_item_1_army_name">
+		<text>Eternal torment: find a gun</text>
+	</string>
+	<string id="esc_find_item_1_army_desc">
+		<text>The military left a gun in the middle of the minefield. How?! Don't know. It should be at the fallen tree at the fence. It is necessary to carefully pick it up.</text>
+	</string>
+	<string id="esc_back_item_1_army_name">
+		<text>Eternal torment: Return the gun</text>
+	</string>
+	<string id="esc_back_item_1_army_desc">
+		<text>I found a gun. We must get out of the field and give the military gun.</text>
+	</string>
+	<string id="esc_find_item_2_army_name">
+		<text>Trauman: Find a frying on a checkpoint</text>
+	</string>
+	<string id="esc_find_item_2_army_desc">
+		<text>The military somewhere lost a lighter on a checkpoint. You need to find it. Oh God ...</text>
+	</string>
+	<string id="esc_back_item_2_army_name">
+		<text>Grass: Return the lighter</text>
+	</string>
+	<string id="esc_back_item_2_army_desc">
+		<text>I found a lighter. And a hundred years have not passed ...</text>
+	</string>
+	<string id="esc_find_losted_army_name">
+		<text>The diary of the future: find the lost military</text>
+	</string>
+	<string id="esc_find_losted_army_desc">
+		<text>The military went crazy and went to the elevator. You need to find it.</text>
+	</string>
+	<string id="esc_kill_chimera_army_name">
+		<text>The diary of the future: kill the chimera</text>
+	</string>
+	<string id="esc_kill_chimera_army_desc">
+		<text>Chimères! You need to kill her.</text>
+	</string>
+	<string id="esc_talk_with_losted_army_name">
+		<text>Diary of the future: talk to the military</text>
+	</string>
+	<string id="esc_talk_with_losted_army_desc">
+		<text>The chimera is dead. We need to talk to the military.</text>
+	</string>
+	<string id="esc_final_3_army_quest_end_name">
+		<text>The diary of the future: report to the military on the implementation</text>
+	</string>
+	<string id="esc_final_3_army_quest_end_desc">
+		<text>The military is saved. I must say that you need to go.</text>
+	</string>
+	<string id="esc_final_1_army_quest_name">
+		<text>Eternal torment: talk to flour</text>
+	</string>
+	<string id="esc_final_1_army_quest_desc">
+		<text>We need to talk to the flour.</text>
+	</string>
+	<string id="esc_final_2_army_quest_name">
+		<text>Grass: talk to Travin</text>
+	</string>
+	<string id="esc_final_2_army_quest_desc">
+		<text>We need to talk with Travin.</text>
+	</string>
+	<string id="esc_final_3_army_quest_name">
+		<text>The diary of the future: talk to the dodger</text>
+	</string>
+	<string id="esc_final_3_army_quest_desc">
+		<text>We need to talk with the dump.</text>
+	</string>
+	<string id="esc_check_trader_dead_name">
+		<text>Many dreams: check Sidorovich</text>
+	</string>
+	<string id="esc_check_trader_dead_desc">
+		<text>Sidor did not get in touch for a long time. You need to check it.</text>
+	</string>
+	<string id="esc_speak_with_kogot_trader_dead_name">
+		<text>Many dreams of many: talk with a claw</text>
+	</string>
+	<string id="esc_speak_with_kogot_trader_dead_desc">
+		<text>There is no Sidorovich. We need to ask the claw where he was gone.</text>
+	</string>
+	<string id="lab_main_task_name">
+		<text>Fear of the unknown: go through catacombs</text>
+	</string>
+	<string id="lab_main_task_desc">
+		<text>You need to make your way through the catacombs to the laboratory.</text>
+	</string>
+	<string id="lab_final_doors_open_name">
+		<text>Fear of the unknown: find a way to open the door</text>
+	</string>
+	<string id="lab_final_doors_open_desc">
+		<text>You need to make your way through the catacombs to the laboratory.</text>
+	</string>
+	<string id="lab_take_nach_book_name">
+		<text>Fear of the unknown: pick up notes</text>
+	</string>
+	<string id="lab_take_nach_book_desc">
+		<text>You need to choose the notes.</text>
+	</string>
+	<string id="lab_final_door_destroyed_name">
+		<text>Fear of the unknown: Leave the catacombs</text>
+	</string>
+	<string id="lab_final_door_destroyed_desc">
+		<text>You need to leave the catacombs by readiness.</text>
+	</string>
+	<string id="lbx_kill_everybody_name">
+		<text>Moment of the reckoning: kill everyone</text>
+	</string>
+	<string id="lbx_kill_everybody_desc">
+		<text>It is necessary to kill everyone who stands in their way.</text>
+	</string>
+	<string id="lbx_find_dollzhnik_name">
+		<text>Moment of reckoning: Find a missionary</text>
+	</string>
+	<string id="lbx_find_dollzhnik_desc">
+		<text>I will kill him.</text>
+	</string>
+	<string id="lbx_kill_dollzhnik_name">
+		<text>Moment of the reckoning: kill a missionary</text>
+	</string>
+	<string id="lbx_kill_dollzhnik_desc">
+		<text>Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life.</text>
+	</string>
+	<string id="lbx_kill_thing_name">
+		<text>Moment of the reckoning: Kill "Quasar"</text>
+	</string>
+	<string id="lbx_kill_thing_desc">
+		<text>Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life. Life.</text>
+	</string>
+</string_table>
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="st_ui_pda_legend_vip">
+		<text>An important character</text>
+	</string>
+	<string id="bar">
+		<text>Have</text>
+	</string>
+	<string id="cubix">
+		<text>Unknown</text>
+	</string>
+	<string id="catacomb_xs">
+		<text>Catacombs</text>
+	</string>
+	<string id="laba_x">
+		<text>Laboratory "Irididius"</text>
+	</string>
+	<string id="prostranstvenniy_puzir">
+		<text>Start</text>
+	</string>
+	<string id="way_in_zone">
+		<text>Unknown</text>
+	</string>
+	<string id="limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="derevnya">
+		<text>Village "Kolotushki"</text>
+	</string>
+	<string id="escape">
+		<text>Border</text>
+	</string>
+	<string id="escape_memmory">
+		<text>Border</text>
+	</string>
+	<string id="Time">
+		<text>Time</text>
+	</string>
+	<string id="actor">
+		<text>Stalker</text>
+	</string>
+	<string id="actor_alt">
+		<text>"Kvazar"</text>
+	</string>
+	<string id="actor_bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="quasar">
+		<text>"Kvazar"</text>
+	</string>
+	<string id="army">
+		<text>Military</text>
+	</string>
+	<string id="bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="dolg">
+		<text>«Long»</text>
+	</string>
+	<string id="ecolog">
+		<text>Dealer</text>
+	</string>
+	<string id="filter_secondary_tasks_text">
+		<text>Passionate tasks</text>
+	</string>
+	<string id="filter_treasures_text">
+		<text>Caches</text>
+	</string>
+	<string id="freedom">
+		<text>«Freedom»</text>
+	</string>
+	<string id="killer">
+		<text>Mercenary</text>
+	</string>
+	<string id="missions_list">
+		<text>The list is given</text>
+	</string>
+	<string id="monolith">
+		<text>"Monolith"</text>
+	</string>
+	<string id="monster">
+		<text>Mutant</text>
+	</string>
+	<string id="month_april">
+		<text>April</text>
+	</string>
+	<string id="month_august">
+		<text>August</text>
+	</string>
+	<string id="month_december">
+		<text>December</text>
+	</string>
+	<string id="month_february">
+		<text>February</text>
+	</string>
+	<string id="month_january">
+		<text>January</text>
+	</string>
+	<string id="month_july">
+		<text>July</text>
+	</string>
+	<string id="month_june">
+		<text>June</text>
+	</string>
+	<string id="month_march">
+		<text>March</text>
+	</string>
+	<string id="month_may">
+		<text>May</text>
+	</string>
+	<string id="month_november">
+		<text>November</text>
+	</string>
+	<string id="month_october">
+		<text>October</text>
+	</string>
+	<string id="month_september">
+		<text>September</text>
+	</string>
+	<string id="pda_btn_close">
+		<text>Turn off the PDA</text>
+	</string>
+	<string id="pda_btn_logs">
+		<text>The history of messages</text>
+	</string>
+	<string id="pda_btn_logs_hint">
+		<text>Show the history of messages</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>The map of the area</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>Show a map of the zone and a list of tasks</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>Statistics</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>Show personal statistics</text>
+	</string>
+	<string id="pda_cur_time">
+		<text>Currently:</text>
+	</string>
+	<string id="pda_date_filter">
+		<text>Date filter</text>
+	</string>
+	<string id="pda_filter_news">
+		<text>Show the news</text>
+	</string>
+	<string id="pda_filter_talk">
+		<text>Show dialogs</text>
+	</string>
+	<string id="pda_legend_caption">
+		<text>Conditions</text>
+	</string>
+	<string id="pda_stat_1">
+		<text>Time in the zone:</text>
+	</string>
+	<string id="pda_stat_2">
+		<text>Experienced emissions:</text>
+	</string>
+	<string id="pda_stat_3">
+		<text>Completed tasks:</text>
+	</string>
+	<string id="pda_stat_4">
+		<text>The mutants were killed:</text>
+	</string>
+	<string id="pda_stat_5">
+		<text>The stalkers were killed:</text>
+	</string>
+	<string id="pda_stat_6">
+		<text>Found artifacts:</text>
+	</string>
+	<string id="pda_stat_7">
+		<text>Found caches:</text>
+	</string>
+	<string id="pda_stat_favorite_weapon">
+		<text>Favorite weapons</text>
+	</string>
+	<string id="pda_stat_mutant_killed">
+		<text>The strongest murdered mutant</text>
+	</string>
+	<string id="st_location">
+		<text>Location:</text>
+	</string>
+	<string id="st_target">
+		<text>Target</text>
+	</string>
+	<string id="st_ui_pda_legend_additional_task">
+		<text>Side task</text>
+	</string>
+	<string id="st_ui_pda_legend_enemies">
+		<text>Enemies</text>
+	</string>
+	<string id="st_ui_pda_legend_friends">
+		<text>Friends</text>
+	</string>
+	<string id="st_ui_pda_legend_leader">
+		<text>The leader of the group</text>
+	</string>
+	<string id="st_ui_pda_legend_main_task">
+		<text>The main task</text>
+	</string>
+	<string id="st_ui_pda_legend_neutrals">
+		<text>Neutral</text>
+	</string>
+	<string id="st_ui_pda_legend_scout">
+		<text>Conductor</text>
+	</string>
+	<string id="st_ui_pda_legend_secrets">
+		<text>Caches</text>
+	</string>
+	<string id="st_ui_pda_legend_squad">
+		<text>The commander of the detachment</text>
+	</string>
+	<string id="st_ui_pda_legend_trader">
+		<text>Dealer</text>
+	</string>
+	<string id="stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="ui_logs_center_caption">
+		<text>The history of messages</text>
+	</string>
+	<string id="ui_map_btn_center">
+		<text>Center on the player</text>
+	</string>
+	<string id="ui_map_btn_down">
+		<text>Move down</text>
+	</string>
+	<string id="ui_map_btn_left">
+		<text>Move to the left</text>
+	</string>
+	<string id="ui_map_btn_legend">
+		<text>Show the legend</text>
+	</string>
+	<string id="ui_map_btn_right">
+		<text>Move to the right</text>
+	</string>
+	<string id="ui_map_btn_up">
+		<text>Move up</text>
+	</string>
+	<string id="ui_map_btn_zmreset">
+		<text>Maximum distance</text>
+	</string>
+	<string id="ui_map_btn_zoom_in">
+		<text>Bring closer</text>
+	</string>
+	<string id="ui_map_btn_zoom_out">
+		<text>Rigate</text>
+	</string>
+	<string id="ui_ranking_center_caption">
+		<text>Achievements</text>
+	</string>
+	<string id="ui_task_btn_focus_center">
+		<text>Centr</text>
+	</string>
+	<string id="ui_task_btn_focus_center2">
+		<text>Centr</text>
+	</string>
+	<string id="zombied">
+		<text>Zombie</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>scale +</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>scale -</text>
+	</string>
+	<string id="st_ui_pda_legend_mechanic">
+		<text>Technique</text>
+	</string>
+	<string id="st_ui_pda_legend_medic">
+		<text>Medic</text>
+	</string>
+	<string id="ui_pda_secondary_task">
+		<text>Current tasks</text>
+	</string>
+	<string id="ui_show_second_task_wnd">
+		<text>Hide or display a list of tasks</text>
+	</string>
+	<string id="st_ui_pda_actor_box">
+		<text>Personal box</text>
+	</string>
+	<string id="filter_primary_objects_text">
+		<text>Locations</text>
+	</string>
+	<string id="filter_quest_npcs_text">
+		<text>Important objects</text>
+	</string>
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>Location</text>
+	</string>
+	<string id="st_jup_b32_has_af">
+		<text>Scanners record the presence of artifacts:</text>
+	</string>
+	<string id="st_jup_b32_no_af">
+		<text>According to scanners, artifacts are absent</text>
+	</string>
+	<string id="st_ui_pda_secret">
+		<text>Cache</text>
+	</string>
+	<string id="st_ui_pda_sleep_place">
+		<text>Place of sleep</text>
+	</string>
+	<string id="esc_blockpost_name">
+		<text>South checkpoint</text>
+	</string>
+	<string id="esc_derevnya_name">
+		<text>The village of Novichkov</text>
+	</string>
+	<string id="esc_camp_name">
+		<text>Lager in a checkpoint</text>
+	</string>
+	<string id="esc_lil_most_name">
+		<text>Small bridge</text>
+	</string>
+	<string id="esc_atp_name">
+		<text>ATP</text>
+	</string>
+	<string id="esc_elevator_name">
+		<text>Elevator</text>
+	</string>
+	<string id="esc_tunnel_dol_name">
+		<text>The tunnel in the hollow</text>
+	</string>
+	<string id="esc_tunnel_most_name">
+		<text>Tunnel under the piece of iron</text>
+	</string>
+	<string id="esc_svinoferm_name">
+		<text>Swinoferma</text>
+	</string>
+	<string id="esc_crushed_house_name">
+		<text>Destroyed farm</text>
+	</string>
+	<string id="esc_kpp_name">
+		<text>Dead checkpoint</text>
+	</string>
+	<string id="esc_telpovoz_name">
+		<text>Fallen diesel locomotive</text>
+	</string>
+	<string id="esc_hide_camp_name">
+		<text>Secretive camp</text>
+	</string>
+	<string id="esc_to_gar_name">
+		<text>The camp in front of the landfill</text>
+	</string>
+	<string id="esc_chemical_name">
+		<text>%C [255,0,255.0] Chemical abnormal zone</text>
+	</string>
+	<string id="esc_musorka_name">
+		<text>%C [255,255,155.0] gravitational abnormal zone</text>
+	</string>
+	<string id="esc_big_most_name">
+		<text>%C [255,0,255,255] Electric abnormal zone</text>
+	</string>
+	<string id="esc_thermal_name">
+		<text>%C [255,255,0,0] Thermal abnormal area</text>
+	</string>
+</string_table>
+
+<!-- Translation made with Stalker Translation XML TOOL -->
+<!-- https://www.moddb.com/mods/stalker-anomaly/addons/stalker-translation-xml-tool-v12-executable-version -->
